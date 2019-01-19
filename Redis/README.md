@@ -1,0 +1,26 @@
+
+
+
+
+# 有用的参考
+
+* [Redis 的 4 大法宝，必学中间件！](https://mp.weixin.qq.com/s/nNBqaePFY2H9fR8KhyNigg)
+* [史上最全 Redis 高可用解决方案总结](https://mp.weixin.qq.com/s/VjjEFyVOo2krICWBV3kEsg)
+* [Redis 的 8 大应用场景！](https://mp.weixin.qq.com/s/dM3sMeWvTswAjG8WwtL0Rw)
+* [Redis 为什么这么快？](https://mp.weixin.qq.com/s/75uewvZWpSzxRbVvOrcOcg)
+* [Redis 常用操作命令，非常详细！](https://mp.weixin.qq.com/s/k-yBobqsm0kOzdhcrM-jmg)
+* [为什么分布式一定要有Redis?](https://mp.weixin.qq.com/s/mmDo7_ogqxtoxwfKpe9cYg)
+* [深度历险：Redis 内存模型详解](https://mp.weixin.qq.com/s/Gp6Ur7omGY6ZqDWygU2meQ)
+* [Redis 高可用特性之 “持久化” 详解](https://mp.weixin.qq.com/s/_p9y8-s12TMqvg-vBohTRA)
+* [Redis PK Memcached 哪个更牛叉？](https://mp.weixin.qq.com/s/2G8x80EkOsoZorRuWy9Udw)
+* [Redis Linux 安装运行实战全记录](https://mp.weixin.qq.com/s/LPYtARH7gatQV8_WUm55hg)
+* [Spring Data Redis 详解及实战](https://mp.weixin.qq.com/s/dFnP3URKidfwwFU5gCYAHw)
+* [Redis 再牛逼，也得设置密码！](https://mp.weixin.qq.com/s/0rkyDbQL7AnR5qlYRpjP9Q)
+* [Redis Cluster 官方集群搭建指南](https://mp.weixin.qq.com/s/JovHvVnNDWUwCF09UuWSeA)
+* [Spring Boot Redis Cluster 实战干货](https://mp.weixin.qq.com/s/K0q8brB1ZAFz_bU50yu4NA)
+* [Redis 如何分析慢查询操作？](https://mp.weixin.qq.com/s/VOmNjBQzzk3Tibyvse7T6A)
+* [3 台机器搞定一个 Redis 高可用架构](https://mp.weixin.qq.com/s/fwmC4TM593SG25wl58Vpqg)
+* [一个致命 Redis 命令，损失 400 万！](https://mp.weixin.qq.com/s/MzkvQG2mFyvTNegFX52ztg)
+* [Redis 这么火，它都解决了哪些问题？](https://mp.weixin.qq.com/s/vzIJ9jlaQGcarNAAH2tkNg)
+* [Redis中文网](http://www.redis.cn/)
+* [redis 菜鸟教程](http://www.runoob.com/redis/redis-tutorial.html)
