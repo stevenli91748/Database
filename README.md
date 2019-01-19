@@ -6,6 +6,7 @@
 * SQL Database
   * [Mybatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/README.md)
 * NON-SQL Database
+  * [Redis](https://github.com/stevenli91748/Distributed-System/blob/master/Types%20of%20system/Redis/README.md)
 * Distribute Database
 
 
