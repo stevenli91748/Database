@@ -3,7 +3,10 @@
 
 
 # 有用的参考
-
+* [Redis官网](https://redis.io/)
+* [Redis作者的网站](http://antirez.com/latest/0)
+* [Redis 展模块](https://redis.io/modules)
+* [Redis: under the hood--高质量的文章 带你一步步的阅读Redis源代码](https://pauladamsmith.com/articles/redis-under-the-hood.html)
 * [Redis 的 4 大法宝，必学中间件！](https://mp.weixin.qq.com/s/nNBqaePFY2H9fR8KhyNigg)
 * [史上最全 Redis 高可用解决方案总结](https://mp.weixin.qq.com/s/VjjEFyVOo2krICWBV3kEsg)
 * [Redis 的 8 大应用场景！](https://mp.weixin.qq.com/s/dM3sMeWvTswAjG8WwtL0Rw)
@@ -24,3 +27,4 @@
 * [Redis 这么火，它都解决了哪些问题？](https://mp.weixin.qq.com/s/vzIJ9jlaQGcarNAAH2tkNg)
 * [Redis中文网](http://www.redis.cn/)
 * [redis 菜鸟教程](http://www.runoob.com/redis/redis-tutorial.html)
+
