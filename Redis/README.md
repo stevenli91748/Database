@@ -46,4 +46,5 @@
 * [Redis 这么火，它都解决了哪些问题？](https://mp.weixin.qq.com/s/vzIJ9jlaQGcarNAAH2tkNg)
 * [Redis中文网](http://www.redis.cn/)
 * [redis 菜鸟教程](http://www.runoob.com/redis/redis-tutorial.html)
+* [一分钟搞定Windoｗs7下安装Redis 及如何使用redis可视化管理工具](https://blog.csdn.net/WYpersist/article/details/81211345)
 
