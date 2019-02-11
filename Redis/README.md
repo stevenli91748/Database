@@ -26,6 +26,7 @@ c:\redis-2.4.5-win32-win64
 
 # 有用的参考
 * [Redis官网](https://redis.io/)
+* [一分钟搞定Windoｗs10下安装Redis 及如何使用redis可视化管理工具](https://blog.csdn.net/WYpersist/article/details/81211345)
 * [Redis作者的网站](http://antirez.com/latest/0)
 * [Redis 展模块](https://redis.io/modules)
 * [Redis: under the hood--高质量的文章 带你一步步的阅读Redis源代码](https://pauladamsmith.com/articles/redis-under-the-hood.html)
@@ -49,5 +50,5 @@ c:\redis-2.4.5-win32-win64
 * [Redis 这么火，它都解决了哪些问题？](https://mp.weixin.qq.com/s/vzIJ9jlaQGcarNAAH2tkNg)
 * [Redis中文网](http://www.redis.cn/)
 * [redis 菜鸟教程](http://www.runoob.com/redis/redis-tutorial.html)
-* [一分钟搞定Windoｗs7下安装Redis 及如何使用redis可视化管理工具](https://blog.csdn.net/WYpersist/article/details/81211345)
+
 
