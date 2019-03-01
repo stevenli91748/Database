@@ -64,5 +64,6 @@ c:\redis-2.4.5-win32-win64
 * [Redis 这么火，它都解决了哪些问题？](https://mp.weixin.qq.com/s/vzIJ9jlaQGcarNAAH2tkNg)
 * [Redis中文网](http://www.redis.cn/)
 * [redis 菜鸟教程](http://www.runoob.com/redis/redis-tutorial.html)
+* [Redis集群实现原理探讨](https://tech.youzan.com/redisji-qun-shi-xian-yuan-li-tan-tao/)
 
 
