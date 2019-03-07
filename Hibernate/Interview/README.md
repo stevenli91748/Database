@@ -24,3 +24,4 @@
 
 124.hibernate 实体类必须要有无参构造函数吗？为什么？
 
+* [Hibernate面试精华知识点---------不看你会后悔](https://blog.csdn.net/Cs_hnu_scw/article/details/78762294)
