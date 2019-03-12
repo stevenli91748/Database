@@ -66,5 +66,6 @@ c:\redis-2.4.5-win32-win64
 * [redis 菜鸟教程](http://www.runoob.com/redis/redis-tutorial.html)
 * [Redis集群实现原理探讨](https://tech.youzan.com/redisji-qun-shi-xian-yuan-li-tan-tao/)
 * [拜托，面试请不要再问我Redis分布式锁的实现原理！](https://juejin.im/post/5bf3f15851882526a643e207)
+* [面试请不要再问我Redis分布式锁的实现原理！](https://juejin.im/post/5bf3f15851882526a643e207)
 
 
