@@ -2,12 +2,34 @@
 
 
 # 目录
-
+* [数据库概述](#数据库概述)
 * SQL Database
   * [Mybatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/README.md)
 * NON-SQL Database
   * [Redis](https://github.com/stevenli91748/Distributed-System/blob/master/Types%20of%20system/Redis/README.md)
 * Distribute Database
+
+## 数据库概述
+
+数据库的高性能方案有：优化当前数据库，和建立集群。
+当数据库开始出现性能下降的时候，最优先的方案是：优化当前数据库的性能，而非立刻建立集群。应该保持简单原则，毕竟会增加很大复杂度。
+
+1.当前数据库优化策略：
+
+建立索引
+优化sql
+使用效率更高的操作方式。如大量数据批量插入。
+2.建立集群：
+
+读写分离
+从库的负载均衡
+分片、分库、分表（sharding）
+3.mysql集群搭建方案：
+
+使用官方推荐：Mysql Cluster方案
+使用mysql中间件atlas方案
+其他集群方案
+
 
 
 # 有用的参考
