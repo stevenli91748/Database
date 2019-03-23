@@ -35,6 +35,7 @@
 
 
 # 有用的参考
+ * [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 * [学习数据库从入门到进阶书籍pdf版吐血整理推荐（珍藏版）](https://pymlovelyq.github.io/2018/10/12/database/)
 
 * [如何设计一个数据库中间件](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247483731&idx=1&sn=becba16988f25998d910bc27016de015&chksm=a69dac6d91ea257bea56e75e41c5fd06a3dee892c2a2f57e22202402b68931463adf471bcb13&scene=21#wechat_redirect)
