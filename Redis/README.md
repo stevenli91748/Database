@@ -70,3 +70,9 @@ c:\redis-2.4.5-win32-win64
 * [Redis 入门到分布式实践](https://gitbook.cn/m/mazi/comp/column?columnId=5a55d8e232c7126d8482f5d2&utm_source=columnweixinshare&utm_campaign=Redis%20%E5%85%A5%E9%97%A8%E5%88%B0%E5%88%86%E5%B8%83%E5%BC%8F%E5%AE%9E%E8%B7%B5)
 * [非常值得一看的35个Redis面试题总结](https://zhuanlan.zhihu.com/p/63209388?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 * [Spring-Boot-操作-Redis，三种方案全解析！](https://blog.csdn.net/u012702547/article/details/90746640)
+* [Redis 主从集群搭建及哨兵模式配置](https://www.cnblogs.com/qinxu/p/9633418.html)
+* [redis主从集群搭建及容灾部署(哨兵sentinel)](https://www.cnblogs.com/linuxbug/p/5131504.html)
+### 实战
+
+* [企业级nosql数据库应用与实战-redis](https://www.cnblogs.com/keerya/p/8127716.html)
+* [项目实战11—企业级nosql数据库应用与实战-redis的主从和集群](https://www.cnblogs.com/along21/p/8027206.html)
