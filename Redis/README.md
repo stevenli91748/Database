@@ -72,6 +72,7 @@ c:\redis-2.4.5-win32-win64
 * [Spring-Boot-操作-Redis，三种方案全解析！](https://blog.csdn.net/u012702547/article/details/90746640)
 * [Redis 主从集群搭建及哨兵模式配置](https://www.cnblogs.com/qinxu/p/9633418.html)
 * [redis主从集群搭建及容灾部署(哨兵sentinel)](https://www.cnblogs.com/linuxbug/p/5131504.html)
+* [你需要知道的那些 redis 数据结构（前篇）](https://blog.csdn.net/lpd_tech/article/details/92812425)
 ### 实战
 
 * [企业级nosql数据库应用与实战-redis](https://www.cnblogs.com/keerya/p/8127716.html)
