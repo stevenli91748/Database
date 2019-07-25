@@ -78,3 +78,4 @@ c:\redis-2.4.5-win32-win64
 * [企业级nosql数据库应用与实战-redis](https://www.cnblogs.com/keerya/p/8127716.html)
 * [项目实战11—企业级nosql数据库应用与实战-redis的主从和集群](https://www.cnblogs.com/along21/p/8027206.html)
 * [redis超强超详细的入门教程](https://blog.csdn.net/miss_mindada/article/details/79598704)
+* [从单机到2000万QPS并发的Redis高性能缓存实践之路](http://www.52im.net/thread-1968-1-1.html)
