@@ -11,7 +11,20 @@
 * NON-SQL Database
   * [Redis](https://github.com/stevenli91748/Distributed-System/blob/master/Types%20of%20system/Redis/README.md)
 * Distribute Database
-
+* 文件存储
+  * 小文件存储
+    * HBase
+    * Hadoop
+    * Hypertable
+    * FastDFS
+    * TFS(taobao)
+    * JFS(JD)
+    * Haystack(facebook)
+  * 大文件存储
+    * Hadoop
+    * HBase
+    * Storm
+    * Hive
 ## 数据库概述
 
 数据库的高性能方案有：优化当前数据库，和建立集群。
