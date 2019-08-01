@@ -10,6 +10,8 @@
   * [Mybatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/README.md)
 * NON-SQL Database
   * [Redis](https://github.com/stevenli91748/Distributed-System/blob/master/Types%20of%20system/Redis/README.md)
+  * MongoDB
+  * Memcache
 * Distribute Database
 * 文件存储
   * 小文件存储
