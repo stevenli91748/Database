@@ -73,6 +73,11 @@ c:\redis-2.4.5-win32-win64
 * [Redis 主从集群搭建及哨兵模式配置](https://www.cnblogs.com/qinxu/p/9633418.html)
 * [redis主从集群搭建及容灾部署(哨兵sentinel)](https://www.cnblogs.com/linuxbug/p/5131504.html)
 * [你需要知道的那些 redis 数据结构（前篇）](https://blog.csdn.net/lpd_tech/article/details/92812425)
+* [Redis 和 Memcached 有什么区别？Redis 的线程模型是什么？为什么单线程的 Redis 比多线程的 Memcached 效率要高得多？](https://www.javazhiyin.com/22943.html)
+* [Redis 集群模式的工作原理能说一下么？在集群模式下，Redis 的 key 是如何寻址的？分布式寻址都有哪些算法？了解一致性 hash 算法吗？如何动态增加和删除一个节点？](https://www.javazhiyin.com/22957.html)
+
+
+
 ### 实战
 
 * [企业级nosql数据库应用与实战-redis](https://www.cnblogs.com/keerya/p/8127716.html)
