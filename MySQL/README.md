@@ -12,3 +12,4 @@ psw:     gz19731108
 # 有用的参考
 
 * [Navicat for MySQL 安装和破解（完美）](https://blog.csdn.net/wypersist/article/details/79834490)
+* [Mysql分库分表方案](https://www.javazhiyin.com/10518.html)
