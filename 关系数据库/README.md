@@ -1,6 +1,6 @@
 
 * [关系数据库的缺点](#关系数据库的缺点)
-* [高性能数据库](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/关系数据库集群.md)
+* [高性能关系数据库](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/关系数据库集群.md)
 
 
 
