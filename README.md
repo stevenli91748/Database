@@ -8,7 +8,7 @@
   * PostgreSQL
   * ORACLE
   * [Mybatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/README.md)
-* [NON-SQL Database](https://github.com/stevenli91748/Database/blob/master/NoSQL/README.md)
+* [NON-SQL Database](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/NoSQL数据库集群.md)
   * [Redis](https://github.com/stevenli91748/Distributed-System/blob/master/Types%20of%20system/Redis/README.md)
   * MongoDB
   * Memcache
