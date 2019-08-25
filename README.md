@@ -9,10 +9,10 @@
   * ORACLE
   * [Mybatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/README.md)
 * [NON-SQL Database](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/NoSQL数据库集群.md)
-  * [K-V存储---解决关系数据库无法存储数据结构的问题，以Redis 为代表](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
-  * [文档数据库---解决关系数据库强schema 约束的问题，以MongoDB 为代表](https://github.com/stevenli91748/Database/blob/master/MongoDB/README.md)
-  * [列式数据库： 解决关系数据库大数据场景下的I/O 问题，以HBase 为代表](https://github.com/stevenli91748/Database/blob/master/HBase/README.md)
-  * [全文搜索引擎：解决关系数据库的全文搜索性能问题，以Elasticsearch 为代表](https://github.com/stevenli91748/Database/blob/master/Elasticsearch/README.md)
+  * K-V存储---解决关系数据库无法存储数据结构的问题，以Redis 为代表
+  * 文档数据库---解决关系数据库强schema 约束的问题，以MongoDB 为代表
+  * 列式数据库： 解决关系数据库大数据场景下的I/O 问题，以HBase 为代表
+  * 全文搜索引擎：解决关系数据库的全文搜索性能问题，以Elasticsearch 为代表
   * Memcache
 * Distribute Database
 * 文件存储
