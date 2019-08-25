@@ -17,7 +17,7 @@
 * Distribute Database
 * 文件存储
   * 小文件存储
-    * HBase
+    * [HBase](https://github.com/stevenli91748/Database/blob/master/HBase/README.md)
     * Hadoop
     * Hypertable
     * FastDFS
@@ -26,7 +26,7 @@
     * Haystack(facebook)
   * 大文件存储
     * Hadoop
-    * HBase
+    * [HBase](https://github.com/stevenli91748/Database/blob/master/HBase/README.md)
     * Storm
     * Hive
 ## 数据库概述
