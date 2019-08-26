@@ -1,5 +1,20 @@
 * [缓存概述](#缓存概述)
 * [缓存种类](#缓存种类)
+  * [Client caching]
+  * [HTTP  Caching]  
+    * [HTTP----HTTP缓存机制](https://juejin.im/post/5a1d4e546fb9a0450f21af23)
+  * [CDN caching]
+  * [Web server caching ]
+  * [Database caching]
+  * [Application caching]
+  * [Caching at database query level]
+  * [Caching at object level]
+  * [When to update the cache]
+    * [Cache aside]
+    * [Write through]
+    * [Write behind]
+    * [Refresh ahead]
+
 * 缓存架构设计要点
   * [缓存穿透](#缓存穿透)
   * [缓存雪崩](#缓存雪崩)
