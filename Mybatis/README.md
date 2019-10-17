@@ -1,7 +1,10 @@
 
 
 
+# Mybatis 视频
 
+* [Mybatis 2019_IDEA版(上)](https://www.bilibili.com/video/av49974308/?spm_id_from=333.788.videocard.1)
+* [Mybatis 2019_IDEA版(下)](https://www.bilibili.com/video/av49974607/?spm_id_from=333.788.videocard.3)
 
 # 有用的参考
 
