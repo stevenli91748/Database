@@ -64,6 +64,17 @@ c:\redis-2.4.5-win32-win64
    当然，除了Redis集群外，还有codis的分布式方案，codis基于代理的方式来实现，表面上还是使用原来的Redis API,但实际上访问的却是一个Redis集群。
 
 
+
+# Redis 视频
+
+ [Redis-尚硅谷](https://www.bilibili.com/video/av51139549/?spm_id_from=333.788.videocard.3)
+ 
+ [Redis从入门到精通高级进阶精讲](https://www.bilibili.com/video/av64175711/?spm_id_from=333.788.videocard.7)
+ 
+ [一线互联网公司Redis应用场景及实例分析全集](https://www.bilibili.com/video/av65345121/?spm_id_from=333.788.videocard.7)
+ 
+ [最通俗易懂的Redis实战教程全套学习视频](https://www.bilibili.com/video/av69077771/?spm_id_from=333.788.videocard.10)
+
 # 有用的参考
 * [Redis官网](https://redis.io/)
 * [一分钟搞定Windoｗs10下安装Redis 及如何使用redis可视化管理工具](https://blog.csdn.net/WYpersist/article/details/81211345)
