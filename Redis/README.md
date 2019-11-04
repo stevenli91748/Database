@@ -72,6 +72,7 @@ c:\redis-2.4.5-win32-win64
  * [一线互联网公司Redis应用场景及实例分析全集](https://www.bilibili.com/video/av65345121/?spm_id_from=333.788.videocard.7)
  * [最通俗易懂的Redis实战教程全套学习视频](https://www.bilibili.com/video/av69077771/?spm_id_from=333.788.videocard.10)
  * [Session复制与 Redis Session共享解决方案](https://www.bilibili.com/video/av24880545/?spm_id_from=333.788.videocard.0)
+ * [Redis实现高并发分布式锁](https://www.bilibili.com/video/av50734378/?spm_id_from=333.788.videocard.13)
  
 # 有用的参考
 * [Redis官网](https://redis.io/)
