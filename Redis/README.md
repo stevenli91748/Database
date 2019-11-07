@@ -75,6 +75,7 @@ c:\redis-2.4.5-win32-win64
  * [Redis实现高并发分布式锁](https://www.bilibili.com/video/av50734378/?spm_id_from=333.788.videocard.13)
  * [Redis分布式锁实战,代码超详细剖析高并发多场景可能存在的问题](https://www.bilibili.com/video/av73272760)
  * [Redis源码分析分布式架构下带你看透分布式锁](https://www.bilibili.com/video/av73390230)
+ * [80分钟彻底搞懂Java分布式Redis高并发分布式锁实战](https://www.bilibili.com/video/av65046089)
  
 # 有用的参考
 * [Redis官网](https://redis.io/)
