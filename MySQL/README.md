@@ -11,6 +11,7 @@ psw:     gz19731108
 
  * [MySQL数据库视频教程老杜最新MySQL教程](https://www.bilibili.com/video/av57575364/?spm_id_from=333.788.videocard.16)
  * [数据库 MySQL 视频教程全集](https://www.bilibili.com/video/av59623481/?spm_id_from=333.788.videocard.1)
+ * [MySQL 国内知名BAT级DBA大神主讲 学完25万年薪起](https://www.bilibili.com/video/av62508600/?spm_id_from=333.788.videocard.11)
 
 # 有用的参考
 
