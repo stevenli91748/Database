@@ -60,7 +60,7 @@
 
 # Database视频
 
- * [一堂课带你精通~数据库连接池编程思想与实现](https://www.bilibili.com/video/av62775894)
+ * [一堂课带你精通~数据库连接池编程思想与实现](https://www.bilibili.com/video/av58455529)
 
 # 有用的参考
  * [如何设计能支撑百万并发的数据库架构？](http://www.52im.net/thread-2510-1-1.html)
