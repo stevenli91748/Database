@@ -5,7 +5,7 @@
 # 视频
 
 * [Oracle大型数据库完整教程](https://www.bilibili.com/video/av49846664?from=search&seid=16303346480273029728)
-
+* [数据库 Oracle 视频教程全集](https://www.bilibili.com/video/av59590533/?spm_id_from=333.788.videocard.0)
 
  ## OCP
  
