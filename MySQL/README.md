@@ -19,6 +19,7 @@ MySQL基础|MySQL集群|
  * [数据库 MySQL 视频教程全集](https://www.bilibili.com/video/av59623481/?spm_id_from=333.788.videocard.1)
  * [MySQL 国内知名BAT级DBA大神主讲 学完25万年薪起](https://www.bilibili.com/video/av62508600/?spm_id_from=333.788.videocard.11)
  * [MySQL大型分布式集群Mycat实战-龙果](https://www.bilibili.com/video/av53909897?from=search&seid=12773160558428482344)
+ * [尚硅谷】Oracle/MySQL数据库核心技术详解（完）](https://www.bilibili.com/video/av62496628?from=search&seid=6481752262698197941)
 
 # 有用的参考
 
