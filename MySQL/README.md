@@ -20,7 +20,7 @@ MySQL基础|MySQL集群|
  * [MySQL 国内知名BAT级DBA大神主讲 学完25万年薪起](https://www.bilibili.com/video/av62508600/?spm_id_from=333.788.videocard.11)
  * [MySQL大型分布式集群Mycat实战-龙果](https://www.bilibili.com/video/av53909897?from=search&seid=12773160558428482344)
  * [尚硅谷】Oracle/MySQL数据库核心技术详解（完）](https://www.bilibili.com/video/av62496628?from=search&seid=6481752262698197941)
-
+* [基于Docker架构Mysql集群实战](https://www.bilibili.com/video/av73770025?from=search&seid=4231697486262267816)
 # 有用的参考
 
 * [Navicat for MySQL 安装和破解（完美）](https://blog.csdn.net/wypersist/article/details/79834490)
