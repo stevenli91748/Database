@@ -1,12 +1,6 @@
 
 
 
-# 已安装MYSQL8 database
-安装目录： c:\program files\mysql
-account: root
-psw:     gz19731108
-
-
 
 [MySQL Linux安装](https://www.cnblogs.com/lichangyun/p/9088139.html)|
 ---|
