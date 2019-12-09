@@ -23,3 +23,4 @@ MySQL基础|MySQL集群|
 
 * [Navicat for MySQL 安装和破解（完美）](https://blog.csdn.net/wypersist/article/details/79834490)
 * [Mysql分库分表方案](https://www.javazhiyin.com/10518.html)
+* [Centos7中MySQL的安装并设置开机启动](https://blog.csdn.net/yin767833376/article/details/85270563)
