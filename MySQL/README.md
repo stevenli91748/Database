@@ -8,6 +8,9 @@ psw:     gz19731108
 
 
 
+[MySQL Linux安装](https://www.cnblogs.com/lichangyun/p/9088139.html)|
+---|
+
 MySQL基础|MySQL集群|
 ---|---|
 
