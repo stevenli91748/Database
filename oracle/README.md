@@ -1,5 +1,8 @@
 
 
+[Oracle 11G在Linux下单机安装](https://www.bilibili.com/video/av16502137/?spm_id_from=333.788.videocard.8)|
+---|
+
 
 
 # 视频
