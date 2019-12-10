@@ -39,9 +39,15 @@
     
            设置密码
                [root]# mysql_secure_installation
-               
-           设置密码的过程中，有一些需要注意的点如下所示：
+
+              设置密码的过程中，有一些需要注意的点如下所示：
                1、Set root password? [Y/n] y        [设置root用户密码]
+               
+                  如果不能成功设置password，就要用
+                  [root]# mysql_upgrade
+                  然后再次运行
+                  [root]# mysql_secure_installation
+               
                2、Remove anonymous users? [Y/n] y            [删除匿名用户]
                3、Disallow root login remotely? [Y/n] n            [禁止root远程登录]
                4、Remove test database and access to it? [Y/n] y       [删除test数据库]
