@@ -5,7 +5,7 @@
 * [数据库概述](#数据库概述)
 * [JDBC](https://github.com/stevenli91748/Database/blob/master/JDBC/README.md)
 * [关系数据库](https://github.com/stevenli91748/Database/blob/master/关系数据库/README.md)
-  * MySQL
+  * [MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/README.md)
   * [Mariadb](https://github.com/stevenli91748/Database/blob/master/Mariadb/README.md)
   * PostgreSQL
   * ORACLE
