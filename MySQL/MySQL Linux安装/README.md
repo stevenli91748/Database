@@ -15,7 +15,7 @@
 
 # 在centos 7上安装MySQL
 
-    在虚拟机
+   
 
 
     第一步  centos默认安装了mariadb，因此，在安装mysql之前，需要卸载系统中安装的mariadb。
