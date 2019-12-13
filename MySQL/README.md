@@ -2,7 +2,7 @@
 
 
 
-[MySQL Linux安装](https://www.cnblogs.com/zhaohuanhuan/p/11144806.html)|
+[MySQL Linux安装](https://github.com/stevenli91748/Database/blob/master/MySQL/MySQL%20Linux安装/README.md)|
 ---|
 
 MySQL基础|MySQL集群|
