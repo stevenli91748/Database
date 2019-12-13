@@ -25,13 +25,16 @@
            
     第二步  安装可用的rpm包
            [root]# rpm -Uvh http://dev.mysql.com/get/mysql-community-release-el7-5.noarch.rpm
-  
+           
+           使用repo源开始安装MySQL
+           [root]# rpm -ivh mysql-community-release-el7-5.noarch.rpm
+           
     第三步  查看可用安装资源
            [root]# yum repolist enabled | grep "mysql.*-community.*"
            
     第四步  安装
            [root]# yum -y install mysql-community-server
-           
+           ----在这儿
     第五步  配置
     
            开启启动
