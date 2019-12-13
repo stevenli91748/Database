@@ -34,7 +34,7 @@
            
     第四步  安装
            [root]# yum -y install mysql-community-server
-           ----在这儿
+          
     第五步  配置
     
            开启启动
