@@ -60,7 +60,7 @@
                5、Reload privilege tables now? [Y/n] y        [刷新权限]
 
      第六步  远程客户端访问
-               [root]# mysql -uroot -p       [密码]
+               [root]# mysql -u root -p       [密码]
                mysql> GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY '123456' WITH GRANT OPTION;
 
            
