@@ -1,5 +1,5 @@
 
-Redis linux系统安装|
+[Redis linux系统安装](https://github.com/stevenli91748/Database/blob/master/Redis/Redis%20linux系统安装/README.md)|
 ---|
 
 
