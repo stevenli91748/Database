@@ -1,4 +1,8 @@
 
+Redis linux系统安装|
+---|
+
+
 # 目录
 * [Redis概述](#Redis概述)
 * [Redis缺点](#Redis缺点)
