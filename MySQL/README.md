@@ -18,6 +18,7 @@ MySQL基础|MySQL集群|
  * [MySQL大型分布式集群Mycat实战-龙果](https://www.bilibili.com/video/av53909897?from=search&seid=12773160558428482344)
  * [尚硅谷】Oracle/MySQL数据库核心技术详解（完）](https://www.bilibili.com/video/av62496628?from=search&seid=6481752262698197941)
 * [基于Docker架构Mysql集群实战](https://www.bilibili.com/video/av64014661/?spm_id_from=333.788.videocard.1)
+* [性能调优专题-mysql索引优化与底层数据结构深入剖析](https://www.bilibili.com/video/av60159376?from=search&seid=808943440095103708)
 
 # 有用的参考
 
