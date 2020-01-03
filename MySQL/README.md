@@ -2,8 +2,8 @@
 
 
 
-[MySQL Linux安装](https://github.com/stevenli91748/Database/blob/master/MySQL/MySQL%20Linux安装/README.md)|[MySQL Docker安装](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装MySQL/README.md)|
----|---|
+[MySQL Linux安装](https://github.com/stevenli91748/Database/blob/master/MySQL/MySQL%20Linux安装/README.md)|[MySQL Docker安装](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装MySQL/README.md)|[Percona Server 5.7 源码安装](https://www.cnblogs.com/knmax/p/9211450.html)|
+---|---|---|
 
 MySQL基础|[MySQL主从结构](https://www.bilibili.com/video/av61935013?from=search&seid=11244131792888282581)|MySQL分库分表|
 ---|---|---|
