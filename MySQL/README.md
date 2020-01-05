@@ -24,7 +24,7 @@ MySQL集群|
 * [性能调优专题-mysql索引优化与底层数据结构深入剖析](https://www.bilibili.com/video/av60391294/?spm_id_from=333.788.videocard.3)
 
 # 有用的参考
-
+* [使用Keepalived实现MySQL双主高可用](https://www.linuxidc.com/Linux/2019-08/160164.htm)
 * [Navicat for MySQL 安装和破解（完美）](https://blog.csdn.net/wypersist/article/details/79834490)
 * [Mysql分库分表方案](https://www.javazhiyin.com/10518.html)
 * [Centos7中MySQL的安装并设置开机启动](https://blog.csdn.net/yin767833376/article/details/85270563)
