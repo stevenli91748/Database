@@ -29,3 +29,4 @@ MySQL集群|
 * [Mysql分库分表方案](https://www.javazhiyin.com/10518.html)
 * [Centos7中MySQL的安装并设置开机启动](https://blog.csdn.net/yin767833376/article/details/85270563)
 * [Mysql的分支mariadb 与percona server 哪个更适合生产环境](https://blog.csdn.net/xuheng8600/article/details/79947595)
+* [史上最全的mysql基础教程](https://blog.csdn.net/weixin_45108087/article/details/102766281)
