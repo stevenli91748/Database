@@ -70,7 +70,7 @@ c:\redis-2.4.5-win32-win64
 
 
 # Redis 视频
-
+ * [千锋微服务2019最新Redis教程](https://www.bilibili.com/video/av49517046?from=search&seid=10204331567303013188)
  * [Redis-尚硅谷](https://www.bilibili.com/video/av51139549/?spm_id_from=333.788.videocard.3)
  * [Redis从入门到精通高级进阶精讲](https://www.bilibili.com/video/av64175711/?spm_id_from=333.788.videocard.7)
  * [一线互联网公司Redis应用场景及实例分析全集](https://www.bilibili.com/video/av65345121/?spm_id_from=333.788.videocard.7)
