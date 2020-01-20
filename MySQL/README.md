@@ -14,6 +14,7 @@ MySQL集群|
 
 
 # Mysql视频
+ * [千锋MySQL DBA入门全套教程（价值8980元）](https://www.bilibili.com/video/av78081101?from=search&seid=16011833382632023449)
  * [尚硅谷 MySQL 基础+高级篇- 数据库 -sql](https://www.bilibili.com/video/av49181542/?spm_id_from=333.788.videocard.3)
  * [MySQL数据库视频教程老杜最新MySQL教程](https://www.bilibili.com/video/av57575364/?spm_id_from=333.788.videocard.16)
  * [数据库 MySQL 视频教程全集](https://www.bilibili.com/video/av59623481/?spm_id_from=333.788.videocard.1)
