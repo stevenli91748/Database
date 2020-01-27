@@ -1,5 +1,11 @@
 
+mysql8 安装目录
+c:\mysql\mysql server 8.0
+account : root
+password: gz19731108
 
+account: gzpengli
+password: gz19731108
 
 
 [MySQL Linux安装](https://github.com/stevenli91748/Database/blob/master/MySQL/MySQL%20Linux安装/README.md)|[MySQL Docker安装](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装MySQL/README.md)|[Percona Server 5.7 源码安装](https://www.cnblogs.com/knmax/p/9211450.html)|
