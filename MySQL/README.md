@@ -12,6 +12,10 @@ MySQL基础|[MySQL主从结构](https://www.bilibili.com/video/av61935013?from=s
 MySQL集群|
 ---|
 
+[SQLyog](https://github.com/stevenli91748/Database/blob/master/SQLyog/README.md)|
+---|
+
+
 
 # Mysql视频
  * [千锋MySQL DBA入门全套教程（价值8980元）](https://www.bilibili.com/video/av78081101?from=search&seid=16011833382632023449)
