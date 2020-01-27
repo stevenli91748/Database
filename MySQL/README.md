@@ -1,10 +1,14 @@
 
 mysql8 安装目录
+
 c:\mysql\mysql server 8.0
-account : root
+
+account 1 : root
+
 password: gz19731108
 
-account: gzpengli
+account 2: gzpengli
+
 password: gz19731108
 
 
