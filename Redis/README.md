@@ -83,6 +83,7 @@ c:\redis-2.4.5-win32-win64
  * [分布式架构专题- Redis高并发分布式锁实站](https://www.bilibili.com/video/av60449651/?spm_id_from=333.788.videocard.7)
 # 有用的参考
 * [Redis官网](https://redis.io/)
+* [面试官看了赞不绝口的Redis笔记](https://blog.csdn.net/qq_42322103/article/details/104159919?depth_1-utm_source=distribute.pc_feed.none-task&request_id=&utm_source=distribute.pc_feed.none-task)
 * [一分钟搞定Windoｗs10下安装Redis 及如何使用redis可视化管理工具](https://blog.csdn.net/WYpersist/article/details/81211345)
 * [十分钟搞定SpringBoot 和Redis 实战整合](https://blog.csdn.net/WYpersist/article/details/81221100)
 * [Redis作者的网站](http://antirez.com/latest/0)
