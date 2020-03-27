@@ -68,7 +68,7 @@
 
 # 有用的参考
  * [如何设计能支撑百万并发的数据库架构？](http://www.52im.net/thread-2510-1-1.html)
- 
+ * [不用找了，大厂在用的分库分表方案，都在这里！](https://www.jianshu.com/p/5b2bb76d26d6)
  * [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 * [学习数据库从入门到进阶书籍pdf版吐血整理推荐（珍藏版）](https://pymlovelyq.github.io/2018/10/12/database/)
 
