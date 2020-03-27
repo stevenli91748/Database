@@ -77,3 +77,4 @@
 * [无限容量数据库架构设计](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651960378&idx=1&sn=971a8db3251a232e3feeb7ff6235c96b&chksm=bd2d01e68a5a88f0f05c184340bcda81125ed1de772b35ef12b34c1f5f81c7b5a60cb8047f3c&scene=25#wechat_redirect)
 
 * [支撑日活百万用户的高并发系统，应该如何设计其数据库架构](https://juejin.im/post/5c6a9f25518825787e69e70a)
+* [史上最全近百条Oracle DBA日常维护SQL脚本指令](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281305&idx=1&sn=0acc5cd128667d9bd21eabd90bfcc90d&chksm=be478d4f893004596a9c203d43184f7aa74f64955f9f3659dc206a06233a6fdd2c3217d49958&scene=21#wechat_redirect)
