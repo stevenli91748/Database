@@ -121,7 +121,7 @@ c:\redis-2.4.5-win32-win64
 * [Redis 和 Memcached 有什么区别？Redis 的线程模型是什么？为什么单线程的 Redis 比多线程的 Memcached 效率要高得多？](https://www.javazhiyin.com/22943.html)
 * [Redis 集群模式的工作原理能说一下么？在集群模式下，Redis 的 key 是如何寻址的？分布式寻址都有哪些算法？了解一致性 hash 算法吗？如何动态增加和删除一个节点？](https://www.javazhiyin.com/22957.html)
 * [2019最详细的Redis集群架构视频教程](https://www.bilibili.com/video/av56352332/?spm_id_from=333.788.videocard.7)
-
+* [你知道要用 Redis，却不知道怎么用 Redis](https://www.jianshu.com/p/9f338430da26)
 
 ### 实战
 
