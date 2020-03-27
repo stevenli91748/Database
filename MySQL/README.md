@@ -47,3 +47,4 @@ MySQL集群|
 * [Centos7中MySQL的安装并设置开机启动](https://blog.csdn.net/yin767833376/article/details/85270563)
 * [Mysql的分支mariadb 与percona server 哪个更适合生产环境](https://blog.csdn.net/xuheng8600/article/details/79947595)
 * [史上最全的mysql基础教程](https://blog.csdn.net/weixin_45108087/article/details/102766281)
+* [史上更全的MySQL高性能优化实战总结！](https://www.jianshu.com/p/c9f1625ecbb8)
