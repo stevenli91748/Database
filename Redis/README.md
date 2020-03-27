@@ -122,7 +122,7 @@ c:\redis-2.4.5-win32-win64
 * [Redis 集群模式的工作原理能说一下么？在集群模式下，Redis 的 key 是如何寻址的？分布式寻址都有哪些算法？了解一致性 hash 算法吗？如何动态增加和删除一个节点？](https://www.javazhiyin.com/22957.html)
 * [2019最详细的Redis集群架构视频教程](https://www.bilibili.com/video/av56352332/?spm_id_from=333.788.videocard.7)
 * [你知道要用 Redis，却不知道怎么用 Redis](https://www.jianshu.com/p/9f338430da26)
-
+* [介绍Redis的各种用途以及使用场景](https://blog.csdn.net/u011277123/article/details/78692603)
 ### 实战
 
 * [企业级nosql数据库应用与实战-redis](https://www.cnblogs.com/keerya/p/8127716.html)
