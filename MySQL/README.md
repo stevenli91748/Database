@@ -40,6 +40,7 @@ MySQL集群|
 * [打造扛得住的MySQL数据库架构](https://www.bilibili.com/video/av80478890/?spm_id_from=333.788.videocard.7)
 * [MyCAT+MySQL 搭建高可用企业级数据库集群](https://www.bilibili.com/video/av80477641/?spm_id_from=333.788.videocard.4)
 # 有用的参考
+* [MySQL的万字总结（缓存，索引，Explain，事务，redo日志等）](https://www.jianshu.com/p/2530d1185778)
 * [MySQL数据库面试题（2020最新版）](https://blog.csdn.net/thinkwon/article/details/104778621#comments)
 * [使用Keepalived实现MySQL双主高可用](https://www.linuxidc.com/Linux/2019-08/160164.htm)
 * [Navicat for MySQL 安装和破解（完美）](https://blog.csdn.net/wypersist/article/details/79834490)
@@ -48,3 +49,4 @@ MySQL集群|
 * [Mysql的分支mariadb 与percona server 哪个更适合生产环境](https://blog.csdn.net/xuheng8600/article/details/79947595)
 * [史上最全的mysql基础教程](https://blog.csdn.net/weixin_45108087/article/details/102766281)
 * [史上更全的MySQL高性能优化实战总结！](https://www.jianshu.com/p/c9f1625ecbb8)
+* [可能是全网最好的MySQL重要知识点](https://www.jianshu.com/p/5dd5993f981b)
