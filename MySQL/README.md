@@ -40,6 +40,7 @@ MySQL集群|
 * [打造扛得住的MySQL数据库架构](https://www.bilibili.com/video/av80478890/?spm_id_from=333.788.videocard.7)
 * [MyCAT+MySQL 搭建高可用企业级数据库集群](https://www.bilibili.com/video/av80477641/?spm_id_from=333.788.videocard.4)
 # 有用的参考
+* [一千行 MySQL 详细学习笔记（值得学习与收藏](https://mp.weixin.qq.com/s?__biz=MzUyNDkzNzczNQ==&mid=2247485440&idx=1&sn=068d918afea5b554e5d944a4dc192048&chksm=fa24f768cd537e7e055f1c5d9a2b0868f04449877d7e4a9a2d26137f1201f92a35ddbb362119&scene=21#wechat_redirect)
 * [MySQL的万字总结（缓存，索引，Explain，事务，redo日志等）](https://www.jianshu.com/p/2530d1185778)
 * [MySQL数据库面试题（2020最新版）](https://blog.csdn.net/thinkwon/article/details/104778621#comments)
 * [使用Keepalived实现MySQL双主高可用](https://www.linuxidc.com/Linux/2019-08/160164.htm)
