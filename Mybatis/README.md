@@ -11,6 +11,7 @@
 * [MyBatis第一套 推荐学习此套(老师讲得非常好)--基础篇](https://www.bilibili.com/video/av71177491)
 * [MyBatis第一套 推荐学习此套(老师讲得非常好)--提高篇](https://www.bilibili.com/video/av71177582)
 # 有用的参考
+* [Mybatis](https://mybatis.org/mybatis-3/zh/index.html)
 * [MyBatis-Plus](https://mp.baomidou.com/guide/#%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1)
 * [mybatis 入门教程](http://www.mybatis.org/mybatis-3/zh/index.html)
 * [Mybatis深入浅出系列](http://www.cnblogs.com/dongying/tag/Mybatis%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%E7%B3%BB%E5%88%97/)
