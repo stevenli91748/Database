@@ -18,6 +18,9 @@ password: gz19731108
 MySQL基础|[MySQL主从结构](https://www.bilibili.com/video/av61935013?from=search&seid=11244131792888282581)|MySQL分库分表|[打造基于Docker的MySQL主从复制](https://www.bilibili.com/video/BV1kp411R7uF)|
 ---|---|---|---|
 
+[MySQL主从复制，每秒完成30万订单](https://www.bilibili.com/video/BV1Q4411X7y8)|
+---|
+
 
 MySQL集群|
 ---|
