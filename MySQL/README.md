@@ -38,8 +38,8 @@ password: gz19731108
 
 # SQL优化
 
-[SQL优化（MySQL版；不适合初学者，需有数据库基础）](https://www.bilibili.com/video/BV1es411u7we?from=search&seid=13358875494782349964)|
----|
+[SQL优化（MySQL版；不适合初学者，需有数据库基础）](https://www.bilibili.com/video/BV1es411u7we?from=search&seid=13358875494782349964)|[基于案例学SQL优化 15课](https://www.bilibili.com/video/BV1Wt41177g6?from=search&seid=13358875494782349964)|
+---|---|
 
 # MySQL集群
 
