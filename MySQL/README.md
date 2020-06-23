@@ -36,6 +36,11 @@ password: gz19731108
 [阿里P8架构师，100分钟讲透MySQL索引底层原理！](https://www.bilibili.com/video/BV1BJ411i7WR/?spm_id_from=333.788.videocard.5)|
 ---|
 
+# SQL优化
+
+[SQL优化（MySQL版；不适合初学者，需有数据库基础）](https://www.bilibili.com/video/BV1es411u7we?from=search&seid=13358875494782349964)|
+---|
+
 # MySQL集群
 
 [MySQL集群解决方案（主从复制、PXC集群、MyCat、HAProxy）](https://www.bilibili.com/video/BV1R4411s7zi/?spm_id_from=333.788.videocard.17)|
