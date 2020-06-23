@@ -15,8 +15,8 @@ password: gz19731108
 [MySQL Linux安装](https://github.com/stevenli91748/Database/blob/master/MySQL/MySQL%20Linux安装/README.md)|[MySQL Docker安装](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装MySQL/README.md)|[Percona Server 5.7 源码安装](https://www.cnblogs.com/knmax/p/9211450.html)|
 ---|---|---|
 
-MySQL基础|[MySQL主从结构](https://www.bilibili.com/video/av61935013?from=search&seid=11244131792888282581)|MySQL分库分表|[打造基于Docker的MySQL主从复制](https://www.bilibili.com/video/BV1kp411R7uF)|
----|---|---|---|
+MySQL基础|[MySQL主从结构](https://www.bilibili.com/video/av61935013?from=search&seid=11244131792888282581)|MySQL分库分表|[打造基于Docker的MySQL主从复制](https://www.bilibili.com/video/BV1kp411R7uF)|[Mysql读写分离](https://www.bilibili.com/video/BV1r4411B7pv/?spm_id_from=333.788.videocard.0)|
+---|---|---|---|---|
 
 [MySQL主从复制，每秒完成30万订单](https://www.bilibili.com/video/BV1Q4411X7y8)|
 ---|
