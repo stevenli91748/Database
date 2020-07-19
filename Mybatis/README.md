@@ -19,3 +19,4 @@
 * [Mybatis内容聚合---非常强大](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247488945&idx=2&sn=2c0326af621ac51f33720e2608121cef&chksm=ebd62a9ddca1a38b8e284b413a8eea08aa452fdeda3c4740325803514d30029a2ab4af5bdfed&scene=21)
 * [面试官问你MyBatis SQL是如何执行的？把这篇文章甩给](https://www.jianshu.com/p/e80f060e14d0)
 * [为什么项目中用了JOOQ后大家都不愿再用Mybatis](https://juejin.im/post/5de64988f265da33e228ddc8)
+* [便捷开发之mybatis逆向工程](https://juejin.im/post/5d371fbcf265da1b7c615a1a)
