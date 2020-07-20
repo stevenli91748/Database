@@ -13,7 +13,7 @@ password: gz19731108
 
 启动Windows上的MySql database
 
-c:\mysql\mysql server 8.0\mysqld
+**c:\mysql\mysql server 8.0\mysqld**
 
 
 
