@@ -20,6 +20,8 @@ bin\> mysql -u root -p
 
 enter password:
 
+mysql>
+
 or 
 
 style 2:
