@@ -6,7 +6,7 @@ c:\mysql\mysql server 8.0
 connectivity:
   PROTOCOL: TCP/IP            PORT : 3306         X protocol port : 33060
   
-  windows service:  MySQL80
+  windows service:  MySQL81
   
   account 1 : root          
   password : gz19731108
