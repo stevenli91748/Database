@@ -1,19 +1,14 @@
 
-mysql8 安装目录
+windows mysql8 安装目录
 
 c:\mysql\mysql server 8.0
 
-account 1 : root
+connectivity:
+  PROTOCOL: TCP/IP            PORT : 3306         X protocol port : 33060
+  
+  account: root          password : gz19731108
 
-password: gz19731108
 
-account 2: gzpengli
-
-password: gz19731108
-
-启动Windows上的MySql database
-
-**c:\mysql\mysql server 8.0\mysqld**
 
 
 
