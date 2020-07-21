@@ -122,3 +122,13 @@ mysql>
 * [史上最全的mysql基础教程](https://blog.csdn.net/weixin_45108087/article/details/102766281)
 * [史上更全的MySQL高性能优化实战总结！](https://www.jianshu.com/p/c9f1625ecbb8)
 * [可能是全网最好的MySQL重要知识点](https://www.jianshu.com/p/5dd5993f981b)
+
+
+* [《深入精通Mysql（一）》Mysql整体架构和sql执行过程（面试高频题）](https://zhuanlan.zhihu.com/p/100026210)
+* [《深入精通Mysql（二）》深入底层剖析Mysql索引（面试必问](https://mp.weixin.qq.com/s/WDeYmrfgPHqg-fGI17qLcw)
+* [《深入精通Mysql（二）》深入底层剖析Mysql各种锁机制（面试必问）](https://mp.weixin.qq.com/s/WgcLdEfjFE3CsWV4FgOefw)
+* [《深入精通Mysql（四）》MySQL 事务机制，中高级开发面试必问](https://mp.weixin.qq.com/s/3Zk9Np5c9K0ENz64Y6E92g)
+* [《深入精通Mysql（五）》实战：Mysql实现主从复制](https://mp.weixin.qq.com/s/pVAFJWydABPcDG0UR_S90A)
+* [《深入精通Mysql（六）》系列之如何通过慢查询日志进行SQL分析和优化](https://mp.weixin.qq.com/s/qfNsNgA2RklvJ69pNhze5g)
+* [深入精通Mysql（七）》系列之如何通过EXPLAIN 执行计划分析SQL语句的性能瓶](https://mp.weixin.qq.com/s/JFS48kVceqQEuhO2F1OQOQ)
+* [《深入精通Mysql（八）》系列之十年架构师从架构层面进行Mysql性能优化](https://mp.weixin.qq.com/s/GzrWq-OHHFuxqYQjNesZlA)
