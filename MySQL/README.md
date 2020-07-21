@@ -98,6 +98,7 @@ mysql>
 
 
 # Mysql视频
+ * [mysql 8.0](https://www.youtube.com/channel/UCDV_54xfBb4aw0eJmvWLpsQ)
  * [千锋MySQL DBA入门全套教程（价值8980元）](https://www.bilibili.com/video/av78081101?from=search&seid=16011833382632023449)
  * [尚硅谷 MySQL 基础+高级篇- 数据库 -sql](https://www.bilibili.com/video/av49181542/?spm_id_from=333.788.videocard.3)
  * [MySQL数据库视频教程老杜最新MySQL教程](https://www.bilibili.com/video/av57575364/?spm_id_from=333.788.videocard.16)
