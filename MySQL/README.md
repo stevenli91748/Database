@@ -46,8 +46,8 @@ mysql>
 [MySQL Linux安装](https://github.com/stevenli91748/Database/blob/master/MySQL/MySQL%20Linux安装/README.md)|[MySQL Docker安装](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装MySQL/README.md)|[Percona Server 5.7 源码安装](https://www.cnblogs.com/knmax/p/9211450.html)|
 ---|---|---|
 
-[MySQL8.0 的配置文件](https://blog.csdn.net/wm3tcw28/article/details/78942693?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)|
----|
+[MySQL8.0 的配置文件](https://blog.csdn.net/wm3tcw28/article/details/78942693?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)|[MySQL 启动 登录 停止](https://github.com/stevenli91748/Database/blob/master/MySQL/MySQL%20%E5%90%AF%E5%8A%A8%20%E7%99%BB%E5%BD%95%20%E5%81%9C%E6%AD%A2.md)| 
+---|---|
 
 
 
