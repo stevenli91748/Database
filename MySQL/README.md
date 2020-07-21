@@ -26,46 +26,56 @@ c:> cd \mysql\mysql server 8.0\bin
 mysql>
 
 
+# MySQL基础部分
 
 
 [MySQL Linux安装](https://github.com/stevenli91748/Database/blob/master/MySQL/MySQL%20Linux安装/README.md)|[MySQL Docker安装](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装MySQL/README.md)|[Percona Server 5.7 源码安装](https://www.cnblogs.com/knmax/p/9211450.html)|
 ---|---|---|
 
 
-# MySQL主从复制
+# MySQL高级部分
+
+* [MySQL主从复制](#MySQL主从复制)
+* [MySQL分库分表](#MySQL分库分表)
+* [Mysql读写分离](#Mysql读写分离)
+* [MySQL索引](#MySQL索引)
+* [SQL优化](#SQL优化)
+* [MySQL集群](#MySQL集群)
+
+## MySQL主从复制
 
 [MySQL主从结构](https://www.bilibili.com/video/av61935013?from=search&seid=11244131792888282581)|[打造基于Docker的MySQL主从复制](https://www.bilibili.com/video/BV1kp411R7uF)|[MySQL主从复制，每秒完成30万订单](https://www.bilibili.com/video/BV1Q4411X7y8)|
 ---|---|---|
 
-# MySQL分库分表
+## MySQL分库分表
 
 [2020最新技术ShardingJDBC 分库分表 -吊打MyCat](https://www.bilibili.com/video/BV1nT4y157Xp/?spm_id_from=333.788.videocard.1)|[2020面试一线大厂必问的数据库分库分表教程全集（mysql+mycat)](https://www.bilibili.com/video/BV1vJ41187E1/?spm_id_from=333.788.videocard.1)|
 ---|---|
 
-# Mysql读写分离
+## Mysql读写分离
 
 [Mysql读写分离](https://www.bilibili.com/video/BV1r4411B7pv/?spm_id_from=333.788.videocard.0)|[基于MyCat实现MySQL读写分离](https://www.bilibili.com/video/BV1BE411e7w3/?spm_id_from=333.788.videocard.0)|[100分钟掌握高可用架构实战MySQL读写分离技术全集](https://www.bilibili.com/video/BV1J4411o7y4/?spm_id_from=333.788.videocard.3)|
 ---|---|---|
 
-# MySQL索引
+## MySQL索引
 
 [阿里P8架构师，100分钟讲透MySQL索引底层原理！](https://www.bilibili.com/video/BV1BJ411i7WR/?spm_id_from=333.788.videocard.5)|
 ---|
 
-# SQL优化
+## SQL优化
 
 [SQL优化（MySQL版；不适合初学者，需有数据库基础）](https://www.bilibili.com/video/BV1es411u7we?from=search&seid=13358875494782349964)|[基于案例学SQL优化 15课](https://www.bilibili.com/video/BV1Wt41177g6?from=search&seid=13358875494782349964)|
 ---|---|
 
-# MySQL集群
+## MySQL集群
 
 [MySQL集群解决方案（主从复制、PXC集群、MyCat、HAProxy）](https://www.bilibili.com/video/BV1R4411s7zi/?spm_id_from=333.788.videocard.17)|
 ---|
 
 
-# MySQL Tools
-[SQLyog](https://github.com/stevenli91748/Database/blob/master/SQLyog/README.md)|
----|
+## MySQL Tools
+[SQLyog](https://github.com/stevenli91748/Database/blob/master/SQLyog/README.md)|Navicat|
+---|---|
 
 
 
