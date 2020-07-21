@@ -17,13 +17,27 @@ connectivity:
   
   host: localhost
    
-启动mysql 
+登录mysql 
+
+方式一：
 
 c:> cd \mysql\mysql server 8.0\bin
 
 \mysql\mysql server 8.0\bin> mysql --user=root --password=gz19731108
 
 mysql>
+
+
+方式二：
+
+c:> cd \mysql\mysql server 8.0\bin
+
+\mysql\mysql server 8.0\bin> mysql -u root -p
+enter password: 
+
+mysql>
+
+
 
 
 # MySQL基础部分
