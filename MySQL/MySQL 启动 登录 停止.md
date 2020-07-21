@@ -4,6 +4,8 @@
 
 style 1:
 
+run dos enviorment with super manager
+
 bin\> net star mysql81 (that is service name mysql81 , not database name)
 
 
@@ -33,6 +35,8 @@ mysql>
 # 停止
 
 style 1:
+
+run dos enviorment with super manager
 
 bin\> net stop mysql81 (that is service name mysql81 , not database name)
 
