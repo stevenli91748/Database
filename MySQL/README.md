@@ -17,6 +17,14 @@ connectivity:
   
   host: localhost
    
+启动mysql 
+
+c:> cd \mysql\mysql server 8.0\bin
+
+\mysql\mysql server 8.0\bin> mysql --user=root --password=gz19731108
+
+mysql>
+
 
 
 
