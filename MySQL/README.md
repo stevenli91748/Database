@@ -52,6 +52,10 @@ mysql>
 [SQL语法](https://github.com/stevenli91748/Database/blob/master/MySQL/SQL%E8%AF%AD%E6%B3%95.md)|
 ---|
 
+[MySQL索引优化，explain讲得非常清楚了](https://www.jianshu.com/p/4f8ab1b85059)|[Mysql篇之索引原理](https://www.jianshu.com/p/73cd9288a652)|
+---|---|
+
+
 
 # MySQL高级部分
 
@@ -86,6 +90,9 @@ mysql>
 
 [SQL优化（MySQL版；不适合初学者，需有数据库基础）](https://www.bilibili.com/video/BV1es411u7we?from=search&seid=13358875494782349964)|[基于案例学SQL优化 15课](https://www.bilibili.com/video/BV1Wt41177g6?from=search&seid=13358875494782349964)|[MySQL千万级别大表，你要如何优化？](https://www.jianshu.com/p/1bf3196ad1ac)|
 ---|---|---|
+
+[如果是MySQL引起的CPU消耗过大，你会如何优化？](https://www.jianshu.com/p/1990261fca3f)|
+---|
 
 ## MySQL集群
 
