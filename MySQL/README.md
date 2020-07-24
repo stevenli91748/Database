@@ -131,7 +131,7 @@ mysql>
 * [史上最全的mysql基础教程](https://blog.csdn.net/weixin_45108087/article/details/102766281)
 * [史上更全的MySQL高性能优化实战总结！](https://www.jianshu.com/p/c9f1625ecbb8)
 * [可能是全网最好的MySQL重要知识点](https://www.jianshu.com/p/5dd5993f981b)
-
+* [如何造10w条测试数据，在数据库插入10w条不同数据](https://www.jianshu.com/p/c65463798554)
 
 * [《深入精通Mysql（一）》Mysql整体架构和sql执行过程（面试高频题）](https://zhuanlan.zhihu.com/p/100026210)
 * [《深入精通Mysql（二）》深入底层剖析Mysql索引（面试必问](https://mp.weixin.qq.com/s/WDeYmrfgPHqg-fGI17qLcw)
