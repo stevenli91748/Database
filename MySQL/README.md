@@ -67,8 +67,12 @@ mysql>
 * [MySQL之备份与恢复](#MySQL之备份与恢复)
 * [MySQL索引](#MySQL索引)
 * [MySQL优化](#MySQL优化)
-* [MySQL高可用架构设计](#MySQL高可用架构设计)
+
+## MySQL架构设计
 * [MySQL集群](#MySQL集群)
+* [MySQL高可用架构设计](#MySQL高可用架构设计)
+* [MySQL高性能架构设计](#MySQL高性能架构设计)
+* [MySQL可展设计](#MySQL可展设计)
 
 ## MySQL主从复制
 
@@ -103,6 +107,9 @@ mysql>
 
 ## MySQL高可用架构设计
 
+## MySQL高性能架构设计
+
+## MySQL可展设计
 
 ## MySQL集群
 
