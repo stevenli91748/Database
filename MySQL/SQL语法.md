@@ -7,3 +7,11 @@
 # DML
 [我说 SELECT COUNT(*)  会造成全表扫描，面试官让我回去等通知](https://www.jianshu.com/p/9ea7ae51d01a)|[因用了Insert into select语句，同事被开除了](https://www.jianshu.com/p/88c58a09f95a)|
 ---|---|
+
+
+
+
+
+# 视频
+
+ * [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
