@@ -57,6 +57,8 @@ mysql>
 [MySQL索引优化，explain讲得非常清楚了](https://www.jianshu.com/p/4f8ab1b85059)|[Mysql篇之索引原理](https://www.jianshu.com/p/73cd9288a652)|[无语，我差点被面试官怼坏了，又给我问到MySQL索引](https://www.jianshu.com/p/c82148473235)|
 ---|---|---|
 
+[数据库两大神器【索引和锁】](https://juejin.im/post/5b55b842f265da0f9e589e79)|
+---|
 
 
 # MySQL高级部分
