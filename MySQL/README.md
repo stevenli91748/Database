@@ -98,6 +98,9 @@ mysql>
 
 ## MySQL优化
 
+[MySQL线上SQL捕获及分析](https://www.youtube.com/watch?v=s4J4j4rV510)|
+---|
+
 [SQL优化（MySQL版；不适合初学者，需有数据库基础）](https://www.bilibili.com/video/BV1es411u7we?from=search&seid=13358875494782349964)|[基于案例学SQL优化 15课](https://www.bilibili.com/video/BV1Wt41177g6?from=search&seid=13358875494782349964)|[MySQL千万级别大表，你要如何优化？](https://www.jianshu.com/p/1bf3196ad1ac)|
 ---|---|---|
 
