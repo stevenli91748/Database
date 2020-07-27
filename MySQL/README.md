@@ -64,8 +64,10 @@ mysql>
 * [MySQL主从复制](#MySQL主从复制)
 * [MySQL分库分表](#MySQL分库分表)
 * [Mysql读写分离](#Mysql读写分离)
+* [MySQL之备份与恢复](#MySQL之备份与恢复)
 * [MySQL索引](#MySQL索引)
-* [SQL优化](#SQL优化)
+* [MySQL优化](#MySQL优化)
+* [MySQL高可用架构设计](#MySQL高可用架构设计)
 * [MySQL集群](#MySQL集群)
 
 ## MySQL主从复制
@@ -83,18 +85,24 @@ mysql>
 [Mysql读写分离](https://www.bilibili.com/video/BV1r4411B7pv/?spm_id_from=333.788.videocard.0)|[基于MyCat实现MySQL读写分离](https://www.bilibili.com/video/BV1BE411e7w3/?spm_id_from=333.788.videocard.0)|[100分钟掌握高可用架构实战MySQL读写分离技术全集](https://www.bilibili.com/video/BV1J4411o7y4/?spm_id_from=333.788.videocard.3)|
 ---|---|---|
 
+## MySQL之备份与恢复
+
 ## MySQL索引
 
 [阿里P8架构师，100分钟讲透MySQL索引底层原理！](https://www.bilibili.com/video/BV1BJ411i7WR/?spm_id_from=333.788.videocard.5)|
 ---|
 
-## SQL优化
+## MySQL优化
 
 [SQL优化（MySQL版；不适合初学者，需有数据库基础）](https://www.bilibili.com/video/BV1es411u7we?from=search&seid=13358875494782349964)|[基于案例学SQL优化 15课](https://www.bilibili.com/video/BV1Wt41177g6?from=search&seid=13358875494782349964)|[MySQL千万级别大表，你要如何优化？](https://www.jianshu.com/p/1bf3196ad1ac)|
 ---|---|---|
 
 [如果是MySQL引起的CPU消耗过大，你会如何优化？](https://www.jianshu.com/p/1990261fca3f)|
 ---|
+
+
+## MySQL高可用架构设计
+
 
 ## MySQL集群
 
