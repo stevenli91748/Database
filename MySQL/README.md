@@ -52,8 +52,8 @@ mysql>
 [MySQL 内核的架构设计](https://zhuanlan.zhihu.com/p/150583672?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[Mysql之架构设计](https://www.jianshu.com/p/192bc46c7fb2)|[支撑百万并发的数据库架构如何设计？](https://zhuanlan.zhihu.com/p/57802566?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|---|---|
 
-[MySql数据库锁机制详解](https://zhuanlan.zhihu.com/p/65076956?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
----|
+[MySql数据库锁机制详解](https://zhuanlan.zhihu.com/p/65076956?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[MySql连接数与线程池](https://cloud.tencent.com/developer/article/1502887)|
+---|---|
 
 
 [SQL语法](https://github.com/stevenli91748/Database/blob/master/MySQL/SQL%E8%AF%AD%E6%B3%95.md)|
