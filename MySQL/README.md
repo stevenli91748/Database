@@ -46,8 +46,15 @@ mysql>
 [MySQL Linux安装](https://github.com/stevenli91748/Database/blob/master/MySQL/MySQL%20Linux安装/README.md)|[MySQL Docker安装](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装MySQL/README.md)|[Percona Server 5.7 源码安装](https://www.cnblogs.com/knmax/p/9211450.html)|
 ---|---|---|
 
-[MySQL8.0 的配置文件](https://blog.csdn.net/wm3tcw28/article/details/78942693?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)|[MySQL 启动 登录 停止](https://github.com/stevenli91748/Database/blob/master/MySQL/MySQL%20%E5%90%AF%E5%8A%A8%20%E7%99%BB%E5%BD%95%20%E5%81%9C%E6%AD%A2.md)| [应用程序跟MySQL数据库连接的知识点](https://github.com/stevenli91748/Database/blob/master/MySQL/%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E8%B7%9FMySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9.md)|[Mysql之架构设计](https://www.jianshu.com/p/192bc46c7fb2)|
+[MySQL8.0 的配置文件](https://blog.csdn.net/wm3tcw28/article/details/78942693?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)|[MySQL 启动 登录 停止](https://github.com/stevenli91748/Database/blob/master/MySQL/MySQL%20%E5%90%AF%E5%8A%A8%20%E7%99%BB%E5%BD%95%20%E5%81%9C%E6%AD%A2.md)| [应用程序跟MySQL数据库连接的知识点](https://github.com/stevenli91748/Database/blob/master/MySQL/%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E8%B7%9FMySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9.md)|[MySQL核心知识点](https://zhuanlan.zhihu.com/p/64786634?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|---|---|---|
+
+[MySQL 内核的架构设计](https://zhuanlan.zhihu.com/p/150583672?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[Mysql之架构设计](https://www.jianshu.com/p/192bc46c7fb2)|[支撑百万并发的数据库架构如何设计？](https://zhuanlan.zhihu.com/p/57802566?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
+---|---|---|
+
+[MySql数据库锁机制详解](https://zhuanlan.zhihu.com/p/65076956?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
+---|
+
 
 [SQL语法](https://github.com/stevenli91748/Database/blob/master/MySQL/SQL%E8%AF%AD%E6%B3%95.md)|
 ---|
@@ -70,6 +77,7 @@ mysql>
 * [MySQL索引](#MySQL索引)
 * [MySQL优化](#MySQL优化)
 
+
 ## MySQL架构设计
 * [MySQL集群](#MySQL集群)
 * [MySQL高可用架构设计](#MySQL高可用架构设计)
@@ -80,6 +88,9 @@ mysql>
 
 [MySQL主从结构](https://www.bilibili.com/video/av61935013?from=search&seid=11244131792888282581)|[打造基于Docker的MySQL主从复制](https://www.bilibili.com/video/BV1kp411R7uF)|[MySQL主从复制，每秒完成30万订单](https://www.bilibili.com/video/BV1Q4411X7y8)|
 ---|---|---|
+
+[MySQL主从同步延迟调查](https://zhuanlan.zhihu.com/p/36501637?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
+---|
 
 ## MySQL分库分表
 
@@ -100,19 +111,22 @@ mysql>
 
 ## MySQL优化
 
-[MySQL线上SQL捕获及分析](https://www.youtube.com/watch?v=s4J4j4rV510)|
----|
+[MySQL线上SQL捕获及分析](https://www.youtube.com/watch?v=s4J4j4rV510)|[Oracle 和 MySQL 的 JDBC 到底有多慢？](https://zhuanlan.zhihu.com/p/103172180?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[MySQL性能调优笔记](https://shimo.im/docs/kTXQQpYR8YdWWtWj/read?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
+---|---|---|
 
 [SQL优化（MySQL版；不适合初学者，需有数据库基础）](https://www.bilibili.com/video/BV1es411u7we?from=search&seid=13358875494782349964)|[基于案例学SQL优化 15课](https://www.bilibili.com/video/BV1Wt41177g6?from=search&seid=13358875494782349964)|[MySQL千万级别大表，你要如何优化？](https://www.jianshu.com/p/1bf3196ad1ac)|
 ---|---|---|
 
-[如果是MySQL引起的CPU消耗过大，你会如何优化？](https://www.jianshu.com/p/1990261fca3f)|
----|
+[如果是MySQL引起的CPU消耗过大，你会如何优化？](https://www.jianshu.com/p/1990261fca3f)|[MySQL 大表优化方案](https://zhuanlan.zhihu.com/p/113736497?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
+---|---|
 
 
 ## MySQL高可用架构设计
 
 ## MySQL高性能架构设计
+
+[20个MySQL高性能架构设计原则](https://zhuanlan.zhihu.com/p/143991793?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
+---|
 
 ## MySQL可展设计
 
@@ -142,6 +156,7 @@ mysql>
 * [打造扛得住的MySQL数据库架构](https://www.bilibili.com/video/av80478890/?spm_id_from=333.788.videocard.7)
 * [MyCAT+MySQL 搭建高可用企业级数据库集群](https://www.bilibili.com/video/av80477641/?spm_id_from=333.788.videocard.4)
 # 有用的参考
+* [MySQL 一次奇怪的故障分析](https://zhuanlan.zhihu.com/p/86599248?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
 * [一千行 MySQL 详细学习笔记（值得学习与收藏](https://mp.weixin.qq.com/s?__biz=MzUyNDkzNzczNQ==&mid=2247485440&idx=1&sn=068d918afea5b554e5d944a4dc192048&chksm=fa24f768cd537e7e055f1c5d9a2b0868f04449877d7e4a9a2d26137f1201f92a35ddbb362119&scene=21#wechat_redirect)
 * [MySQL的万字总结（缓存，索引，Explain，事务，redo日志等）](https://www.jianshu.com/p/2530d1185778)
 * [MySQL数据库面试题（2020最新版）](https://blog.csdn.net/thinkwon/article/details/104778621#comments)
