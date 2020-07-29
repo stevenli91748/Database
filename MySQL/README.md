@@ -46,21 +46,22 @@ mysql>
 [MySQL Linux安装](https://github.com/stevenli91748/Database/blob/master/MySQL/MySQL%20Linux安装/README.md)|[MySQL Docker安装](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装MySQL/README.md)|[Percona Server 5.7 源码安装](https://www.cnblogs.com/knmax/p/9211450.html)|
 ---|---|---|
 
+## MySQL内部架构
+
 [MySQL 内核的架构设计](https://zhuanlan.zhihu.com/p/150583672?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[Mysql之架构设计](https://www.jianshu.com/p/192bc46c7fb2)|[支撑百万并发的数据库架构如何设计？](https://zhuanlan.zhihu.com/p/57802566?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|---|---|
 
-
-
 [MySQL8.0 的配置文件](https://blog.csdn.net/wm3tcw28/article/details/78942693?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)|[MySQL 启动 登录 停止](https://github.com/stevenli91748/Database/blob/master/MySQL/MySQL%20%E5%90%AF%E5%8A%A8%20%E7%99%BB%E5%BD%95%20%E5%81%9C%E6%AD%A2.md)| [应用程序跟MySQL数据库连接的知识点](https://github.com/stevenli91748/Database/blob/master/MySQL/%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E8%B7%9FMySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9.md)|[MySQL核心知识点](https://zhuanlan.zhihu.com/p/64786634?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|---|---|---|
+
+[SQL语法](https://github.com/stevenli91748/Database/blob/master/MySQL/SQL%E8%AF%AD%E6%B3%95.md)|[面试官突然问我MySQL存储过程，我竟然连基础都不会！（详细）](https://zhuanlan.zhihu.com/p/148939731?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
+---|---|
 
 
 [MySql数据库锁机制详解](https://zhuanlan.zhihu.com/p/65076956?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[MySql连接数与线程池](https://cloud.tencent.com/developer/article/1502887)|
 ---|---|
 
 
-[SQL语法](https://github.com/stevenli91748/Database/blob/master/MySQL/SQL%E8%AF%AD%E6%B3%95.md)|
----|
 
 ##  MySQL索引
 
