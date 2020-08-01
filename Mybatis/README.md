@@ -1,5 +1,6 @@
 
-
+[精尽 MyBatis 原理与源码系列](http://www.iocoder.cn/MyBatis/good-collection/)|
+---|
 
 # Mybatis 视频
 * [千锋 Java Mybatis框架](https://www.bilibili.com/video/av69115359?from=search&seid=15013736168332447863)
@@ -11,7 +12,7 @@
 * [MyBatis第一套 推荐学习此套(老师讲得非常好)--基础篇](https://www.bilibili.com/video/av71177491)
 * [MyBatis第一套 推荐学习此套(老师讲得非常好)--提高篇](https://www.bilibili.com/video/av71177582)
 # 有用的参考
-* [精尽 MyBatis 原理与源码系列](http://www.iocoder.cn/MyBatis/good-collection/)
+
 * [Mybatis](https://mybatis.org/mybatis-3/zh/index.html)
 * [MyBatis-Plus](https://mp.baomidou.com/guide/#%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1)
 * [mybatis 入门教程](http://www.mybatis.org/mybatis-3/zh/index.html)
