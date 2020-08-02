@@ -1,6 +1,6 @@
 
-[精尽 MyBatis 原理与源码系列](http://www.iocoder.cn/MyBatis/good-collection/)|
----|
+[精尽 MyBatis 原理与源码系列](http://www.iocoder.cn/MyBatis/good-collection/)|[Mybatis-原理总结](https://www.jianshu.com/p/b34e61339422)|
+---|---|
 
 
 
