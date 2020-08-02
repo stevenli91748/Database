@@ -3,10 +3,21 @@
 ---|
 
 
+
+
+
 # 实验
 
  * Spring + Spring MVC + Mybatis + MySQL集成
  * SpringBoot + Spring MVC + Mybatis + MySQL集成
+ 
+## Mybatis的配置
+   * 用XML方式对Mybatis进行配置
+   * 用注解方式对Mybatis进行配置
+   * 用Spring bean对Mybatis进行配置
+   * 用Java编码对Mybatis进行配置
+## 缓存
+   * Mybatis 
 
 
 
