@@ -20,6 +20,9 @@
    * 用注解方式对Mybatis进行配置
    * 用Spring bean对Mybatis进行配置
    * 用Java编码对Mybatis进行配置
+   
+   * Mybatis代码生成器的配置
+   
 ## 缓存
    * Mybatis 
 
