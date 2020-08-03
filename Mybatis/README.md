@@ -4,6 +4,10 @@
 
 
 
+# 注意点
+
+**由于Java 中的基本类型会有默认值, 在实体类中不要使用基本类型。基本类型包括byte 、int , short 、long 、float 、double 、char 、boolean **
+
 
 
 # 实验
@@ -45,3 +49,4 @@
 * [面试官问你MyBatis SQL是如何执行的？把这篇文章甩给](https://www.jianshu.com/p/e80f060e14d0)
 * [为什么项目中用了JOOQ后大家都不愿再用Mybatis](https://juejin.im/post/5de64988f265da33e228ddc8)
 * [便捷开发之mybatis逆向工程](https://juejin.im/post/5d371fbcf265da1b7c615a1a)
+* [MyBatis Mapper3接口大全](https://blog.csdn.net/wtopps/article/details/70232866?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5.channel_param)
