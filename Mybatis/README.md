@@ -50,3 +50,4 @@
 * [为什么项目中用了JOOQ后大家都不愿再用Mybatis](https://juejin.im/post/5de64988f265da33e228ddc8)
 * [便捷开发之mybatis逆向工程](https://juejin.im/post/5d371fbcf265da1b7c615a1a)
 * [MyBatis Mapper3接口大全](https://blog.csdn.net/wtopps/article/details/70232866?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-5.channel_param)
+* [使用 MyBatis 的 mapper 接口调用时有哪些要求](https://blog.csdn.net/qq_41806546/article/details/105293440?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-7.channel_param)
