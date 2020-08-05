@@ -53,6 +53,7 @@
 * [MyBatis第一套 推荐学习此套(老师讲得非常好)--基础篇](https://www.bilibili.com/video/av71177491)
 * [MyBatis第一套 推荐学习此套(老师讲得非常好)--提高篇](https://www.bilibili.com/video/av71177582)
 # 有用的参考
+* [MyBatis原理深入解析](https://www.jianshu.com/p/ec40a82cae28)
 
 * [Mybatis](https://mybatis.org/mybatis-3/zh/index.html)
 * [MyBatis-Plus](https://mp.baomidou.com/guide/#%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1)
