@@ -1,3 +1,11 @@
+# MyBatis的特点
+    
+    面向接口编程
+
+    可以在配置文件中定义 SQL 语句
+
+    支持动态 SQL, 这是其独特的一面
+
 
 [精尽 MyBatis 原理与源码系列](http://www.iocoder.cn/MyBatis/good-collection/)|[Mybatis-原理总结](https://www.jianshu.com/p/b34e61339422)|
 ---|---|
