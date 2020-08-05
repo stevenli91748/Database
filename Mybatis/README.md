@@ -1,13 +1,22 @@
 # MyBatis的特点
     
-    面向接口编程
-    可以在配置文件中定义 SQL 语句
-    支持动态 SQL, 这是其独特的一面
+   面向接口编程
+   可以在配置文件中定义 SQL 语句
+   支持动态 SQL, 这是其独特的一面
     
-    mybatis 初期使用比较麻烦，需要各种配置文件、实体类、dao 层映射关联、还有一大推其它配置。当然 mybatis 也发现了这种弊端，1) 初期开发了 generator 可以根据表结果自动生产实体类、配置文件和
-    dao 层代码，可以减轻一部分开发量；2) 后期也进行了大量的优化可以使用注解了，自动管理 dao 层和配置文件等。3) 后来在 springboot 中出现了 mybatis-spring-boot-starter，它就
-    是 springboot+mybatis，可以完全注解不用配置文件，也可以简单配置轻松上手，但是两种方式还是各有利弊。4) 再到最后就有了 mapper-spring-boot-starter，就是集成通用 Mapper 到 Spring Boot，
-    大部分场景无需注解，通过继承而来的通用方法即可实现，复杂的场景可通过注解手动 sql 实现
+   **mybatis 的开发方法，一共有四种方法可用**，初期使用比较麻烦，需要各种配置文件、实体类、dao 层映射关联、还有一大推其它配置。当然 mybatis 也发现了这种弊端，
+    
+   1) 初期开发了 generator 可以根据表结果自动生产实体类、配置文件和dao 层代码，可以减轻一部分开发量；
+    
+   2) 后期也进行了大量的优化可以使用注解了，自动管理 dao 层和配置文件等。
+    
+   3) 后来在 springboot 中出现了 mybatis-spring-boot-starter，它就是 springboot+mybatis，可以完全注解不用配置文件，也可以简单配置轻松上手，但是两种方式还是各有利弊。
+ 
+ * [MyBatis-Spring-Boot-Starter](https://jverson.com/spring-boot-demo/jdbc-orm/Mybatis-Springboot-Starter.html)
+ 
+    4) 再到最后就有了 mapper-spring-boot-starter，就是集成通用 Mapper 到 Spring Boot，大部分场景无需注解，通过继承而来的通用方法即可实现，复杂的场景可通过注解手动 sql 实现
+
+* [通用mapper]( https://jverson.com/spring-boot-demo/jdbc-orm/Mybatis-Common-Mapper.html)
 
     有两种方式实现对象方法与数据库操作 sql 之间的映射，注解方式和 xml 配置方式，相对传统的 xml 配置方式，注解方式要清爽很多。但是这只针对于简单语句来说，Java 注解对于稍微复杂的语句就会力不
     从心并且会显得更加混乱。因此，如果你需要做很复杂的事情，那么最好使用 XML 来映射语句
