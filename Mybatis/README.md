@@ -12,14 +12,14 @@
     
    3) 后来在 springboot 中出现了 mybatis-spring-boot-starter，它就是 springboot+mybatis，可以完全注解不用配置文件，也可以简单配置轻松上手，但是两种方式还是各有利弊。
  
- * [MyBatis-Spring-Boot-Starter](https://jverson.com/spring-boot-demo/jdbc-orm/Mybatis-Springboot-Starter.html)
+   * [MyBatis-Spring-Boot-Starter](https://jverson.com/spring-boot-demo/jdbc-orm/Mybatis-Springboot-Starter.html)
  
-    4) 再到最后就有了 mapper-spring-boot-starter，就是集成通用 Mapper 到 Spring Boot，大部分场景无需注解，通过继承而来的通用方法即可实现，复杂的场景可通过注解手动 sql 实现
+   4) 再到最后就有了 mapper-spring-boot-starter，就是集成通用 Mapper 到 Spring Boot，大部分场景无需注解，通过继承而来的通用方法即可实现，复杂的场景可通过注解手动 sql 实现
 
-* [通用mapper]( https://jverson.com/spring-boot-demo/jdbc-orm/Mybatis-Common-Mapper.html)
+   * [通用mapper]( https://jverson.com/spring-boot-demo/jdbc-orm/Mybatis-Common-Mapper.html)
 
-    有两种方式实现对象方法与数据库操作 sql 之间的映射，注解方式和 xml 配置方式，相对传统的 xml 配置方式，注解方式要清爽很多。但是这只针对于简单语句来说，Java 注解对于稍微复杂的语句就会力不
-    从心并且会显得更加混乱。因此，如果你需要做很复杂的事情，那么最好使用 XML 来映射语句
+   有两种方式实现对象方法与数据库操作 sql 之间的映射，注解方式和 xml 配置方式，相对传统的 xml 配置方式，注解方式要清爽很多。但是这只针对于简单语句来说，Java 注解对于稍微复杂的语句就会力不
+   从心并且会显得更加混乱。因此，如果你需要做很复杂的事情，那么最好使用 XML 来映射语句
 
 [精尽 MyBatis 原理与源码系列](http://www.iocoder.cn/MyBatis/good-collection/)|[Mybatis-原理总结](https://www.jianshu.com/p/b34e61339422)|
 ---|---|
