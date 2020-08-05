@@ -4,9 +4,9 @@
     可以在配置文件中定义 SQL 语句
     支持动态 SQL, 这是其独特的一面
     
-    mybatis 初期使用比较麻烦，需要各种配置文件、实体类、dao 层映射关联、还有一大推其它配置。当然 mybatis 也发现了这种弊端，初期开发了 generator 可以根据表结果自动生产实体类、配置文件和
-    dao 层代码，可以减轻一部分开发量；后期也进行了大量的优化可以使用注解了，自动管理 dao 层和配置文件等。后来在 springboot 中出现了 mybatis-spring-boot-starter，它就
-    是 springboot+mybatis，可以完全注解不用配置文件，也可以简单配置轻松上手，但是两种方式还是各有利弊。再到最后就有了 mapper-spring-boot-starter，就是集成通用 Mapper 到 Spring Boot，
+    mybatis 初期使用比较麻烦，需要各种配置文件、实体类、dao 层映射关联、还有一大推其它配置。当然 mybatis 也发现了这种弊端，1) 初期开发了 generator 可以根据表结果自动生产实体类、配置文件和
+    dao 层代码，可以减轻一部分开发量；2) 后期也进行了大量的优化可以使用注解了，自动管理 dao 层和配置文件等。3) 后来在 springboot 中出现了 mybatis-spring-boot-starter，它就
+    是 springboot+mybatis，可以完全注解不用配置文件，也可以简单配置轻松上手，但是两种方式还是各有利弊。4) 再到最后就有了 mapper-spring-boot-starter，就是集成通用 Mapper 到 Spring Boot，
     大部分场景无需注解，通过继承而来的通用方法即可实现，复杂的场景可通过注解手动 sql 实现
 
 
