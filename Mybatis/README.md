@@ -23,8 +23,8 @@
    有两种方式实现对象方法与数据库操作 sql 之间的映射，注解方式和 xml 配置方式，相对传统的 xml 配置方式，注解方式要清爽很多。但是这只针对于简单语句来说，Java 注解对于稍微复杂的语句就会力不
    从心并且会显得更加混乱。因此，如果你需要做很复杂的事情，那么最好使用 XML 来映射语句
 
-[精尽 MyBatis 原理与源码系列](http://www.iocoder.cn/MyBatis/good-collection/)|[Mybatis-原理总结](https://www.jianshu.com/p/b34e61339422)|
----|---|
+[精尽 MyBatis 原理与源码系列](http://www.iocoder.cn/MyBatis/good-collection/)|[Mybatis-原理总结](https://www.jianshu.com/p/b34e61339422)|[MyBatis原理深入解析](https://jverson.com/spring-boot-demo/jdbc-orm/Mybatis-Springboot-Starter.html)|
+---|---|---|
 
 
 
