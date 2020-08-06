@@ -126,3 +126,4 @@
 * [缓存那些事---详细描述缓存知识点](https://tech.meituan.com/2017/03/17/cache-about.html)
 * [架构真经 | 缓存为王](https://blog.csdn.net/qq_35246620/article/details/70234185)
 * [一篇文读懂缓存在大型分布式系统中的最佳应用](https://blog.csdn.net/hotdust/article/details/73123598)
+* [脚踏两只船的困惑 - Memcached与Redis](https://www.imooc.com/article/23549)
