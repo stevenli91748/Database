@@ -120,6 +120,6 @@
 * [什么是缓存雪崩？今晚前华为架构师带你真正理解缓存雪崩那些事儿](https://www.bilibili.com/video/av46230826/?spm_id_from=333.788.videocard.13)
 
 # 有用的参考
-
+* [缓存那些事---详细描述缓存知识点](https://tech.meituan.com/2017/03/17/cache-about.html)
 * [架构真经 | 缓存为王](https://blog.csdn.net/qq_35246620/article/details/70234185)
 
