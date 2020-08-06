@@ -1,5 +1,6 @@
 * [缓存概述](#缓存概述)
 * [缓存种类](#缓存种类)
+  * 
   * [Client caching]
   * [HTTP  Caching]  
     * [HTTP----HTTP缓存机制](https://juejin.im/post/5a1d4e546fb9a0450f21af23)
@@ -22,6 +23,8 @@
   * [缓存预热](#缓存预热)
 
 # 缓存概述 
+     
+  [Cache 概述](https://jverson.com/spring-boot-demo/cache/cache-0-introduction.html)
      
      缓存就是为了弥补存储系统在某些复杂业务场景下的不足， 缓存的基本原理就是将可能重复使用的数据放到内存中，一次生成，多次使用， 避免每次使用都去访问
      存储系统。虽然我们可以通过各种手段来提升存储系统的性能，但在某些复杂的业务场景下，单纯依靠存储系统的性能提升不够的，典型的场景如下。
