@@ -5,6 +5,7 @@
   * [HTTP  Caching]  
     * [HTTP----HTTP缓存机制](https://juejin.im/post/5a1d4e546fb9a0450f21af23)
   * [CDN caching]
+    * [全局负载均衡与CDN网络简介](https://blog.csdn.net/u010340143/article/details/9062213)
   * [Web server caching ]
   * [Database caching]
   * [Application caching]
