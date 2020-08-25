@@ -26,6 +26,7 @@
   * 全文搜索引擎：解决关系数据库的全文搜索性能问题，以Elasticsearch 为代表
     * [Elasticsearch](https://github.com/stevenli91748/Database/blob/master/Elasticsearch/README.md)
   * Memcache
+  * 图数据库 Neo4j
 * Distribute Database
 * [缓存系统](https://github.com/stevenli91748/Database/blob/master/缓存系统/README.md)
 * [数据库连接池](https://github.com/stevenli91748/Database/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0/README.md)
