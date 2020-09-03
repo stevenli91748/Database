@@ -1,5 +1,5 @@
 
-# [MySQL数据库面试题](https://thinkwon.blog.csdn.net/article/details/104778621)
+# [MySQL数据库面试题](https://github.com/stevenli91748/Database/blob/master/MySQL/Interview/README.md)
 
 windows mysql8 安装目录
 
