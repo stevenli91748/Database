@@ -1,4 +1,8 @@
 
+
+[MySQL数据库面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104778621)|
+---|
+
 1.MySql的存储引擎的不同
 
 2.单个索引、联合索引、主键索引
