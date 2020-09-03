@@ -1,4 +1,6 @@
 
+# [MySQL数据库面试题](https://thinkwon.blog.csdn.net/article/details/104778621)
+
 windows mysql8 安装目录
 
 c:\mysql\mysql server 8.0
