@@ -1,4 +1,7 @@
 
+[Redis面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/103522351)|
+---|
+
 <details>
 <summary>Redis有哪些数据类型？</summary>
 
