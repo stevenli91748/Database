@@ -31,8 +31,8 @@
 
 # 基本知识
 
-[Mybatis入门之基本操作](https://mp.weixin.qq.com/s/KdrEvlShnVoYA8nr0qLSNw)|
----|
+[Mybatis入门之基本操作](https://mp.weixin.qq.com/s/KdrEvlShnVoYA8nr0qLSNw)|[Mybatis动态SQL，你真的会了吗](https://juejin.im/post/6869178333003776008)|
+---|---|
 
 
 # 注意点
