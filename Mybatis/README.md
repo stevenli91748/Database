@@ -29,6 +29,12 @@
 
 
 
+# 基本知识
+
+[Mybatis入门之基本操作](https://mp.weixin.qq.com/s/KdrEvlShnVoYA8nr0qLSNw)|
+---|
+
+
 # 注意点
 
 **由于Java 中的基本类型会有默认值, 在实体类中不要使用基本类型。基本类型包括byte 、int , short 、long 、float 、double 、char 、boolean **
