@@ -3,6 +3,9 @@
 [常用数据库建模工具](https://blog.csdn.net/wren2004/article/details/79554817)|[关于电商网站数据库的设计](https://www.zhihu.com/question/27607346)|[研发库表设计规范](https://www.jianshu.com/p/4b0d82c817fa)|
 ---|---|---|
 
+
+
+
 [Database Design Course](https://www.youtube.com/watch?v=ztHopE5Wnpc)|
 ---|
 
