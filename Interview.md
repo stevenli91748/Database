@@ -1,7 +1,7 @@
 
 
-[MySQL数据库面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104778621)|
----|
+[MySQL数据库面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104778621)|[数据库常见面试题(开发者篇)](https://juejin.im/post/6844903569632526343)|
+---|---|
 
 1.MySql的存储引擎的不同
 
