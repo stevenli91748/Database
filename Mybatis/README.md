@@ -1,4 +1,10 @@
 # [MyBatis面试题](https://github.com/stevenli91748/Database/blob/master/Mybatis/Interview/README.md)
+
+
+[Mybatis工作流程及其原理](https://zhuanlan.zhihu.com/p/206887990?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
+---|
+
+
 # MyBatis的特点
     
    面向接口编程
