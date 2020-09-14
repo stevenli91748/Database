@@ -1,8 +1,8 @@
 # [MyBatis面试题](https://github.com/stevenli91748/Database/blob/master/Mybatis/Interview/README.md)
 
 
-[Mybatis工作流程及其原理](https://zhuanlan.zhihu.com/p/206887990?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
----|
+[Mybatis工作流程及其原理](https://zhuanlan.zhihu.com/p/206887990?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[持久层框架JPA与Mybatis该如何选型](http://www.zimug.com/java/%e6%8c%81%e4%b9%85%e5%b1%82%e6%a1%86%e6%9e%b6jpa%e4%b8%8emybatis%e8%af%a5%e5%a6%82%e4%bd%95%e9%80%89%e5%9e%8b/.html)|
+---|---|
 
 
 # MyBatis的特点
