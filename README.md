@@ -3,6 +3,8 @@
 [常用数据库建模工具](https://blog.csdn.net/wren2004/article/details/79554817)|[关于电商网站数据库的设计](https://www.zhihu.com/question/27607346)|[研发库表设计规范](https://www.jianshu.com/p/4b0d82c817fa)|
 ---|---|---|
 
+[超给力，一键生成数据库文档-数据库表结构逆向工程](http://www.zimug.com/java/spring/%e8%b6%85%e7%bb%99%e5%8a%9b%ef%bc%8c%e4%b8%80%e9%94%ae%e7%94%9f%e6%88%90%e6%95%b0%e6%8d%ae%e5%ba%93%e6%96%87%e6%a1%a3-%e6%95%b0%e6%8d%ae%e5%ba%93%e8%a1%a8%e7%bb%93%e6%9e%84%e9%80%86%e5%90%91%e5%b7%a5/.html)|
+---|
 
 
 
