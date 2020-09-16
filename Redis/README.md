@@ -1,3 +1,5 @@
+[精尽 Redis 学习指南](http://svip.iocoder.cn/Redis/tutorials/)|
+---|
 
 [Redis linux系统安装](https://github.com/stevenli91748/Database/blob/master/Redis/Redis%20linux系统安装/README.md)|[Redis Docker系统安装](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装Redis/README.md)|
 ---|---|
