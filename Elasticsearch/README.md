@@ -1,18 +1,3 @@
-* [Elastciseach概述](#Elastciseach概述)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Elastciseach概述
-**Elastciseach 是分布式的文挡存储方式。它能存储和检索复杂的数据结构一一序列化成为JSON 文挡一一以实时的方式。在Elasticsearch 中， 每个字段的所有数据都是默认被索引的。即每个字段都有为了快速检索设置的专用倒排索引。而且不像其他多数的数据库， 它能在相同的查询中使用所有倒排索引，并以惊人的速度返回结果。**
+[精尽 Elasticsearch 学习指南](http://svip.iocoder.cn/Elasticsearch/tutorials/)|
+---|
