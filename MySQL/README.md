@@ -40,7 +40,8 @@ enter password:
 mysql>
 
 
-
+[精尽 MySQL 学习指南](http://svip.iocoder.cn/MySQL/tutorials/)|
+---|
 
 # MySQL基础部分
 
