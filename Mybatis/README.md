@@ -32,15 +32,36 @@
    * [精尽 MyBatis 源码解析 —— MyBatis 初始化（二）之加载 Mapper 映射配置文件](http://svip.iocoder.cn/MyBatis/builder-package-2/)
    * [精尽 MyBatis 源码解析 —— MyBatis 初始化（三）之加载 Statement 配置](http://svip.iocoder.cn/MyBatis/builder-package-3/)
    * [精尽 MyBatis 源码解析 —— MyBatis 初始化（四）之加载注解配置](http://svip.iocoder.cn/MyBatis/builder-package-4/)
+
 ### SQL初始化
+
+   * [精尽 MyBatis 源码解析 —— SQL 初始化（上）之 SqlNode](http://svip.iocoder.cn/MyBatis/scripting-1/)
+   * [精尽 MyBatis 源码解析 —— SQL 初始化（下）之 SqlSource](http://svip.iocoder.cn/MyBatis/scripting-2/)
 ### SQL执行
+
+   * [精尽 MyBatis 源码解析 —— SQL 执行（一）之 Executor.md](http://svip.iocoder.cn/MyBatis/executor-1/)
+
 ### 参数设置
+
+   * [精尽 MyBatis 源码解析 —— SQL 执行（二）之 StatementHandler](http://svip.iocoder.cn/MyBatis/executor-2/)
 ### 主键生成
+
+   * [精尽 MyBatis 源码解析 —— SQL 执行（三）之 KeyGenerator](http://svip.iocoder.cn/MyBatis/executor-3/)
 ### 结果集映射
+
+   * [精尽 MyBatis 源码解析 —— SQL 执行（四）之 ResultSetHandler](http://svip.iocoder.cn/MyBatis/executor-4/)
 ### 延迟加载
+
+   * [精尽 MyBatis 源码解析 —— SQL 执行（五）之 延迟加载](http://svip.iocoder.cn/MyBatis/executor-5/)
+
 ### 插件体系
 
+  * [精尽 MyBatis 源码解析 —— 插件体系（一）之原理](http://svip.iocoder.cn/MyBatis/plugin-1/)
+  * [精尽 MyBatis 源码解析 —— 插件体系（二）之 PageHelper](http://svip.iocoder.cn/MyBatis/plugin-2/)
+
+
 ## 基础模块层
+
 
 
 
