@@ -7,6 +7,9 @@
 [Mybatis工作流程及其原理](https://zhuanlan.zhihu.com/p/206887990?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[持久层框架JPA与Mybatis该如何选型](http://www.zimug.com/java/%e6%8c%81%e4%b9%85%e5%b1%82%e6%a1%86%e6%9e%b6jpa%e4%b8%8emybatis%e8%af%a5%e5%a6%82%e4%bd%95%e9%80%89%e5%9e%8b/.html)|[超给力，一键生成数据库文档-数据库表结构逆向工程](http://www.zimug.com/java/spring/%e8%b6%85%e7%bb%99%e5%8a%9b%ef%bc%8c%e4%b8%80%e9%94%ae%e7%94%9f%e6%88%90%e6%95%b0%e6%8d%ae%e5%ba%93%e6%96%87%e6%a1%a3-%e6%95%b0%e6%8d%ae%e5%ba%93%e8%a1%a8%e7%bb%93%e6%9e%84%e9%80%86%e5%90%91%e5%b7%a5/.html)|
 ---|---|---|
 
+[精尽 MyBatis 源码分析 —— 调试环境搭建](http://svip.iocoder.cn/MyBatis/build-debugging-environment/)|[精尽 MyBatis 源码分析 —— 项目结构一览](http://svip.iocoder.cn/MyBatis/intro/)|
+---|---|
+
 # MyBatis 的分层非常干净，主要分成三层：
 
 * [1. API 接口层，暴露给开发者使用](#API接口层)
@@ -61,7 +64,18 @@
 
 
 ## 基础模块层
-
+ 
+* [精尽 MyBatis 源码解析 —— 解析器模块](http://svip.iocoder.cn/MyBatis/parsing-package/)
+* [精尽 MyBatis 源码解析 —— 反射模块](http://svip.iocoder.cn/MyBatis/reflection-package/)
+* [精尽 MyBatis 源码解析 —— 异常模块](http://svip.iocoder.cn/MyBatis/exception-package/)
+* [精尽 MyBatis 源码解析 —— 数据源模块](http://svip.iocoder.cn/MyBatis/datasource-package/)
+* [精尽 MyBatis 源码解析 —— 事务模块](http://svip.iocoder.cn/MyBatis/transaction-package/)
+* [精尽 MyBatis 源码解析 —— 缓存模块](http://svip.iocoder.cn/MyBatis/cache-package/)
+* [精尽 MyBatis 源码解析 —— 类型模块](http://svip.iocoder.cn/MyBatis/type-package/)
+* [精尽 MyBatis 源码解析 —— IO 模块](http://svip.iocoder.cn/MyBatis/io-package/)
+* [精尽 MyBatis 源码解析 —— 日志模块](http://svip.iocoder.cn/MyBatis/logging-package/)
+* [精尽 MyBatis 源码解析 —— 注解模块](http://svip.iocoder.cn/MyBatis/annotations-package/)
+* [精尽 MyBatis 源码解析 —— Binding 模块](http://svip.iocoder.cn/MyBatis/binding-package/)
 
 
 
