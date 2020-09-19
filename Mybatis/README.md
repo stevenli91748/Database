@@ -27,10 +27,11 @@
    * [插件体系](#插件体系)
    
 ### 配置初始化
-     * [精尽 MyBatis 源码解析 —— MyBatis 初始化（一）之加载 mybatis-config.md](http://svip.iocoder.cn/MyBatis/builder-package-1/)
-     * [精尽 MyBatis 源码解析 —— MyBatis 初始化（二）之加载 Mapper 映射配置文件](http://svip.iocoder.cn/MyBatis/builder-package-2/)
-     * [精尽 MyBatis 源码解析 —— MyBatis 初始化（三）之加载 Statement 配置](http://svip.iocoder.cn/MyBatis/builder-package-3/)
-     * [精尽 MyBatis 源码解析 —— MyBatis 初始化（四）之加载注解配置](http://svip.iocoder.cn/MyBatis/builder-package-4/)
+
+   * [精尽 MyBatis 源码解析 —— MyBatis 初始化（一）之加载 mybatis-config.md](http://svip.iocoder.cn/MyBatis/builder-package-1/)
+   * [精尽 MyBatis 源码解析 —— MyBatis 初始化（二）之加载 Mapper 映射配置文件](http://svip.iocoder.cn/MyBatis/builder-package-2/)
+   * [精尽 MyBatis 源码解析 —— MyBatis 初始化（三）之加载 Statement 配置](http://svip.iocoder.cn/MyBatis/builder-package-3/)
+   * [精尽 MyBatis 源码解析 —— MyBatis 初始化（四）之加载注解配置](http://svip.iocoder.cn/MyBatis/builder-package-4/)
 ### SQL初始化
 ### SQL执行
 ### 参数设置
