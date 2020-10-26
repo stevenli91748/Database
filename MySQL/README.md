@@ -82,6 +82,7 @@ mysql>
 [数据库两大神器【索引和锁】](https://juejin.im/post/5b55b842f265da0f9e589e79)|
 ---|
 
+---
 
 # 2 MySQL高级部分
 
@@ -135,7 +136,6 @@ mysql>
 [如果是MySQL引起的CPU消耗过大，你会如何优化？](https://www.jianshu.com/p/1990261fca3f)|[MySQL 大表优化方案](https://zhuanlan.zhihu.com/p/113736497?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|---|
 
-
 ## 2gb MySQL高可用架构设计
 
 ## 2gc MySQL高性能架构设计
@@ -150,13 +150,14 @@ mysql>
 [MySQL集群解决方案（主从复制、PXC集群、MyCat、HAProxy）](https://www.bilibili.com/video/BV1R4411s7zi/?spm_id_from=333.788.videocard.17)|
 ---|
 
-
+---
 
 # 3 MySQL故障处理
 
 [MySQL 故障处理](https://www.cnblogs.com/zping/category/1239555.html)|
 ---|
 
+---
 
 # 4 MySQL Tools
 [SQLyog](https://github.com/stevenli91748/Database/blob/master/SQLyog/README.md)|Navicat|
