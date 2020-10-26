@@ -138,6 +138,9 @@ mysql>
 
 ## 2gb MySQL高可用架构设计
 
+[MySQL 高可用案例](https://www.cnblogs.com/zping/category/182631.html)|
+---|
+
 ## 2gc MySQL高性能架构设计
 
 [20个MySQL高性能架构设计原则](https://zhuanlan.zhihu.com/p/143991793?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
@@ -154,7 +157,7 @@ mysql>
 
 # 3 MySQL故障处理
 
-[MySQL 故障处理](https://www.cnblogs.com/zping/category/1239555.html)|
+[MySQL 故障处理案例](https://www.cnblogs.com/zping/category/1239555.html)|
 ---|
 
 ---
