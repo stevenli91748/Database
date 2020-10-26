@@ -151,7 +151,10 @@ mysql>
 [SQLyog](https://github.com/stevenli91748/Database/blob/master/SQLyog/README.md)|Navicat|
 ---|---|
 
+# MySQL 故障处理
 
+[MySQL 故障处理](https://www.cnblogs.com/zping/category/1239555.html)|
+---|
 
 # Mysql视频
  * [mysql 8.0](https://www.youtube.com/channel/UCDV_54xfBb4aw0eJmvWLpsQ)
