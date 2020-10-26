@@ -92,6 +92,7 @@ c:\redis-2.4.5-win32-win64
  * [80分钟彻底搞懂Java分布式Redis高并发分布式锁实战](https://www.bilibili.com/video/av65046089)
  * [分布式架构专题- Redis高并发分布式锁实站](https://www.bilibili.com/video/av60449651/?spm_id_from=333.788.videocard.7)
 # 有用的参考
+* [这可能是目前最全的Redis高可用技术解决方案](https://www.jianshu.com/p/7a6a7d20e9ad)
 * [使用redis实现5万人同服的“相位技术”](https://zhuanlan.zhihu.com/p/166347236?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
 * [面试中关于Redis的问题看这篇就够了](https://juejin.im/post/5ad6e4066fb9a028d82c4b66)
 * [Redis官网](https://redis.io/)
