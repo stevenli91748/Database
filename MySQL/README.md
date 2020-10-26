@@ -40,16 +40,24 @@ enter password:
 mysql>
 
 
+# 目录
+
 [精尽 MySQL 学习指南](http://svip.iocoder.cn/MySQL/tutorials/)|
 ---|
 
-# MySQL基础部分
+* [1. MySQL基础部分](#1-MySQL基础部分)
+* [2. MySQL高级部分](#2-MySQL高级部分)
+* [3 MySQL故障处理](#3-MySQL故障处理)
+* [4 MySQL Tools](#4-MySQL-Tools)
 
+# 1 MySQL基础部分
+  * [1a MySQL内部架构](#1a-MySQL内部架构)
+  * [1b MySQL索引](#1b-MySQL索引)
 
 [MySQL Linux安装](https://github.com/stevenli91748/Database/blob/master/MySQL/MySQL%20Linux安装/README.md)|[MySQL Docker安装](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装MySQL/README.md)|[Percona Server 5.7 源码安装](https://www.cnblogs.com/knmax/p/9211450.html)|
 ---|---|---|
 
-## MySQL内部架构
+## 1a MySQL内部架构
 
 [MySQL 内核的架构设计](https://zhuanlan.zhihu.com/p/150583672?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[Mysql之架构设计](https://www.jianshu.com/p/192bc46c7fb2)|[支撑百万并发的数据库架构如何设计？](https://zhuanlan.zhihu.com/p/57802566?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|---|---|
@@ -57,20 +65,16 @@ mysql>
 [mySql的执行顺序和执行计划](https://zhuanlan.zhihu.com/p/174837654?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|
 
-
 [MySQL8.0 的配置文件](https://blog.csdn.net/wm3tcw28/article/details/78942693?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase)|[MySQL 启动 登录 停止](https://github.com/stevenli91748/Database/blob/master/MySQL/MySQL%20%E5%90%AF%E5%8A%A8%20%E7%99%BB%E5%BD%95%20%E5%81%9C%E6%AD%A2.md)| [应用程序跟MySQL数据库连接的知识点](https://github.com/stevenli91748/Database/blob/master/MySQL/%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E8%B7%9FMySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E7%9A%84%E7%9F%A5%E8%AF%86%E7%82%B9.md)|[MySQL核心知识点](https://zhuanlan.zhihu.com/p/64786634?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|---|---|---|
 
 [SQL语法](https://github.com/stevenli91748/Database/blob/master/MySQL/SQL%E8%AF%AD%E6%B3%95.md)|[面试官突然问我MySQL存储过程，我竟然连基础都不会！（详细）](https://zhuanlan.zhihu.com/p/148939731?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|---|
 
-
 [MySql数据库锁机制详解](https://zhuanlan.zhihu.com/p/65076956?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[MySql连接数与线程池](https://cloud.tencent.com/developer/article/1502887)|
 ---|---|
 
-
-
-##  MySQL索引
+##  1b MySQL索引
 
 [MySQL索引优化，explain讲得非常清楚了](https://www.jianshu.com/p/4f8ab1b85059)|[Mysql篇之索引原理](https://www.jianshu.com/p/73cd9288a652)|[无语，我差点被面试官怼坏了，又给我问到MySQL索引](https://www.jianshu.com/p/c82148473235)|
 ---|---|---|
@@ -79,23 +83,23 @@ mysql>
 ---|
 
 
-# MySQL高级部分
+# 2 MySQL高级部分
 
-* [MySQL主从复制](#MySQL主从复制)
-* [MySQL分库分表](#MySQL分库分表)
-* [Mysql读写分离](#Mysql读写分离)
-* [MySQL之备份与恢复](#MySQL之备份与恢复)
-* [MySQL索引](#MySQL索引)
-* [MySQL优化](#MySQL优化)
+* [2a MySQL主从复制](#2a-MySQL主从复制)
+* [2b MySQL分库分表](#2b-MySQL分库分表)
+* [2c Mysql读写分离](#2c-Mysql读写分离)
+* [2d MySQL之备份与恢复](#2d-MySQL之备份与恢复)
+* [2e MySQL索引](#2e-MySQL索引)
+* [2f MySQL优化](#2f-MySQL优化)
+* [2g MySQL架构设计](#2g-MySQL架构设计)
 
+## 2g MySQL架构设计
+* [2ga MySQL集群](#2ga-MySQL集群)
+* [2gb MySQL高可用架构设计](#2gb-MySQL高可用架构设计)
+* [2gc MySQL高性能架构设计](#2gc-MySQL高性能架构设计)
+* [2gd MySQL可展设计](#2gd-MySQL可展设计)
 
-## MySQL架构设计
-* [MySQL集群](#MySQL集群)
-* [MySQL高可用架构设计](#MySQL高可用架构设计)
-* [MySQL高性能架构设计](#MySQL高性能架构设计)
-* [MySQL可展设计](#MySQL可展设计)
-
-## MySQL主从复制
+## 2a MySQL主从复制
 
 [MySQL主从结构](https://www.bilibili.com/video/av61935013?from=search&seid=11244131792888282581)|[打造基于Docker的MySQL主从复制](https://www.bilibili.com/video/BV1kp411R7uF)|[MySQL主从复制，每秒完成30万订单](https://www.bilibili.com/video/BV1Q4411X7y8)|
 ---|---|---|
@@ -103,24 +107,24 @@ mysql>
 [MySQL主从同步延迟调查](https://zhuanlan.zhihu.com/p/36501637?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|
 
-## MySQL分库分表
+## 2b MySQL分库分表
 
 [2020最新技术ShardingJDBC 分库分表 -吊打MyCat](https://www.bilibili.com/video/BV1nT4y157Xp/?spm_id_from=333.788.videocard.1)|[2020面试一线大厂必问的数据库分库分表教程全集（mysql+mycat)](https://www.bilibili.com/video/BV1vJ41187E1/?spm_id_from=333.788.videocard.1)|
 ---|---|
 
-## Mysql读写分离
+## 2c Mysql读写分离
 
 [Mysql读写分离](https://www.bilibili.com/video/BV1r4411B7pv/?spm_id_from=333.788.videocard.0)|[基于MyCat实现MySQL读写分离](https://www.bilibili.com/video/BV1BE411e7w3/?spm_id_from=333.788.videocard.0)|[100分钟掌握高可用架构实战MySQL读写分离技术全集](https://www.bilibili.com/video/BV1J4411o7y4/?spm_id_from=333.788.videocard.3)|
 ---|---|---|
 
-## MySQL之备份与恢复
+## 2d MySQL之备份与恢复
 
-## MySQL索引
+## 2e MySQL索引
 
 [阿里P8架构师，100分钟讲透MySQL索引底层原理！](https://www.bilibili.com/video/BV1BJ411i7WR/?spm_id_from=333.788.videocard.5)|
 ---|
 
-## MySQL优化
+## 2f MySQL优化
 
 [MySQL线上SQL捕获及分析](https://www.youtube.com/watch?v=s4J4j4rV510)|[Oracle 和 MySQL 的 JDBC 到底有多慢？](https://zhuanlan.zhihu.com/p/103172180?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[MySQL性能调优笔记](https://shimo.im/docs/kTXQQpYR8YdWWtWj/read?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
 ---|---|---|
@@ -132,29 +136,33 @@ mysql>
 ---|---|
 
 
-## MySQL高可用架构设计
+## 2gb MySQL高可用架构设计
 
-## MySQL高性能架构设计
+## 2gc MySQL高性能架构设计
 
 [20个MySQL高性能架构设计原则](https://zhuanlan.zhihu.com/p/143991793?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|
 
-## MySQL可展设计
+## 2gd MySQL可展设计
 
-## MySQL集群
+## 2ga MySQL集群
 
 [MySQL集群解决方案（主从复制、PXC集群、MyCat、HAProxy）](https://www.bilibili.com/video/BV1R4411s7zi/?spm_id_from=333.788.videocard.17)|
 ---|
 
 
-## MySQL Tools
-[SQLyog](https://github.com/stevenli91748/Database/blob/master/SQLyog/README.md)|Navicat|
----|---|
 
-# MySQL 故障处理
+# 3 MySQL故障处理
 
 [MySQL 故障处理](https://www.cnblogs.com/zping/category/1239555.html)|
 ---|
+
+
+# 4 MySQL Tools
+[SQLyog](https://github.com/stevenli91748/Database/blob/master/SQLyog/README.md)|Navicat|
+---|---|
+
+
 
 # Mysql视频
  * [mysql 8.0](https://www.youtube.com/channel/UCDV_54xfBb4aw0eJmvWLpsQ)
