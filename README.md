@@ -1,7 +1,10 @@
 # [Database 面试](https://github.com/stevenli91748/Database/blob/master/Interview.md)
 
-[芋道源码---数据库实体设计](http://svip.iocoder.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E4%BD%93%E8%AE%BE%E8%AE%A1/)|[数据库设计](https://www.cnblogs.com/zping/category/147365.html)|[Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=43s)|
----|---|---|
+[芋道源码---数据库实体设计](http://svip.iocoder.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E4%BD%93%E8%AE%BE%E8%AE%A1/)|[数据库设计](https://www.cnblogs.com/zping/category/147365.html)|
+---|---|
+
+[Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=43s)|
+---|
 
 [常用数据库建模工具](https://blog.csdn.net/wren2004/article/details/79554817)|[关于电商网站数据库的设计](https://www.zhihu.com/question/27607346)|[研发库表设计规范](https://www.jianshu.com/p/4b0d82c817fa)|
 ---|---|---|
