@@ -19,6 +19,19 @@
 
 # 目录
 * [数据库概述](#数据库概述)
+* 数据库设计
+  * 需求建模
+    * 需求分析---就是要明确系统的数据存储需求
+    * 概念设计
+      * 1. E-R图
+      * 2. 表结构设计
+        * 2.1  表结构设计工具
+          * MySQL workbench
+          * Navicat
+          * phpMyAdmin
+      * 3. 列的约束，限制
+      * 4. 索引的设计
+
 * [JDBC](https://github.com/stevenli91748/Database/blob/master/JDBC/README.md)
 * [关系数据库](https://github.com/stevenli91748/Database/blob/master/关系数据库/README.md)
   * [MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/README.md)
