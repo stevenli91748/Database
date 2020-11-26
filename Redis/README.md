@@ -17,6 +17,7 @@
 * [Redis概述](#Redis概述)
 * [Redis缺点](#Redis缺点)
 * [Redis 数据结构和底层实现](#Redis-数据结构和底层实现)
+* [redis存储对象与对象序列化详解](https://www.shuzhiduo.com/A/A7zgRDmPd4/)
 * [持久化方式](#持久化方式)
 * [分布式方案](#分布式方案)
 
