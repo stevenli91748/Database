@@ -23,6 +23,12 @@
 * [redis存储对象与对象序列化详解](https://www.shuzhiduo.com/A/A7zgRDmPd4/)
 * [持久化方式](#持久化方式)
 * [分布式方案](#分布式方案)
+* [Redis集群]()
+  * [集群模式]()
+    * [主从模式]()
+    * [sentinel（哨兵）模式]()
+    * [cluster模式]()
+  * [redis集群性能监控  ](https://www.kubernetes.org.cn/7616.html)
 
 # 已安装Redis
 安装目录
