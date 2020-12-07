@@ -10,8 +10,8 @@
 [阿里官方Redis开发规范！](https://zhuanlan.zhihu.com/p/149370312?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|
 
-[手把手教你搭建 Redis 集群](https://mp.weixin.qq.com/s/EW2jl3WOLQWyfeBUk3JFnQ)|
----|
+[手把手教你搭建 Redis 集群](https://mp.weixin.qq.com/s/EW2jl3WOLQWyfeBUk3JFnQ)|[使用redis-exporter对redis集群进行性能监控](https://www.kubernetes.org.cn/7616.html)|
+---|---|
 
 [redis如何打造，实时统计分析平台](https://www.bilibili.com/video/BV17p411R7E9)|[系统架构基础组件开发，手写Redis连接池](https://www.bilibili.com/video/BV1Ls411p7jM)|
 ---|---|
