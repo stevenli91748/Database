@@ -1,7 +1,7 @@
 # [Database 面试](https://github.com/stevenli91748/Database/blob/master/Interview.md)
 
-[芋道源码---数据库实体设计](http://svip.iocoder.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E4%BD%93%E8%AE%BE%E8%AE%A1/)|[数据库设计](https://www.cnblogs.com/zping/category/147365.html)|
----|---|
+[芋道源码---数据库实体设计](http://svip.iocoder.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E4%BD%93%E8%AE%BE%E8%AE%A1/)|[数据库设计](https://www.cnblogs.com/zping/category/147365.html)|[数据库架构设计的三种模式：share nothing , share everythong , share disk](https://www.cnblogs.com/kzwrcom/p/6397709.html)|
+---|---|---|
 
 [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=43s)|
 ---|
