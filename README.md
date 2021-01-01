@@ -95,6 +95,7 @@
  * [一堂课带你精通~数据库连接池编程思想与实现](https://www.bilibili.com/video/av58455529)
 
 # 有用的参考
+ * [为什么不建议把数据库部署在Docker容器内](https://www.jianshu.com/p/8540704fa4d1)
  * [面试官扎心一问：数据量很大，分页查询很慢，有什么优化方案？](https://zhuanlan.zhihu.com/p/169599922?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
  * [数据库并发控制](https://zhuanlan.zhihu.com/p/168672853?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
  * [如何设计能支撑百万并发的数据库架构？](http://www.52im.net/thread-2510-1-1.html)
