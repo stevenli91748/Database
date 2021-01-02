@@ -16,8 +16,8 @@
 [redis如何打造，实时统计分析平台](https://www.bilibili.com/video/BV17p411R7E9)|[系统架构基础组件开发，手写Redis连接池](https://www.bilibili.com/video/BV1Ls411p7jM)|
 ---|---|
 
-[Spring Data Redis 最佳实践](https://www.jianshu.com/p/6eb4306ef365)|
----|
+[Spring Data Redis 最佳实践](https://www.jianshu.com/p/6eb4306ef365)|[Docker环境下秒建Redis集群，连SpringBoot也整上了](https://www.jianshu.com/p/ca06e437614f)|
+---|---|
 
 # 目录
 * [Redis概述](#Redis概述)
