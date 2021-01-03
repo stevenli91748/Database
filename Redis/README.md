@@ -32,6 +32,7 @@
 * [持久化方式](#持久化方式)
 * [分布式方案](#分布式方案)
 * [Redis集群]()
+  * [基于Redis5的集群搭建和使用](https://blog.csdn.net/autfish/article/details/89521682)
   * [集群模式]()
     * [主从模式]()
     * [sentinel（哨兵）模式]()
