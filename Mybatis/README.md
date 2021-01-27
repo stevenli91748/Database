@@ -166,7 +166,7 @@
 * [MyBatis第一套 推荐学习此套(老师讲得非常好)--提高篇](https://www.bilibili.com/video/av71177582)
 # 有用的参考
 * [MyBatis原理深入解析](https://www.jianshu.com/p/ec40a82cae28)
-
+* [Mybatis从浅入深-Plus（IDEA版通俗易懂）](https://cloud.tencent.com/developer/article/1776192?from=article.detail.1751679)
 * [Mybatis](https://mybatis.org/mybatis-3/zh/index.html)
 * [MyBatis-Plus](https://mp.baomidou.com/guide/#%E4%BB%A3%E7%A0%81%E6%89%98%E7%AE%A1)
 * [mybatis 入门教程](http://www.mybatis.org/mybatis-3/zh/index.html)
