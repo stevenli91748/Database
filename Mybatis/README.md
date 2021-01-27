@@ -165,6 +165,7 @@
 * [MyBatis第一套 推荐学习此套(老师讲得非常好)--基础篇](https://www.bilibili.com/video/av71177491)
 * [MyBatis第一套 推荐学习此套(老师讲得非常好)--提高篇](https://www.bilibili.com/video/av71177582)
 # 有用的参考
+* [这下够清楚了吧！详解Mybatis的Mapper映射文件](https://cloud.tencent.com/developer/article/1764198?from=article.detail.1776192)
 * [MyBatis原理深入解析](https://www.jianshu.com/p/ec40a82cae28)
 * [Mybatis从浅入深-Plus（IDEA版通俗易懂）](https://cloud.tencent.com/developer/article/1776192?from=article.detail.1751679)
 * [Mybatis](https://mybatis.org/mybatis-3/zh/index.html)
