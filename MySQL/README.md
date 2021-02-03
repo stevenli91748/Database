@@ -150,8 +150,8 @@ mysql>
 
 ## 2ga MySQL集群
 
-[MySQL集群解决方案（主从复制、PXC集群、MyCat、HAProxy）](https://www.bilibili.com/video/BV1R4411s7zi/?spm_id_from=333.788.videocard.17)|
----|
+[MySQL集群解决方案（主从复制、PXC集群、MyCat、HAProxy）](https://www.bilibili.com/video/BV1R4411s7zi/?spm_id_from=333.788.videocard.17)|[MySQL 高可用架构之 PXC 集群](https://juejin.cn/post/6844904039063224327)|[安装PXC集群在Docker](https://www.kancloud.cn/pm1028/kubenetes/1767444)|
+---|---|---|
 
 ---
 
