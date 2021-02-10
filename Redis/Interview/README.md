@@ -1,6 +1,6 @@
 
-[Redis面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/103522351)|
----|
+[Redis面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/103522351)|[你对Redis缓存了解吗](https://mp.weixin.qq.com/s?__biz=MzIwNjg4MzY4NA==&mid=2247484669&idx=1&sn=50f6273dc5812409b6bba1741cafe27a&chksm=971b9af6a06c13e02ce88ec98bf4826f425d04deb8901354f5e6ff9b410e8153d5b863092b64&scene=21#wechat_redirect)|
+---|---|
 
 <details>
 <summary>Redis有哪些数据类型？</summary>
