@@ -1,6 +1,6 @@
 
-[MySQL数据库面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/104778621)|
----|
+[MySQL数据库面试题（2020最新版）](https://thinkwon.blog.csdn.net/article/details/104778621)|[2020年MySQL数据库面试题总结（50道题含答案解析）](https://mp.weixin.qq.com/s?__biz=MzIwNjg4MzY4NA==&mid=2247486253&idx=1&sn=856a142d0ff356a84a3f5e36806c8986&chksm=971b9526a06c1c30ee49526878e331d6d1672258c56ca2369bb1a17d851fd57f9cc5b8441a8e&scene=21#wechat_redirect)|
+---|---|
 
 164.数据库的三范式是什么？
 
