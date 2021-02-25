@@ -67,6 +67,9 @@
     * [HBase](https://github.com/stevenli91748/Database/blob/master/HBase/README.md)
     * Storm
     * Hive
+* Database Tools
+  * [navicat](https://github.com/stevenli91748/Database/blob/master/Navicat/README.md)
+
 ## 数据库概述
 
 数据库的高性能方案有：优化当前数据库，和建立集群。
