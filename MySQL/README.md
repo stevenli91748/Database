@@ -42,8 +42,8 @@ mysql>
 
 # 目录
 
-[精尽 MySQL 学习指南](http://svip.iocoder.cn/MySQL/tutorials/)|
----|
+[精尽 MySQL 学习指南](http://svip.iocoder.cn/MySQL/tutorials/)|[Xtrabackup实现数据的备份与恢复](https://www.kancloud.cn/suixiaofeng/linux/791378)|
+---|---|
 
 * [1. MySQL基础部分](#1-MySQL基础部分)
 * [2. MySQL高级部分](#2-MySQL高级部分)
