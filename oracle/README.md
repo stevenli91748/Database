@@ -14,7 +14,7 @@
 # 有用的参考
 
 * [Oracle数据库的下载和安装](https://www.shuzhiduo.com/A/xl56V6p75r/)
-
+* [Oracle 11g R2安装文档](https://developer.aliyun.com/article/714450)
 
 
  ## OCP
