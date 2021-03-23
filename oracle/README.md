@@ -5,7 +5,7 @@
 
 # 视频
 
-[51CTO数据库教学总监-Oracle原厂授权讲师](https://edu.51cto.com/lecturer/8020378-p1.html)|[现就职于Oracle（中国）有限公司高级技术顾问](https://edu.51cto.com/lecturer/2788082-p4-c16.html)|
+[风哥-51CTO数据库教学总监-Oracle原厂授权讲师](https://edu.51cto.com/lecturer/8020378-p1.html)|[赵强-现就职于Oracle（中国）有限公司高级技术顾问](https://edu.51cto.com/lecturer/2788082-p4-c16.html)|
 ---|---|
 
 * [The Oracle Foundations Associate Cloud Certification (2020 PASS THE EXAM) – Full Course](https://www.youtube.com/watch?v=si9tjcnxruU)
