@@ -164,7 +164,11 @@
 * [尚硅谷Java视频教程_MyBatisPlus](https://www.bilibili.com/video/av36304490?from=search&seid=10550336197411701893)
 * [MyBatis第一套 推荐学习此套(老师讲得非常好)--基础篇](https://www.bilibili.com/video/av71177491)
 * [MyBatis第一套 推荐学习此套(老师讲得非常好)--提高篇](https://www.bilibili.com/video/av71177582)
+
+
+
 # 有用的参考
+* [java对象：PO/POJO/VO/BO/DAO/DTO分析](https://zhuanlan.zhihu.com/p/42288383)
 * [MyBatis学习总结（一）——ORM概要与MyBatis快速起步](https://www.cnblogs.com/best/p/9711215.html)
 * [MyBatis学习总结（二）——MyBatis核心配置文件与输入输出映射](https://cloud.tencent.com/developer/article/1351899?from=article.detail.1776192)
 * [这下够清楚了吧！详解Mybatis的Mapper映射文件](https://cloud.tencent.com/developer/article/1764198?from=article.detail.1776192)
