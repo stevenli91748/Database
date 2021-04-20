@@ -111,6 +111,7 @@ c:\redis-2.4.5-win32-win64
  * [80分钟彻底搞懂Java分布式Redis高并发分布式锁实战](https://www.bilibili.com/video/av65046089)
  * [分布式架构专题- Redis高并发分布式锁实站](https://www.bilibili.com/video/av60449651/?spm_id_from=333.788.videocard.7)
 # 有用的参考
+* [我是如何用Redis做实时订阅推送的](https://developer.51cto.com/art/202103/651593.htm)
 * [Redis GEO 功能使用场景](https://www.chensongxia.cn/262.html)
 * [Redis系列：高可用哨兵方案部署](https://cloud.tencent.com/developer/article/1720754?from=article.detail.1026003)
 * [redis知识点汇总](https://www.cnblogs.com/Jtianlin/p/10259062.html)
