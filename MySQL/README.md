@@ -49,6 +49,7 @@ mysql>
 * [2. MySQL高级部分](#2-MySQL高级部分)
 * [3 MySQL故障处理](#3-MySQL故障处理)
 * [4 MySQL Tools](#4-MySQL-Tools)
+* [5 MySQL事务](#5-MySQL事务])
 
 # 1 MySQL基础部分
   * [1a MySQL内部架构](#1a-MySQL内部架构)
@@ -166,7 +167,9 @@ mysql>
 [SQLyog](https://github.com/stevenli91748/Database/blob/master/SQLyog/README.md)|Navicat|
 ---|---|
 
+# 5 MySQL事务
 
+ * [面试官：你说对MySQL事务很熟？那我问你10个问题](https://mp.weixin.qq.com/s/gAttYA4XfZHwOcYkzyMRZQ)
 
 # Mysql视频
  * [mysql 8.0](https://www.youtube.com/channel/UCDV_54xfBb4aw0eJmvWLpsQ)
