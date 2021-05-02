@@ -73,7 +73,7 @@ mysql>
     * 手动启动---在MySQL安装⽬录下的bin⽬录下有⼀个mysqld可执⾏⽂件，在命令⾏⾥输⼊mysqld，或者直接双击运⾏它就算启动了MySQL服务器程序了
     * 以服务的形式启动---需要在计算机启动的时候便启动它，⼀般我们都会把它注册为⼀个Windows 服务，把某个程序注册为Windows服务的⽅式挺简单:
                        "完整的可执⾏⽂件路径" --install [-manual] [服务名]，例如 "C:\Program Files\MySQL\MySQL Server5.7\bin\mysqld" --install， 在把mysqld注册为Windows服务之后，
-                       我们就可以通过下边这个命令( net start MySQL )来启动MySQL服务器程序
+                       我们就可以通过下边这个命令( net start MySQL )来启动MySQL服务器程序, 或 关闭 （net stop MySQL）
 * [1a MySQL内部架构](#1a-MySQL内部架构)
 * [1b MySQL索引](#1b-MySQL索引)
 
