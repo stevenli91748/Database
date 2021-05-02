@@ -52,8 +52,9 @@ mysql>
 * [5 MySQL事务](#5-MySQL事务])
 
 # 1 MySQL基础部分
-  * [1a MySQL内部架构](#1a-MySQL内部架构)
-  * [1b MySQL索引](#1b-MySQL索引)
+
+[1a MySQL内部架构](#1a-MySQL内部架构)| [1b MySQL索引](#1b-MySQL索引)|
+---|---|
 
 [MySQL Linux安装](https://github.com/stevenli91748/Database/blob/master/MySQL/MySQL%20Linux安装/README.md)|[MySQL Docker安装](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装MySQL/README.md)|[Percona Server 5.7 源码安装](https://www.cnblogs.com/knmax/p/9211450.html)|
 ---|---|---|
