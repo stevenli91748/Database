@@ -58,7 +58,7 @@ mysql>
   * [MySQL Docker安装](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装MySQL/README.md)
   * [Percona Server 5.7 源码安装](https://www.cnblogs.com/knmax/p/9211450.html)
 
-* 启动 MySQL数据库的几种方式
+* linux启动 MySQL数据库的几种方式
   * 启动MySQL服务端程序的方式
     * mysqld---mysqld这个可执⾏⽂件就代表着MySQL服务器程序，运⾏这个可执⾏⽂件就可以直接启动⼀个服务器进程
     * mysqld_safe---mysqld_safe是⼀个启动脚本，它会间接的调⽤mysqld，⽽且还顺便启动了另外⼀个监控进程，这个监控进程在服务器进程挂了的时候，可以帮助重启它。另外，使⽤mysqld_safe启动服务
@@ -68,6 +68,12 @@ mysql>
   * 启动MySQL客户端程序的方式        
     *  mysql --user=root --password=gz19731108
     *  mysql -u root -p gz19731108 
+* Windos启动 MySQL数据库的几种方式
+  * 启动MySQL服务端程序的方式
+    * 手动启动---在MySQL安装⽬录下的bin⽬录下有⼀个mysqld可执⾏⽂件，在命令⾏⾥输⼊mysqld，或者直接双击运⾏它就算启动了MySQL服务器程序了
+    * 以服务的形式启动---需要在计算机启动的时候便启动它，⼀般我们都会把它注册为⼀个Windows 服务，把某个程序注册为Windows服务的⽅式挺简单:
+                       "完整的可执⾏⽂件路径" --install [-manual] [服务名]，例如 "C:\Program Files\MySQL\MySQL Server5.7\bin\mysqld" --install， 在把mysqld注册为Windows服务之后，
+                       我们就可以通过下边这个命令( net start MySQL )来启动MySQL服务器程序
 * [1a MySQL内部架构](#1a-MySQL内部架构)
 * [1b MySQL索引](#1b-MySQL索引)
 
