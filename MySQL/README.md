@@ -88,7 +88,9 @@ mysql>
                        共享内存需要在启动服务器程序的命令中加上--shared-memory参数，在成功启动服务器后，共享内存便成为本地客户端程序的默认连接⽅式，不过我们也可以在启动客户端程序的命令中加
                        ⼊--protocol=memory参数来显式的指定使⽤共享内存进⾏通信，不过需要注意的是，使⽤共享内存的⽅式进⾏通信的服务器进程和客户端进程必须在同⼀台Windows主机中
   * Unix域套接字⽂件--- 在unix 系统中使用
-                       
+                       启动服务端程序时指定socket参数： mysqld --socket=/tmp/a.txt
+                       启动客户端程序： mysql -hlocalhost -uroot --socket=/tmp/a.txt -p
+                       这样该客户端进程和服务器进程就可以通过路径为/tmp/a.txt的Unix域套接字⽂件进⾏通信了
    
 
 
