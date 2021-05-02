@@ -59,6 +59,13 @@ mysql>
 [MySQL Linux安装](https://github.com/stevenli91748/Database/blob/master/MySQL/MySQL%20Linux安装/README.md)|[MySQL Docker安装](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装MySQL/README.md)|[Percona Server 5.7 源码安装](https://www.cnblogs.com/knmax/p/9211450.html)|
 ---|---|---|
 
+* 启动 MySQL数据库的几种方式
+  * 启动MySQL服务器程序的方式
+    * mysqld---mysqld这个可执⾏⽂件就代表着MySQL服务器程序，运⾏这个可执⾏⽂件就可以直接启动⼀个服务器进程
+    * mysqld_safe---mysqld_safe是⼀个启动脚本，它会间接的调⽤mysqld，⽽且还顺便启动了另外⼀个监控进程，这个监控进程在服务器进程挂了的时候，可以帮助重启它。另外，使⽤mysqld_safe启动服务
+                    器程序时，它会将服务器程序的出错信息和其他诊断信息重定向到某个⽂件中，产⽣出错⽇志，这样可以⽅便我们找出发⽣错误的原因
+    * mysql.server---mysql.server也是⼀个启动脚本，它会间接的调⽤mysqld_safe，在调⽤mysql.server时在后边指定start参数就可以启动服务器程序了
+
 ## 1a MySQL内部架构
 
 [MySQL 内核的架构设计](https://zhuanlan.zhihu.com/p/150583672?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[Mysql之架构设计](https://www.jianshu.com/p/192bc46c7fb2)|[支撑百万并发的数据库架构如何设计？](https://zhuanlan.zhihu.com/p/57802566?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
