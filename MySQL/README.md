@@ -60,12 +60,13 @@ mysql>
 
 * linux启动 MySQL数据库的几种方式
   * 启动MySQL服务端程序的方式
-    * mysqld---mysqld这个可执⾏⽂件就代表着MySQL服务器程序，运⾏这个可执⾏⽂件就可以直接启动⼀个服务器进程
+    * mysqld---mysqld这个可执⾏⽂件就代表着MySQL服务器程序，运⾏这个可执⾏⽂件就可以直接启动⼀个服务器进程, 可指定自定义端口： mysqld -P3307（大写的P）,默认是3306
     * mysqld_safe---mysqld_safe是⼀个启动脚本，它会间接的调⽤mysqld，⽽且还顺便启动了另外⼀个监控进程，这个监控进程在服务器进程挂了的时候，可以帮助重启它。另外，使⽤mysqld_safe启动服务
                     器程序时，它会将服务器程序的出错信息和其他诊断信息重定向到某个⽂件中，产⽣出错⽇志，这样可以⽅便我们找出发⽣错误的原因
     * mysqld_multi---其实我们⼀台计算机上也可以运⾏多个服务器实例，也就是运⾏多个MySQL服务器进程。mysql_multi可执⾏⽂件可以对每⼀个服务器进程的启动或停⽌进⾏监控
     * mysql.server---mysql.server也是⼀个启动脚本，它会间接的调⽤mysqld_safe，在调⽤mysql.server时在后边指定start参数就可以启动服务器程序了， mysql.server start or mysql.server stop
-  * 启动MySQL客户端程序的方式        
+  * 启动MySQL客户端程序的方式 
+    *  mysql -h主机名 -u⽤户名 -p密码       
     *  mysql --user=root --password=gz19731108
     *  mysql -u root -p gz19731108 
 * Windos启动 MySQL数据库的几种方式
@@ -79,6 +80,13 @@ mysql>
 
 
 ## 1a MySQL内部架构
+
+* MySQL客户端与服务器连接的过程---MySQL⽀持下边三种客户端进程和服务器进程的通信⽅式
+  * TCP/IP
+  * 命名管道和共享内存
+  * Unix域套接字⽂件
+   
+
 
 [MySQL 内核的架构设计](https://zhuanlan.zhihu.com/p/150583672?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[Mysql之架构设计](https://www.jianshu.com/p/192bc46c7fb2)|[支撑百万并发的数据库架构如何设计？](https://zhuanlan.zhihu.com/p/57802566?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|---|---|
