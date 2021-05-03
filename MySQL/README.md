@@ -91,8 +91,13 @@ mysql>
                        启动服务端程序时指定socket参数： mysqld --socket=/tmp/a.txt
                        启动客户端程序： mysql -hlocalhost -uroot --socket=/tmp/a.txt -p
                        这样该客户端进程和服务器进程就可以通过路径为/tmp/a.txt的Unix域套接字⽂件进⾏通信了
-   
-
+* 服务器处理客户端请求
+  * 连接管理
+  * 解析与优化
+    * 查询缓存
+    * 语法解析   
+    * 查询优化
+  * 存储引擎          
 
 [MySQL 内核的架构设计](https://zhuanlan.zhihu.com/p/150583672?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[Mysql之架构设计](https://www.jianshu.com/p/192bc46c7fb2)|[支撑百万并发的数据库架构如何设计？](https://zhuanlan.zhihu.com/p/57802566?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|---|---|
