@@ -103,8 +103,11 @@ mysql>
                 果两个查询请求在任何字符上的不同（例如：空格、注释、⼤⼩写），都会导致缓存不会命中。另外，如果查询请求中包含某些系统函数、⽤户⾃定义变量和函数、⼀些系统表，如 mysql 、
                 information_schema、performance_schema 数据库中的表，那这个请求就不会被缓存，MySQL的缓存系统会监测涉及到的每张表，只要该表的结构或者数据被修改，如对该表使⽤了INSERT
                 UPDATE、DELETE、TRUNCATE TABLE、ALTERTABLE、DROP TABLE或 DROP DATABASE语句，那使⽤该表的所有⾼速缓存查询都将变为⽆效并从⾼速缓存中删除！
-    * 语法解析---   
-    * 查询优化
+    * 语法解析---如果查询缓存没有命中，接下来就需要进⼊正式的查询阶段了。因为客户端程序发送过来的请求只是⼀段⽂本⽽已，所以MySQL服务器程序⾸先要对这段⽂本做分析，判断请求的语法是否正确，然后
+                从⽂本中将要查询的表、各种查询条件都提取出来放到MySQL服务器内部使⽤的⼀些数据结构上来
+    * 查询优化---语法解析之后，服务器程序获得到了需要的信息，⽐如要查询的列是哪些，表是哪个，搜索条件是什么等等，但光有这些是不够的，因为我们写的MySQL语句执⾏起来效率可能并不是很⾼，MySQL的
+                优化程序会对我们的语句做⼀些优化，如外连接转换为内连接、表达式简化、⼦查询转为连接吧啦吧啦的⼀堆东⻄。优化的结果就是⽣成⼀个执⾏计划，这个执⾏计划表明了应该使⽤哪些索引进⾏
+                查询，表之间的连接顺序是啥样的。
   * 存储引擎          
 
 [MySQL 内核的架构设计](https://zhuanlan.zhihu.com/p/150583672?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[Mysql之架构设计](https://www.jianshu.com/p/192bc46c7fb2)|[支撑百万并发的数据库架构如何设计？](https://zhuanlan.zhihu.com/p/57802566?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
