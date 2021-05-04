@@ -108,7 +108,12 @@ mysql>
     * 查询优化---语法解析之后，服务器程序获得到了需要的信息，⽐如要查询的列是哪些，表是哪个，搜索条件是什么等等，但光有这些是不够的，因为我们写的MySQL语句执⾏起来效率可能并不是很⾼，MySQL的
                 优化程序会对我们的语句做⼀些优化，如外连接转换为内连接、表达式简化、⼦查询转为连接吧啦吧啦的⼀堆东⻄。优化的结果就是⽣成⼀个执⾏计划，这个执⾏计划表明了应该使⽤哪些索引进⾏
                 查询，表之间的连接顺序是啥样的。
-  * 存储引擎          
+  * 存储引擎
+    为了管理⽅便，⼈们把连接管理、查询缓存、语法解析、查询优化这些并不涉及真实数据存储的功能划分为MySQL server的功能，把真实存取数据的功能划分为存储引擎的功能。各种不同的存储引擎向上边的
+    MySQL server层提供统⼀的调⽤接⼝（也就是存储引擎API），包含了⼏⼗个底层函数 ， 所以在MySQL server完成了查询优化后，只需按照⽣成的执⾏计划调⽤底层存储引擎提供的API，获取到数据后返回
+    给客户端就好了         
+    
+    
 
 [MySQL 内核的架构设计](https://zhuanlan.zhihu.com/p/150583672?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[Mysql之架构设计](https://www.jianshu.com/p/192bc46c7fb2)|[支撑百万并发的数据库架构如何设计？](https://zhuanlan.zhihu.com/p/57802566?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
 ---|---|---|
