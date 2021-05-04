@@ -79,6 +79,7 @@ mysql>
 * [1b MySQL索引](#1b-MySQL索引)
 
 
+
 ## 1a MySQL内部架构
 
 * MySQL客户端与服务器连接的过程---MySQL⽀持下边三种客户端进程和服务器进程的通信⽅式
