@@ -75,12 +75,20 @@ mysql>
     * 以服务的形式启动---需要在计算机启动的时候便启动它，⼀般我们都会把它注册为⼀个Windows 服务，把某个程序注册为Windows服务的⽅式挺简单:
                        "完整的可执⾏⽂件路径" --install [-manual] [服务名]，例如 "C:\Program Files\MySQL\MySQL Server5.7\bin\mysqld" --install， 在把mysqld注册为Windows服务之后，
                        我们就可以通过下边这个命令( net start MySQL )来启动MySQL服务器程序, 或 关闭 （net stop MySQL）
-* [1a MySQL内部架构](#1a-MySQL内部架构)
-* [1b MySQL索引](#1b-MySQL索引)
+* MySQL启动选项和配置⽂件
+  * MySQL启动选项
+    * MySQL服务端启动选项
+    * MySQL客户端启动选项
+  * MySQL配置⽂件
+    * MySQL服务端配置⽂件
+    * MySQL客户端配置⽂件
+
+* [MySQL内部架构](#MySQL内部架构)
+* [MySQL索引](#MySQL索引)
 
 
 
-## 1a MySQL内部架构
+## MySQL内部架构
 
 * MySQL客户端与服务器连接的过程---MySQL⽀持下边三种客户端进程和服务器进程的通信⽅式
   * TCP/IP--- 可用命令 mysql -h127.0.0.1 -uroot -P3307 -p
@@ -140,7 +148,7 @@ mysql>
 [MySql数据库锁机制详解](https://zhuanlan.zhihu.com/p/65076956?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[MySql连接数与线程池](https://cloud.tencent.com/developer/article/1502887)|
 ---|---|
 
-##  1b MySQL索引
+##  MySQL索引
 
 [MySQL索引优化，explain讲得非常清楚了](https://www.jianshu.com/p/4f8ab1b85059)|[Mysql篇之索引原理](https://www.jianshu.com/p/73cd9288a652)|[无语，我差点被面试官怼坏了，又给我问到MySQL索引](https://www.jianshu.com/p/c82148473235)|
 ---|---|---|
