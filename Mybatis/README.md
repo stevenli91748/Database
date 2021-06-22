@@ -37,7 +37,10 @@
    * [结果集映射](#结果集映射)
    * [延迟加载](#延迟加载)
    * [插件体系](#插件体系)
-   
+
+## [在Spring Boot中结合Mybatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/%E5%9C%A8Spring%20Boot%E4%B8%AD%E7%BB%93%E5%90%88Mybatis/README.md)
+
+
 ### 配置初始化
 
    * [精尽 MyBatis 源码解析 —— MyBatis 初始化（一）之加载 mybatis-config.md](http://svip.iocoder.cn/MyBatis/builder-package-1/)
