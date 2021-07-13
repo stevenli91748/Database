@@ -112,3 +112,4 @@
 
 * [支撑日活百万用户的高并发系统，应该如何设计其数据库架构](https://juejin.im/post/5c6a9f25518825787e69e70a)
 * [史上最全近百条Oracle DBA日常维护SQL脚本指令](https://mp.weixin.qq.com/s?__biz=MjM5MDAxOTk2MQ==&mid=2650281305&idx=1&sn=0acc5cd128667d9bd21eabd90bfcc90d&chksm=be478d4f893004596a9c203d43184f7aa74f64955f9f3659dc206a06233a6fdd2c3217d49958&scene=21#wechat_redirect)
+* [为什么这么设计系列----为什么数据库不应该使用外键](https://draveness.me/whys-the-design-database-foreign-key/)
