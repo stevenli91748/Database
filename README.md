@@ -95,6 +95,8 @@
 
 # Database视频
 
+ * [数据库面试选择题精讲（第一期）（001-100）](https://edu.51cto.com/center/course/lesson/index?id=684264)
+ * [数据库面试选择题精讲（第二期）（101-200）](https://edu.51cto.com/center/course/lesson/index?id=734912)
  * [一堂课带你精通~数据库连接池编程思想与实现](https://www.bilibili.com/video/av58455529)
 
 # 有用的参考
