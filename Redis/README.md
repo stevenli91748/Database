@@ -1,8 +1,8 @@
 
 # [Redis面试](https://github.com/stevenli91748/Database/blob/master/Redis/Interview/README.md)
 
-[精尽 Redis 学习指南](http://svip.iocoder.cn/Redis/tutorials/)|
----|
+[精尽 Redis 学习指南](http://svip.iocoder.cn/Redis/tutorials/)|[中华石杉---100讲带你实战基于Redis的高并发预约抢购系统](https://apppukyptrl1086.pc.xiaoe-tech.com/detail/p_6017ef53e4b035d3cdb58eac/6)|
+---|---|
 
 [Redis linux系统安装](https://github.com/stevenli91748/Database/blob/master/Redis/Redis%20linux系统安装/README.md)|[Redis Docker系统安装](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装Redis/README.md)|[Redis 的完整安装过程](https://www.chensongxia.cn/265.html)|[redis集群搭建](https://www.kancloud.cn/suixiaofeng/linux/873408)|
 ---|---|---|---|
