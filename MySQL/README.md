@@ -45,6 +45,9 @@ mysql>
 [精尽 MySQL 学习指南](http://svip.iocoder.cn/MySQL/tutorials/)|[Xtrabackup实现数据的备份与恢复](https://www.kancloud.cn/suixiaofeng/linux/791378)|
 ---|---|
 
+[MySQL20个高性能架构设计原则（值得收藏）](http://www.xknote.com/mysql/5swdtf.html)|
+---|
+
 * [1. MySQL基础部分](#1-MySQL基础部分)
 * [2. MySQL高级部分](#2-MySQL高级部分)
 * [3 MySQL故障处理](#3-MySQL故障处理)
