@@ -167,7 +167,7 @@
 * [尚硅谷Java视频教程_MyBatisPlus](https://www.bilibili.com/video/av36304490?from=search&seid=10550336197411701893)
 * [MyBatis第一套 推荐学习此套(老师讲得非常好)--基础篇](https://www.bilibili.com/video/av71177491)
 * [MyBatis第一套 推荐学习此套(老师讲得非常好)--提高篇](https://www.bilibili.com/video/av71177582)
-
+* [【狂神说Java】Mybatis最新完整教程IDEA版通俗易懂](https://www.bilibili.com/video/BV1NE411Q7Nx?from=search&seid=13783201817260463281)
 
 
 # 有用的参考
