@@ -16,7 +16,7 @@
   
 * [MyBird MyBatis通用Mapper和PageHelper的编程步骤](https://mrbird.cc/MyBatis%20common%20Mapper%20PageHelper.html)
 * [不同版本的Spring Boot和MyBatis版本对应不一样，具体可查看官方文档](http://www.mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/)|
-* [Spring Boot中使用SpringBoot + SpringMVC + MyBatis + Druid的完整流程例子](https://mrbird.cc/Spring-Boot%20Mybatis.html)
+* [Spring Boot中使用SpringBoot + SpringMVC + MyBatis + Druid的完整步骤例子](https://mrbird.cc/Spring-Boot%20Mybatis.html)
 
 
 
