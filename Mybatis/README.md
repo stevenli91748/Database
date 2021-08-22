@@ -1,5 +1,7 @@
 # [MyBatis面试题](https://github.com/stevenli91748/Database/blob/master/Mybatis/Interview/README.md)
 
+[MyBird MyBatis通用Mapper和PageHelper的编程步骤](https://mrbird.cc/MyBatis%20common%20Mapper%20PageHelper.html)
+
 
 [精尽 MyBatis 学习指南](http://svip.iocoder.cn/MyBatis/tutorials/)|[MyBatis中文官网---很好](http://www.mybatis.cn/archives/1334.html)|[MyBatis 通用 Mapper4](https://github.com/abel533/Mapper)|[字母哥 / mybatis-plus小书](https://www.kancloud.cn/hanxt/mybatisplus)|[MyBatis-Plus入门](https://www.imooc.com/learn/1130)|
 ---|---|---|---|---|
