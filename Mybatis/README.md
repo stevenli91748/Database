@@ -1,7 +1,5 @@
 # [MyBatis面试题](https://github.com/stevenli91748/Database/blob/master/Mybatis/Interview/README.md)
 
-[MyBird MyBatis通用Mapper和PageHelper的编程步骤](https://mrbird.cc/MyBatis%20common%20Mapper%20PageHelper.html)|[不同版本的Spring Boot和MyBatis版本对应不一样，具体可查看官方文档](http://www.mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/)|
----|---|
 
 
 [精尽 MyBatis 学习指南](http://svip.iocoder.cn/MyBatis/tutorials/)|[MyBatis中文官网---很好](http://www.mybatis.cn/archives/1334.html)|[MyBatis 通用 Mapper4](https://github.com/abel533/Mapper)|[字母哥 / mybatis-plus小书](https://www.kancloud.cn/hanxt/mybatisplus)|[MyBatis-Plus入门](https://www.imooc.com/learn/1130)|
@@ -12,6 +10,14 @@
 
 [Mybatis Plus 多租户架构(Multi-tenancy)实现](https://www.jianshu.com/p/4c0ef7d2d7ed)|[MyBatis官方代码生成工具给力](https://www.jianshu.com/p/ffe08a756c4a)|
 ---|---|
+
+
+# MyBird
+  
+* [MyBird MyBatis通用Mapper和PageHelper的编程步骤](https://mrbird.cc/MyBatis%20common%20Mapper%20PageHelper.html)
+* [不同版本的Spring Boot和MyBatis版本对应不一样，具体可查看官方文档](http://www.mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/)|
+* [Spring Boot中使用MyBatis + Druid](https://mrbird.cc/Spring-Boot%20Mybatis.html)
+
 
 
 # MyBatis 的分层非常干净，主要分成三层：
