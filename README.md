@@ -9,6 +9,10 @@
 [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)|
 ---|
 
+[动态数据源例子---基于springboot的快速集成多数据源的启动器 已付费](https://www.kancloud.cn/tracy5546/dynamic-datasource/2344619)|
+---|
+
+
 [常用数据库建模工具](https://blog.csdn.net/wren2004/article/details/79554817)|[关于电商网站数据库的设计](https://www.zhihu.com/question/27607346)|[研发库表设计规范](https://www.jianshu.com/p/4b0d82c817fa)|
 ---|---|---|
 
