@@ -19,7 +19,14 @@
 * [不同版本的Spring Boot和MyBatis版本对应不一样，具体可查看官方文档](http://www.mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/)|
 * [Spring-Boot中使用Mybatis搭建一个Spring boot + MyBatis + Druid的框架的完整步骤例子](https://mrbird.cc/Spring-Boot%20Mybatis.html)
 * [Spring Boot MyBatis配置Druid多数据源](https://mrbird.cc/Spring-Boot-MyBatis%20Druid.html)
-
+* [MyBatis Dynamic SQL](https://mrbird.cc/MyBatis-Dynamic-SQL.html)
+* [MyBatis Cache](https://mrbird.cc/MyBatis-Cache.html)
+* [MyBatis级联](https://mrbird.cc/MyBatis%E7%BA%A7%E8%81%94.html)
+* [MyBatis映射器](https://mrbird.cc/MyBatis%E6%98%A0%E5%B0%84%E5%99%A8.html)
+* [MyBatis配置文件](https://mrbird.cc/MyBatis%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6.html)
+* [MyBatis typeHandler](https://mrbird.cc/MyBatis-typeHandler.html)
+* [MyBatis配置数据库](https://mrbird.cc/MyBatis%E9%85%8D%E7%BD%AE%E6%95%B0%E6%8D%AE%E5%BA%93.html)
+* [MyBatis Guide](https://mrbird.cc/MyBatis-Guide.html)
 
 # MyBatis 的分层非常干净，主要分成三层：
 
