@@ -7,8 +7,8 @@
 [Redis linux系统安装](https://github.com/stevenli91748/Database/blob/master/Redis/Redis%20linux系统安装/README.md)|[Redis Docker系统安装](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装Redis/README.md)|[Redis 的完整安装过程](https://www.chensongxia.cn/265.html)|[redis集群搭建](https://www.kancloud.cn/suixiaofeng/linux/873408)|
 ---|---|---|---|
 
-[阿里官方Redis开发规范！](https://zhuanlan.zhihu.com/p/149370312?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
----|
+[阿里官方Redis开发规范！](https://zhuanlan.zhihu.com/p/149370312?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[微服务手册：高速查询？除了Redis我们还有另外的选择](https://www.toutiao.com/a6897025600951943691/?log_from=66b4adba5eb07_1630132479285)|
+---|---|
 
 [手把手教你搭建 Redis 集群](https://mp.weixin.qq.com/s/EW2jl3WOLQWyfeBUk3JFnQ)|[使用redis-exporter对redis集群进行性能监控](https://www.kubernetes.org.cn/7616.html)|[100讲带你实战基于Redis的高并发预约抢购系统](https://apppukyptrl1086.pc.xiaoe-tech.com/detail/p_6017ef53e4b035d3cdb58eac/6)|
 ---|---|---|
