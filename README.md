@@ -3,6 +3,9 @@
 [芋道源码---数据库实体设计](http://svip.iocoder.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E4%BD%93%E8%AE%BE%E8%AE%A1/)|[数据库设计](https://www.cnblogs.com/zping/category/147365.html)|[数据库架构设计的三种模式：share nothing , share everythong , share disk](https://www.cnblogs.com/kzwrcom/p/6397709.html)|
 ---|---|---|
 
+ [微服务手册：分库分表从分析到实践，不再停留只会说分库分表](https://www.toutiao.com/a6897352881528177164/?log_from=94599671e8ca6_1630132174661)|
+ ---|
+
 [Database Design Course - Learn how to design and plan a database for beginners](https://www.youtube.com/watch?v=ztHopE5Wnpc&t=43s)|
 ---|
 
