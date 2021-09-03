@@ -48,6 +48,10 @@ mysql>
 [MySQL20个高性能架构设计原则（值得收藏）](http://www.xknote.com/mysql/5swdtf.html)|[MySQL实践手册---提供Java、MySQL数据库、Web基础和Java Web开发的系统学习，提供配套的企业级项目实践案例](https://www.kancloud.cn/ynedu/mysql1/2394345)|
 ---|---|
 
+[mysql数据库的免费测试数据生成器](https://www.coder.work/article/144956)|
+---|
+
+
 * [1. MySQL基础部分](#1-MySQL基础部分)
 * [2. MySQL高级部分](#2-MySQL高级部分)
 * [3 MySQL故障处理](#3-MySQL故障处理)
