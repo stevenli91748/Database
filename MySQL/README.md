@@ -42,6 +42,9 @@ mysql>
 
 # 目录
 
+[SQL快速教程](https://www.w3schools.com/sql/sql_top.asp)|[MySQL 快速教程](https://www.yht7.com/mysql/mysql-tutorial.html)|
+---|---|
+
 [精尽 MySQL 学习指南](http://svip.iocoder.cn/MySQL/tutorials/)|[Xtrabackup实现数据的备份与恢复](https://www.kancloud.cn/suixiaofeng/linux/791378)|[在线SQL测试](https://www.liaoxuefeng.com/wiki/1177760294764384/1179611432985088)|
 ---|---|---|
 
