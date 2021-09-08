@@ -46,6 +46,7 @@
   * PostgreSQL
   * ORACLE
   * [Mybatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/README.md)
+  * [SQLite](https://github.com/stevenli91748/Database/blob/master/SQLite/README.md)
 * 内存数据库
   * [Redis---内存数据库，redis只支持kv不支持sql](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
   * Apache Ignite---内存数据库，数据网格，计算网格，服务网格，sql网格，数据结构，流计算，文件系统，高级集群等模块，都是放在内存操作
