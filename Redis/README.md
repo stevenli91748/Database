@@ -1,6 +1,10 @@
 
 # [Redis面试](https://github.com/stevenli91748/Database/blob/master/Redis/Interview/README.md)
 
+[Redis数据库学习教程（快速入门版）](http://c.biancheng.net/redis/)|[Redis常用命令手册](http://c.biancheng.net/redis_command/)|
+---|---|
+
+
 [精尽 Redis 学习指南](http://svip.iocoder.cn/Redis/tutorials/)|[中华石杉---100讲带你实战基于Redis的高并发预约抢购系统](https://apppukyptrl1086.pc.xiaoe-tech.com/detail/p_6017ef53e4b035d3cdb58eac/6)|
 ---|---|
 
