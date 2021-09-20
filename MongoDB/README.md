@@ -1,6 +1,6 @@
 
-[精尽 MongoDB 学习指南](http://svip.iocoder.cn/MongoDB/tutorials/)|
----|
+[精尽 MongoDB 学习指南](http://svip.iocoder.cn/MongoDB/tutorials/)|[MongoDB快速教程](http://c.biancheng.net/mongodb2/)|
+---|---|
 
 
 
