@@ -1,43 +1,6 @@
 
 # [MySQL数据库面试题](https://github.com/stevenli91748/Database/blob/master/MySQL/Interview/README.md)
 
-windows mysql8 安装目录
-
-c:\mysql\mysql server 8.0
-
-connectivity:
-  PROTOCOL: TCP/IP            PORT : 3306         X protocol port : 33060
-  
-  windows service:  MySQL81
-  
-  account 1 : root          
-  password : gz19731108
-
-  account 2 : gzpengli
-  
-  password: gz19731108
-  
-  host: localhost
-   
-登录mysql 
-
-方式一：
-
-c:> cd \mysql\mysql server 8.0\bin
-
-\mysql\mysql server 8.0\bin> mysql --user=root --password=gz19731108
-
-mysql>
-
-
-方式二：
-
-c:> cd \mysql\mysql server 8.0\bin
-
-\mysql\mysql server 8.0\bin> mysql -u root -p
-enter password: 
-
-mysql>
 
 
 # 目录
@@ -295,3 +258,43 @@ mysql>
 * [《深入精通Mysql（六）》系列之如何通过慢查询日志进行SQL分析和优化](https://mp.weixin.qq.com/s/qfNsNgA2RklvJ69pNhze5g)
 * [深入精通Mysql（七）》系列之如何通过EXPLAIN 执行计划分析SQL语句的性能瓶](https://mp.weixin.qq.com/s/JFS48kVceqQEuhO2F1OQOQ)
 * [《深入精通Mysql（八）》系列之十年架构师从架构层面进行Mysql性能优化](https://mp.weixin.qq.com/s/GzrWq-OHHFuxqYQjNesZlA)
+
+
+windows mysql8 安装目录
+
+c:\mysql\mysql server 8.0
+
+connectivity:
+  PROTOCOL: TCP/IP            PORT : 3306         X protocol port : 33060
+  
+  windows service:  MySQL81
+  
+  account 1 : root          
+  password : gz19731108
+
+  account 2 : gzpengli
+  
+  password: gz19731108
+  
+  host: localhost
+   
+登录mysql 
+
+方式一：
+
+c:> cd \mysql\mysql server 8.0\bin
+
+\mysql\mysql server 8.0\bin> mysql --user=root --password=gz19731108
+
+mysql>
+
+
+方式二：
+
+c:> cd \mysql\mysql server 8.0\bin
+
+\mysql\mysql server 8.0\bin> mysql -u root -p
+enter password: 
+
+mysql>
+
