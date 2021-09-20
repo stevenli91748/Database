@@ -1,5 +1,9 @@
 # [MyBatis面试题](https://github.com/stevenli91748/Database/blob/master/Mybatis/Interview/README.md)
 
+[Mybatis框架快速入门教程](http://c.biancheng.net/mybatis/)|
+---|
+
+
 [为什么项目中用了JOOQ后大家都不愿再用Mybatis](https://www.javaweb.shop/article/323.html)|
 ---|
 
