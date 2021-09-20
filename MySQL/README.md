@@ -5,7 +5,7 @@
 
 # 目录
 
-[MySQL教程：MySQL数据库学习宝典（从入门到精通）](http://c.biancheng.net/mysql/)|[MySQL函数大全，MySQL常用函数汇总](http://c.biancheng.net/mysql/function/)|
+[MySQL快速教程：MySQL数据库学习宝典（从入门到精通）](http://c.biancheng.net/mysql/)|[MySQL快速教程：MySQL函数大全，MySQL常用函数汇总](http://c.biancheng.net/mysql/function/)|
 ---|---|
 
 [SQL快速教程](https://www.w3schools.com/sql/sql_top.asp)|[我的 MySQL 学习之路](https://mp.weixin.qq.com/s?__biz=Mzg2NzA4MTkxNQ==&mid=2247494510&idx=1&sn=437dc5527337857b1fc34fc2967643f4&chksm=ce43a0baf93429ac18176eab75eca1a6c1a2440506e71287a6b562c92cbab40c49aaaed5ff67&scene=132#wechat_redirect)|
