@@ -2,6 +2,7 @@
 [Spring Boot整合MyBatis](http://c.biancheng.net/spring_boot/mybatis.html)|
 ---|
 
+* [SpringBoot集成Mysql、Mybatis、Mybatis-Plus，实现增删改查](https://www.jianshu.com/p/197155b76442)
 * [使用MyBatis访问MySQL](http://blog.didispace.com/spring-boot-learning-21-3-5/)
 * [使用MyBatis的XML配置方式](http://blog.didispace.com/spring-boot-learning-21-3-6/)
 * [MyBatis的多数据源配置](http://blog.didispace.com/spring-boot-learning-21-3-9/)
