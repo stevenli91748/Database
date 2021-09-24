@@ -1,6 +1,7 @@
 # [MyBatis面试题](https://github.com/stevenli91748/Database/blob/master/Mybatis/Interview/README.md)
 
 [MyBatis注解（3种类型）](http://c.biancheng.net/mybatis/annotation.html)
+---|
 
 [Mybatis框架快速入门教程](http://c.biancheng.net/mybatis/)|[Mybatis官方网战](https://mybatis.org/mybatis-3/zh/configuration.html)|
 ---|---|
