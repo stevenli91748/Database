@@ -1,6 +1,12 @@
 
 # [Redis面试](https://github.com/stevenli91748/Database/blob/master/Redis/Interview/README.md)
 
+
+# 在线书籍
+* [Redis深度历险：核心原理与应用实践](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40kc81322c012c81e728d9d180)
+
+---
+
 [Redis数据库学习教程（快速入门版）](http://c.biancheng.net/redis/)|[Redis常用命令手册](http://c.biancheng.net/redis_command/)|
 ---|---|
 
