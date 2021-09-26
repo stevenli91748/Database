@@ -27,6 +27,12 @@
 * [MyBatis框架之mybatis逆向工程自动生成代码](https://www.jb51.net/article/82062.htm)
 * [SpringBoot整合Mybatis Generator自动生成代码](https://www.jb51.net/article/220360.htm)
 * [mybatis-plus自动生成代码的示例代码](https://www.jb51.net/article/202389.htm)
+* [IDEA Maven Mybatis generator 自动生成代码(实例讲解)](https://www.jb51.net/article/131020.htm)
+
+
+
+
+
 [Mybatis Plus 多租户架构(Multi-tenancy)实现](https://www.jianshu.com/p/4c0ef7d2d7ed)|[MyBatis官方代码生成工具给力](https://www.jianshu.com/p/ffe08a756c4a)|
 ---|---|
 
