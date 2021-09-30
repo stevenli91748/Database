@@ -1,3 +1,6 @@
+[OpenResty+Lua+Redis+Canal实现多级缓存架构](https://www.jianshu.com/p/5e4dbaedaecd?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends)
+---|
+
 * [缓存概述](#缓存概述)
   * [Cache 概述](https://jverson.com/spring-boot-demo/cache/cache-0-introduction.html)
 * [缓存种类](#缓存种类)
