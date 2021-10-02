@@ -5,6 +5,8 @@
 # 在线书籍
 * [Redis深度历险：核心原理与应用实践](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40kc81322c012c81e728d9d180)
 * [Redis设计与实现---重思维理解能力，重底层原理，对Redis的原理有整体的认知，可构建一个基础的知识体系](https://weread.qq.com/web/reader/d35323e0597db0d35bd957b)
+* [基于Docker的Redis入门与实战](https://weread.qq.com/web/reader/f2932520725d0bbff2948bc)
+
 ---
 
 [Redis数据库学习教程（快速入门版）](http://c.biancheng.net/redis/)|[Redis常用命令手册](http://c.biancheng.net/redis_command/)|
