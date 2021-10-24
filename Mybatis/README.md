@@ -219,6 +219,7 @@
 
 
 # 有用的参考
+* [Mybatis要点以及源码](https://www.cnblogs.com/Courage129/category/1894217.html)
 * [java对象：PO/POJO/VO/BO/DAO/DTO分析](https://zhuanlan.zhihu.com/p/42288383)
 * [MyBatis学习总结（一）——ORM概要与MyBatis快速起步](https://www.cnblogs.com/best/p/9711215.html)
 * [MyBatis学习总结（二）——MyBatis核心配置文件与输入输出映射](https://cloud.tencent.com/developer/article/1351899?from=article.detail.1776192)
