@@ -52,8 +52,10 @@
   * [Redis分布式锁 （图解-秒懂-史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14731826.html)
   * [Redis集群 - 图解 - 秒懂（史上最全)---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14698576.html) 
   * [Redis与DB的数据一致性解决方案（史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14853622.html)
-* [Redis集群]()
+* Redis集群
   * [基于Redis5的集群搭建和使用](https://blog.csdn.net/autfish/article/details/89521682)
+  * [为什么Redis集群要使用反向代理?](https://www.cnblogs.com/Courage129/p/14351545.html)
+  * [Redis集群拆分原则之AKF](https://www.cnblogs.com/Courage129/p/14344151.html)
   * [集群模式]()
     * [主从模式]()
     * [sentinel（哨兵）模式]()
