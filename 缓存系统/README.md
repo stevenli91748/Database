@@ -12,6 +12,16 @@
   * [Web server caching ]
   * [Database caching]
   * [Application caching]
+    * [亿级流量客户端缓存之Http缓存与本地缓存对比 ](https://www.cnblogs.com/Courage129/p/14419192.html)
+    * 客户端缓存分为Http缓存和本地缓存
+      * Http缓存
+      * 本地缓存 
+        * [Guava学习笔记](https://www.cnblogs.com/Courage129/p/14413974.html)
+        * [guava---Google Java标准库的十全大补](https://github.com/google/guava)
+        * [Guava RateLimiter 实现 API 限流，这才是正确的姿势](https://mp.weixin.qq.com/s/uyYqni2Li6DpaAYB0vniow)
+    * 服务端缓存
+      * 分布式缓存
+        * Redis  
   * [Caching at database query level]
   * [Caching at object level]
   * [When to update the cache]
