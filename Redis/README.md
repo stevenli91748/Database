@@ -47,21 +47,25 @@
   * [Redis从基础命令到实战之有序集合类型(SortedSet)](https://blog.csdn.net/autfish/article/details/51743446)
 * [redis存储对象与对象序列化详解](https://www.shuzhiduo.com/A/A7zgRDmPd4/)
 * [持久化方式](#持久化方式)
+  * [Redis持久化之父子进程与写时复制 ](https://www.cnblogs.com/Courage129/p/14343136.html)
+  * [Redis持久化之RDB和AOF](https://www.cnblogs.com/Courage129/p/14342102.html)
 * [分布式方案](#分布式方案)
   * [从0开始打造自己的  RedisSession  ---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/12038208.html)
   * [Redis分布式锁 （图解-秒懂-史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14731826.html)
   * [Redis集群 - 图解 - 秒懂（史上最全)---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14698576.html) 
   * [Redis与DB的数据一致性解决方案（史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14853622.html)
+* Redis分布式锁
+  * [Redis分布式锁升级版RedLock及SpringBoot实现 ](https://www.cnblogs.com/Courage129/p/14355562.html)
 * Redis集群
   * [基于Redis5的集群搭建和使用](https://blog.csdn.net/autfish/article/details/89521682)
   * [为什么Redis集群要使用反向代理?](https://www.cnblogs.com/Courage129/p/14351545.html)
   * [Redis集群拆分原则之AKF](https://www.cnblogs.com/Courage129/p/14344151.html)
+  * [Redis集群数据没法拆分时的搭建策略](https://www.cnblogs.com/Courage129/p/14350129.html)
   * [集群模式]()
     * [主从模式]()
     * [sentinel（哨兵）模式]()
     * [cluster模式]()
   * [redis集群性能监控  ](https://www.kubernetes.org.cn/7616.html)
-
 # 已安装Redis
 安装目录
 c:\redis-2.4.5-win32-win64
@@ -134,6 +138,12 @@ c:\redis-2.4.5-win32-win64
  * [80分钟彻底搞懂Java分布式Redis高并发分布式锁实战](https://www.bilibili.com/video/av65046089)
  * [分布式架构专题- Redis高并发分布式锁实站](https://www.bilibili.com/video/av60449651/?spm_id_from=333.788.videocard.7)
 # 有用的参考
+* [Memcached与Redis对比及其优劣分析](https://www.cnblogs.com/Courage129/p/14331520.html)
+* [分布式一致性Hash算法](https://www.cnblogs.com/Courage129/p/14334821.html)
+* [Redis布隆过滤器与布谷鸟过滤器](https://www.cnblogs.com/Courage129/p/14337466.html)
+* [Redis击穿、穿透、雪崩产生原因以及解决思路](https://www.cnblogs.com/Courage129/p/14348720.html)
+* [浅析Redis与IO多路复用器原理](https://www.cnblogs.com/Courage129/p/14338139.html)
+* [Redis二进制安全](https://www.cnblogs.com/Courage129/p/14337614.html)
 * [我是如何用Redis做实时订阅推送的](https://developer.51cto.com/art/202103/651593.htm)
 * [Redis GEO 功能使用场景](https://www.chensongxia.cn/262.html)
 * [Redis系列：高可用哨兵方案部署](https://cloud.tencent.com/developer/article/1720754?from=article.detail.1026003)
