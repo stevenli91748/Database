@@ -242,7 +242,11 @@
 * [性能调优专题-mysql索引优化与底层数据结构深入剖析](https://www.bilibili.com/video/av60391294/?spm_id_from=333.788.videocard.3)
 * [打造扛得住的MySQL数据库架构](https://www.bilibili.com/video/av80478890/?spm_id_from=333.788.videocard.7)
 * [MyCAT+MySQL 搭建高可用企业级数据库集群](https://www.bilibili.com/video/av80477641/?spm_id_from=333.788.videocard.4)
+
+
+
 # 有用的参考
+* [MySQL进阶及优化](https://www.cnblogs.com/Courage129/category/1890813.html)
 * [Mysql双主热备+LVS+Keepalived高可用操作记录](https://cloud.tencent.com/developer/article/1025920?from=article.detail.1026003)
 * [三万字、91道MySQL面试题和答案（2020收藏版）](https://zhuanlan.zhihu.com/p/114993399?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
 * [MySQL 一次奇怪的故障分析](https://zhuanlan.zhihu.com/p/86599248?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
