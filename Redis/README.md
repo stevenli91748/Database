@@ -138,6 +138,7 @@ c:\redis-2.4.5-win32-win64
  * [80分钟彻底搞懂Java分布式Redis高并发分布式锁实战](https://www.bilibili.com/video/av65046089)
  * [分布式架构专题- Redis高并发分布式锁实站](https://www.bilibili.com/video/av60449651/?spm_id_from=333.788.videocard.7)
 # 有用的参考
+* [redis 配置远程连接](https://www.jianshu.com/p/0e569808e209)
 * [Memcached与Redis对比及其优劣分析](https://www.cnblogs.com/Courage129/p/14331520.html)
 * [分布式一致性Hash算法](https://www.cnblogs.com/Courage129/p/14334821.html)
 * [Redis布隆过滤器与布谷鸟过滤器](https://www.cnblogs.com/Courage129/p/14337466.html)
