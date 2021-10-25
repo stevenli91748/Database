@@ -141,6 +141,7 @@ c:\redis-2.4.5-win32-win64
 
 
 # 有用的参考
+* [Redisson实现分布式锁原理](https://www.jianshu.com/p/bb6d69720c5c)
 * [redis网络波动，Jedis/Lettuce是阻塞还是失败？](https://www.jianshu.com/p/3278d521d0ae)
 * [Memcached与Redis对比及其优劣分析](https://www.cnblogs.com/Courage129/p/14331520.html)
 * [分布式一致性Hash算法](https://www.cnblogs.com/Courage129/p/14334821.html)
