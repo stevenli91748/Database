@@ -81,6 +81,11 @@
     * [HyperLogLog 数据结构](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
       * [HyperLogLog相关命令的实现](https://weread.qq.com/web/reader/d36322207190b923d368a9ake2e329c0261e2ef524fbf75) 
     * [位图数据结构](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
+  * [Redis Lua脚本](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bka8b3222028ea8baa56554b9)
+  * [Redis 排序](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bka8f32cf0297a8f15eda81c5)
+  * [二进制位数组](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk82a32a302a282aa4b0af8ce)
+  * [慢查询日志](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk149326802aa149e9677aa46)
+  * [监视器](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk82132e402af82161242862a)
   * [Redis分布式锁](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
     * [Redis分布式锁升级版RedLock及SpringBoot实现 ](https://www.cnblogs.com/Courage129/p/14355562.html)
   * [Redis延时队列](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
@@ -100,7 +105,9 @@
       * [事件](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk977321c02529778d5d2116b)
       * [客户端](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk2a3327002582a38a4a932bf)
       * [服务器](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk92c3210025c92cc22753209)
-  * [Redis中事务 ](https://weread.qq.com/web/reader/d36322207190b923d368a9aka973204026ba97da629bd12)
+  * Redis事务
+    * [Redis中事务1 ](https://weread.qq.com/web/reader/d36322207190b923d368a9aka973204026ba97da629bd12)
+    * [Redis中事务2](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk42a324e028842a0e188f652)
 * [分布式方案](#分布式方案)
   * [从0开始打造自己的  RedisSession  ---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/12038208.html)
   * [Redis分布式锁 （图解-秒懂-史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14731826.html)
@@ -113,12 +120,16 @@
   * [Redis集群数据没法拆分时的搭建策略](https://www.cnblogs.com/Courage129/p/14350129.html)
   * 高可用集群模式
     * 主从模式
-      * [Redis主从复制 ](https://weread.qq.com/web/reader/d36322207190b923d368a9akeb132680275eb160de1d35c)
+      * [Redis主从复制1 ](https://weread.qq.com/web/reader/d36322207190b923d368a9akeb132680275eb160de1d35c)
+      * [Redis主从复制2](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bked332ca0262ed3d2c2191f2)
     * sentinel（哨兵）模式
-      * [哨兵和集群](https://weread.qq.com/web/reader/d36322207190b923d368a9ak2023270027b202cb962a56f) 
+      * [哨兵和集群](https://weread.qq.com/web/reader/d36322207190b923d368a9ak2023270027b202cb962a56f)
+      * [Sentinel](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bka973204026ba97da629bd12) 
     * cluster模式
+      * [集群](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk07e323f027707e1cd7dc674) 
   * [redis集群性能监控  ](https://www.kubernetes.org.cn/7616.html)
-
+* [发布与订阅](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bkd1f32250281d1f491a40045)
+* 
 # 问题
 
 * Redis缓存穿透原理与解决方案
