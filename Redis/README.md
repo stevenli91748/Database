@@ -83,11 +83,13 @@
   * [GeoHash---地理位置 Geo 模块](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
     * [GEO相关命令  ](https://weread.qq.com/web/reader/d36322207190b923d368a9ak98d321b025d98dce83da05a)
   * [scan---Redis搜索](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
-  * [Redis持久化方式](#持久化方式)
+  * [Redis持久化方式](https://weread.qq.com/web/reader/d36322207190b923d368a9ak7f632b502707f6ffaa6bf2e)
     * [redis存储对象与对象序列化详解](https://www.shuzhiduo.com/A/A7zgRDmPd4/) 
     * [Redis持久化之父子进程与写时复制 ](https://www.cnblogs.com/Courage129/p/14343136.html)
     * [Redis持久化之RDB和AOF](https://www.cnblogs.com/Courage129/p/14342102.html)
+  * [Redis中事务 ](https://weread.qq.com/web/reader/d36322207190b923d368a9aka973204026ba97da629bd12)
 * [分布式方案](#分布式方案)
+  
   * [从0开始打造自己的  RedisSession  ---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/12038208.html)
   * [Redis分布式锁 （图解-秒懂-史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14731826.html)
   * [Redis集群 - 图解 - 秒懂（史上最全)---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14698576.html) 
@@ -97,9 +99,11 @@
   * [为什么Redis集群要使用反向代理?](https://www.cnblogs.com/Courage129/p/14351545.html)
   * [Redis集群拆分原则之AKF](https://www.cnblogs.com/Courage129/p/14344151.html)
   * [Redis集群数据没法拆分时的搭建策略](https://www.cnblogs.com/Courage129/p/14350129.html)
-  * 集群模式
+  * 高可用集群模式
     * 主从模式
+      * [Redis主从复制 ](https://weread.qq.com/web/reader/d36322207190b923d368a9akeb132680275eb160de1d35c)
     * sentinel（哨兵）模式
+      * [哨兵和集群](https://weread.qq.com/web/reader/d36322207190b923d368a9ak2023270027b202cb962a56f) 
     * cluster模式
   * [redis集群性能监控  ](https://www.kubernetes.org.cn/7616.html)
 
@@ -146,9 +150,6 @@
 ## Redis 数据结构和底层实现
 
    
-## 持久化方式
-
-   持久化方式主要分两种，aof和rdb, 前者基于追加日志的方式来实实现日志持久化，后者则是使用备份数据的方式来实现持久化
 
 ## 分布式方案
 
