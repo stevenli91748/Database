@@ -43,13 +43,23 @@
 # 目录
 * [Redis概述](#Redis概述)
 * [Redis缺点](#Redis缺点)
+* [Redis安装与调试](https://weread.qq.com/web/reader/d36322207190b923d368a9akd3d322001ad3d9446802347)
 * Redis 基础
   * [Redis 基础数据结构](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
-    * [Redis从基础命令到实战之字符串类型](https://blog.csdn.net/autfish/article/details/51680004)
-    * [Redis从基础命令到实战之散列类型(Hash)](https://blog.csdn.net/autfish/article/details/51684954)
-    * [Redis从基础命令到实战之列表类型(List)](https://blog.csdn.net/autfish/article/details/51719263)
-    * [Redis从基础命令到实战之集合类型(Set)](https://blog.csdn.net/autfish/article/details/51734686)
-    * [Redis从基础命令到实战之有序集合类型(SortedSet)](https://blog.csdn.net/autfish/article/details/51743446)
+    * String(字符串类型)
+      * [Redis从基础命令到实战之字符串类型](https://blog.csdn.net/autfish/article/details/51680004)
+      * [简单动态字符串](https://weread.qq.com/web/reader/d36322207190b923d368a9akc20321001cc20ad4d76f5ae)
+    * list(列表)
+      * [Redis从基础命令到实战之列表类型(List)](https://blog.csdn.net/autfish/article/details/51719263)
+      * [跳跃表---](https://weread.qq.com/web/reader/d36322207190b923d368a9akc7432af0210c74d97b01b1c) 
+      * [压缩列表](https://weread.qq.com/web/reader/d36322207190b923d368a9akb6d32b90216b6d767d2f0dc)
+    * hash（字典）
+      * [Redis从基础命令到实战之散列类型(Hash)](https://blog.csdn.net/autfish/article/details/51684954) 
+      * [字典](https://weread.qq.com/web/reader/d36322207190b923d368a9ak33e3289021c33e75ff09694)
+    * set（集合）
+      * [Redis从基础命令到实战之集合类型(Set)](https://blog.csdn.net/autfish/article/details/51734686)
+    * zset（有序集合
+      * [Redis从基础命令到实战之有序集合类型(SortedSet)](https://blog.csdn.net/autfish/article/details/51743446)
     * [HyperLogLog 数据结构](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
     * [位图数据结构](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
   * [Redis分布式锁](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
