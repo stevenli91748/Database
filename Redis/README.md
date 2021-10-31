@@ -45,7 +45,9 @@
 * [Redis缺点](#Redis缺点)
 * [Redis安装与调试](https://weread.qq.com/web/reader/d36322207190b923d368a9akd3d322001ad3d9446802347)
 * Redis 基础
-  * [Redis中的对象](https://weread.qq.com/web/reader/d36322207190b923d368a9ak72b327f023972b32a1f7e2d) 
+  * Redis对象
+    * [对象](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk67c32d7022f67c6a1e7ce82) 
+    * [Redis中的对象](https://weread.qq.com/web/reader/d36322207190b923d368a9ak72b327f023972b32a1f7e2d) 
   * [Redis 基础数据结构](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
     * [整数集合](https://weread.qq.com/web/reader/d36322207190b923d368a9ak1c3321802231c383cd30bb3) 
     * String(字符串类型)
