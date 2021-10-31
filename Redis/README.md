@@ -57,29 +57,25 @@
     * [漏斗限流](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
   * [GeoHash---地理位置 Geo 模块](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea) 
   * [scan---Redis搜索](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
-* [redis存储对象与对象序列化详解](https://www.shuzhiduo.com/A/A7zgRDmPd4/)
-* [Redis持久化方式](#持久化方式)
-  * [Redis持久化之父子进程与写时复制 ](https://www.cnblogs.com/Courage129/p/14343136.html)
-  * [Redis持久化之RDB和AOF](https://www.cnblogs.com/Courage129/p/14342102.html)
+  * [Redis持久化方式](#持久化方式)
+    * [redis存储对象与对象序列化详解](https://www.shuzhiduo.com/A/A7zgRDmPd4/) 
+    * [Redis持久化之父子进程与写时复制 ](https://www.cnblogs.com/Courage129/p/14343136.html)
+    * [Redis持久化之RDB和AOF](https://www.cnblogs.com/Courage129/p/14342102.html)
 * [分布式方案](#分布式方案)
   * [从0开始打造自己的  RedisSession  ---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/12038208.html)
   * [Redis分布式锁 （图解-秒懂-史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14731826.html)
   * [Redis集群 - 图解 - 秒懂（史上最全)---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14698576.html) 
   * [Redis与DB的数据一致性解决方案（史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14853622.html)
-
 * Redis集群
   * [基于Redis5的集群搭建和使用](https://blog.csdn.net/autfish/article/details/89521682)
   * [为什么Redis集群要使用反向代理?](https://www.cnblogs.com/Courage129/p/14351545.html)
   * [Redis集群拆分原则之AKF](https://www.cnblogs.com/Courage129/p/14344151.html)
   * [Redis集群数据没法拆分时的搭建策略](https://www.cnblogs.com/Courage129/p/14350129.html)
-  * [集群模式]()
-    * [主从模式]()
-    * [sentinel（哨兵）模式]()
-    * [cluster模式]()
+  * 集群模式
+    * 主从模式
+    * sentinel（哨兵）模式
+    * cluster模式
   * [redis集群性能监控  ](https://www.kubernetes.org.cn/7616.html)
-# 已安装Redis
-安装目录
-c:\redis-2.4.5-win32-win64
 
 # 问题
 
