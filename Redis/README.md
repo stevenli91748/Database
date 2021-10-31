@@ -6,7 +6,7 @@
 * [Redis入门指南（第3版）](https://weread.qq.com/web/reader/0a732f7072769fb50a7fd3a)
 * [Redis深度历险：核心原理与应用实践](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40kc81322c012c81e728d9d180)
 * [Redis设计与实现---重思维理解能力，重底层原理，对Redis的原理有整体的认知，可构建一个基础的知识体系](https://weread.qq.com/web/reader/d35323e0597db0d35bd957b)
-* [Redis 5设计与源码分析(https://weread.qq.com/web/reader/d36322207190b923d368a9a)
+* [Redis 5设计与源码分析](https://weread.qq.com/web/reader/d36322207190b923d368a9a)
 * [Redis开发与运维](https://weread.qq.com/web/reader/439327a0811e1aa5dg0166fd)
 * [Redis实战](https://weread.qq.com/web/reader/95c323f0811e1abafg018570)
 * [优先  基于Docker的Redis入门与实战](https://weread.qq.com/web/reader/f2932520725d0bbff2948bc)
