@@ -45,11 +45,14 @@
 * [Redis缺点](#Redis缺点)
 * [Redis安装与调试](https://weread.qq.com/web/reader/d36322207190b923d368a9akd3d322001ad3d9446802347)
 * Redis 基础
+  * [Redis中的对象](https://weread.qq.com/web/reader/d36322207190b923d368a9ak72b327f023972b32a1f7e2d) 
   * [Redis 基础数据结构](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
+    * [整数集合](https://weread.qq.com/web/reader/d36322207190b923d368a9ak1c3321802231c383cd30bb3) 
     * String(字符串类型)
       * [Redis从基础命令到实战之字符串类型](https://blog.csdn.net/autfish/article/details/51680004)
       * [简单动态字符串](https://weread.qq.com/web/reader/d36322207190b923d368a9akc20321001cc20ad4d76f5ae)
     * list(列表)
+      * [quicklist的实现](https://weread.qq.com/web/reader/d36322207190b923d368a9akd67323c0227d67d8ab4fb04)
       * [Redis从基础命令到实战之列表类型(List)](https://blog.csdn.net/autfish/article/details/51719263)
       * [跳跃表---](https://weread.qq.com/web/reader/d36322207190b923d368a9akc7432af0210c74d97b01b1c) 
       * [压缩列表](https://weread.qq.com/web/reader/d36322207190b923d368a9akb6d32b90216b6d767d2f0dc)
@@ -60,6 +63,7 @@
       * [Redis从基础命令到实战之集合类型(Set)](https://blog.csdn.net/autfish/article/details/51734686)
     * zset（有序集合
       * [Redis从基础命令到实战之有序集合类型(SortedSet)](https://blog.csdn.net/autfish/article/details/51743446)
+    * [Stream---Redis中消息队列的功能](https://weread.qq.com/web/reader/d36322207190b923d368a9ak6c8328f022d6c8349cc72d5)
     * [HyperLogLog 数据结构](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
     * [位图数据结构](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
   * [Redis分布式锁](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
