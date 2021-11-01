@@ -87,8 +87,6 @@
   * [二进制位数组](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk82a32a302a282aa4b0af8ce)
   * [慢查询日志](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk149326802aa149e9677aa46)
   * [监视器](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk82132e402af82161242862a)
-  * [Redis分布式锁](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
-    * [Redis分布式锁升级版RedLock及SpringBoot实现 ](https://www.cnblogs.com/Courage129/p/14355562.html)
   * [Redis延时队列](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
   * [布隆过滤器](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
   * [简单限流](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
@@ -104,8 +102,8 @@
       * [RDB持久化](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk7cb321502467cbbc409e62d)
       * [AOF持久化](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk28d32de024d28dd2c795c7f)
       * [事件](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk977321c02529778d5d2116b)
-      * [客户端](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk2a3327002582a38a4a932bf)
-      * [服务器](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk92c3210025c92cc22753209)
+  * [客户端](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk2a3327002582a38a4a932bf)
+  * [服务器](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk92c3210025c92cc22753209)
   * Redis事务
     * [Redis中事务1 ](https://weread.qq.com/web/reader/d36322207190b923d368a9aka973204026ba97da629bd12)
     * [Redis中事务2](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk42a324e028842a0e188f652)
@@ -114,6 +112,8 @@
   * [Redis分布式锁 （图解-秒懂-史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14731826.html)
   * [Redis集群 - 图解 - 秒懂（史上最全)---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14698576.html) 
   * [Redis与DB的数据一致性解决方案（史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14853622.html)
+  * [Redis分布式锁](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
+    * [Redis分布式锁升级版RedLock及SpringBoot实现 ](https://www.cnblogs.com/Courage129/p/14355562.html)
 * Redis集群
   * [基于Redis5的集群搭建和使用](https://blog.csdn.net/autfish/article/details/89521682)
   * [为什么Redis集群要使用反向代理?](https://www.cnblogs.com/Courage129/p/14351545.html)
