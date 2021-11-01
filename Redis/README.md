@@ -178,6 +178,9 @@
     * [Spring Boot框架整合Redis哨兵集群](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck502328f03102502e4a161e2)
     * [Spring Boot框架整合Redis cluster集群](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck36632a30310636660e59e6c)
     * [在Spring Boot里实现秒杀案例](https://weread.qq.com/web/reader/f2932520725d0bbff2948bcke56328803109e56954b482e)
+  * [Redis整合Spring Cloud微服务](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck473326d031114734ba6fffe)
+    * [Redis整合Eureka的微服务架构图](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck20f32f60311520f075919e4)
+    * [Redis与Ribbon整合使用](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck0f432480311b0f49c89d68a) 
 
 * [发布与订阅](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bkd1f32250281d1f491a40045)
 # 内容
