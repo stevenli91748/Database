@@ -134,13 +134,12 @@
     * [Redis服务器管理客户端的命令](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck2a3327002582a38a4a932bf)
     * [查看Redis服务器的详细信息](https://weread.qq.com/web/reader/f2932520725d0bbff2948bckf4b32ef025ef4b9ec30acd6) 
     * [查看并修改服务器的常用配置](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck697324802676974ce5aceab)
-
 * [分布式方案](#分布式方案)
   * [从0开始打造自己的  RedisSession  ---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/12038208.html)
-  * [Redis分布式锁 （图解-秒懂-史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14731826.html)
   * [Redis集群 - 图解 - 秒懂（史上最全)---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14698576.html) 
   * [Redis与DB的数据一致性解决方案（史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14853622.html)
   * [Redis分布式锁](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
+    * [Redis分布式锁 （图解-秒懂-史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14731826.html)
     * [Redis分布式锁升级版RedLock及SpringBoot实现 ](https://www.cnblogs.com/Courage129/p/14355562.html)
 * Redis集群
   * [基于Redis5的集群搭建和使用](https://blog.csdn.net/autfish/article/details/89521682)
@@ -181,8 +180,15 @@
   * [Redis整合Spring Cloud微服务](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck473326d031114734ba6fffe)
     * [Redis整合Eureka的微服务架构图](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck20f32f60311520f075919e4)
     * [Redis与Ribbon整合使用](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck0f432480311b0f49c89d68a) 
+* Redis应用场景与案例实现
+  * [Redis消息队列实战](https://weread.qq.com/web/reader/f2932520725d0bbff2948bckeae326902cdeae27d77c749)
+    * [发布与订阅](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bkd1f32250281d1f491a40045)
+  * [用Java实战Redis分布式锁](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck6f3325702d26f3ef77acc76)
+    * [Redis分布式锁 （图解-秒懂-史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14731826.html)
+    * [Redis分布式锁升级版RedLock及SpringBoot实现 ](https://www.cnblogs.com/Courage129/p/14355562.html)
+  * [用Java实现Redis限流](https://weread.qq.com/web/reader/f2932520725d0bbff2948bckca4326502d6ca46c1b957c7)
+  * [Redis压力测试实战](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck63d32d402d963dc7ed1006e)
 
-* [发布与订阅](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bkd1f32250281d1f491a40045)
 # 内容
 
 ## Redis概述
