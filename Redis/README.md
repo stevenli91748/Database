@@ -169,7 +169,15 @@
   * Redis整合MySQL集群与MyCAT分库分表组件
     * [Redis整合MySQL主从集群 ](https://weread.qq.com/web/reader/f2932520725d0bbff2948bckec8322702dcec8ce6abb5a4)
     * [Redis整合MySQL和MyCAT分库组件](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck9cf32d102e29cfdf10e885f)
-
+  * Redis整合lua脚本实战
+    * [在Redis里调用lua脚本](https://weread.qq.com/web/reader/f2932520725d0bbff2948bcke16324302e9e16542111f82) 
+    * [Redis整合lua高级实战](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck335324c02f0335f53520195)
+    * [Redis整合lua脚本的实例分析](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck3ce32bb02f73cec07e9b4d2)
+  * Redis与Spring Boot的整合应用        
+    * [在Spring Boot框架里引入Redis](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck03c326002fc03c6b0695ff2) 
+    * [Spring Boot框架整合Redis哨兵集群](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck502328f03102502e4a161e2)
+    * [Spring Boot框架整合Redis cluster集群](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck36632a30310636660e59e6c)
+    * [在Spring Boot里实现秒杀案例](https://weread.qq.com/web/reader/f2932520725d0bbff2948bcke56328803109e56954b482e)
 
 * [发布与订阅](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bkd1f32250281d1f491a40045)
 # 内容
