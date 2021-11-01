@@ -115,7 +115,8 @@
       * [Redis漏斗限流](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
     * [scan---Redis搜索](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
     * [Redis数据持久化操作](https://weread.qq.com/web/reader/d36322207190b923d368a9ak7f632b502707f6ffaa6bf2e)
-      * [Redis持久化机制概述](https://weread.qq.com/web/reader/f2932520725d0bbff2948bcke0032e0028be00da03b6659)  
+      * [Redis持久化机制概述](https://weread.qq.com/web/reader/f2932520725d0bbff2948bcke0032e0028be00da03b6659) 
+      * [如何选用持久化方式](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck37a32ae029837a749d80032) 
       * [redis存储对象与对象序列化详解](https://www.shuzhiduo.com/A/A7zgRDmPd4/) 
       * [Redis持久化之父子进程与写时复制 ](https://www.cnblogs.com/Courage129/p/14343136.html)
       * [Redis持久化之RDB和AOF](https://www.cnblogs.com/Courage129/p/14342102.html)
@@ -133,6 +134,7 @@
     * [Redis服务器管理客户端的命令](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck2a3327002582a38a4a932bf)
     * [查看Redis服务器的详细信息](https://weread.qq.com/web/reader/f2932520725d0bbff2948bckf4b32ef025ef4b9ec30acd6) 
     * [查看并修改服务器的常用配置](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck697324802676974ce5aceab)
+* Redis整合
 * [分布式方案](#分布式方案)
   * [从0开始打造自己的  RedisSession  ---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/12038208.html)
   * [Redis分布式锁 （图解-秒懂-史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14731826.html)
@@ -149,11 +151,14 @@
     * 主从模式
       * [Redis主从复制1 ](https://weread.qq.com/web/reader/d36322207190b923d368a9akeb132680275eb160de1d35c)
       * [Redis主从复制2](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bked332ca0262ed3d2c2191f2)
+      * [搭建基于主从复制模式的集群](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck06432b4029e064096632ab8)
     * sentinel（哨兵）模式
       * [哨兵和集群](https://weread.qq.com/web/reader/d36322207190b923d368a9ak2023270027b202cb962a56f)
-      * [Sentinel](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bka973204026ba97da629bd12) 
+      * [Sentinel](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bka973204026ba97da629bd12)
+      * [搭建哨兵模式的集群](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck976327e02a59766527f2a35) 
     * cluster模式
       * [集群](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk07e323f027707e1cd7dc674) 
+      * [搭建cluster集群](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck1ff321e02ac1ff8a7b5d0fc)
   * [redis集群性能监控  ](https://www.kubernetes.org.cn/7616.html)
 * [发布与订阅](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bkd1f32250281d1f491a40045)
 * 
