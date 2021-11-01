@@ -44,6 +44,7 @@
 * [Redis概述](#Redis概述)
 * [Redis缺点](#Redis缺点)
 * [Redis安装与调试](https://weread.qq.com/web/reader/d36322207190b923d368a9akd3d322001ad3d9446802347)
+  * [安装和配置基于Docker的Redis环境](https://weread.qq.com/web/reader/f2932520725d0bbff2948bckc7432af0210c74d97b01b1c) 
 * Redis 基础
   * Redis对象
     * [对象](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk67c32d7022f67c6a1e7ce82) 
