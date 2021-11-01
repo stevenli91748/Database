@@ -187,6 +187,8 @@
     * [Redis分布式锁 （图解-秒懂-史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14731826.html)
     * [Redis分布式锁升级版RedLock及SpringBoot实现 ](https://www.cnblogs.com/Courage129/p/14355562.html)
   * [用Java实现Redis限流](https://weread.qq.com/web/reader/f2932520725d0bbff2948bckca4326502d6ca46c1b957c7)
+    * [Redis简单限流](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
+    * [Redis漏斗限流](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
   * [Redis压力测试实战](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck63d32d402d963dc7ed1006e)
 
 # 内容
