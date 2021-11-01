@@ -161,6 +161,14 @@
       * [搭建cluster集群](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck1ff321e02ac1ff8a7b5d0fc)
   * [redis集群性能监控  ](https://www.kubernetes.org.cn/7616.html)
 * Redis整合
+  * Java整合MySQL与Redis 
+    * [Java通过Jedis读写Redis](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck045323f02b4045117b0eab7)
+    * [Java与各种Redis数据类型](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck31f320d02bb31fefc0e5450) 
+    * [Redis与MySQL的整合](https://weread.qq.com/web/reader/f2932520725d0bbff2948bckbd6321302c1bd686fd64dae)
+    * [Redis缓存实战分析](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck84d326502c784d9ee44ebbe)
+  * Redis整合MySQL集群与MyCAT分库分表组件
+    * [Redis整合MySQL主从集群 ](https://weread.qq.com/web/reader/f2932520725d0bbff2948bckec8322702dcec8ce6abb5a4)
+    * [Redis整合MySQL和MyCAT分库组件](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck9cf32d102e29cfdf10e885f)
 
 
 * [发布与订阅](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bkd1f32250281d1f491a40045)
