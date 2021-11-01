@@ -134,7 +134,7 @@
     * [Redis服务器管理客户端的命令](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck2a3327002582a38a4a932bf)
     * [查看Redis服务器的详细信息](https://weread.qq.com/web/reader/f2932520725d0bbff2948bckf4b32ef025ef4b9ec30acd6) 
     * [查看并修改服务器的常用配置](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck697324802676974ce5aceab)
-* Redis整合
+
 * [分布式方案](#分布式方案)
   * [从0开始打造自己的  RedisSession  ---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/12038208.html)
   * [Redis分布式锁 （图解-秒懂-史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14731826.html)
@@ -160,14 +160,10 @@
       * [集群](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk07e323f027707e1cd7dc674) 
       * [搭建cluster集群](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck1ff321e02ac1ff8a7b5d0fc)
   * [redis集群性能监控  ](https://www.kubernetes.org.cn/7616.html)
+* Redis整合
+
+
 * [发布与订阅](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bkd1f32250281d1f491a40045)
-* 
-# 问题
-
-* Redis缓存穿透原理与解决方案
-
-
-
 # 内容
 
 ## Redis概述
