@@ -2,7 +2,8 @@
 [精尽 MongoDB 学习指南](http://svip.iocoder.cn/MongoDB/tutorials/)|[MongoDB快速教程](http://c.biancheng.net/mongodb2/)|
 ---|---|
 
-
+# 目录
+* [使用MongoDB支持海量数据](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714kd1f32d7024fd1fe173d0651)
 
 # 视频
   * [MongoDB夯实基础视频](https://www.bilibili.com/video/av21989676?from=search&seid=10516610192386877721)
