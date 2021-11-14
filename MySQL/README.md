@@ -1,3 +1,6 @@
+**在MySQL的集群设计中，首先使用主从同步设计构建数据库集群，然后将这种集群以分组的形式通过主主同步实现高可用设计。而对数据库的访问，将使用OneProxy数据库代理中间件实现读写分离设计。最后，对OneProxy的调用，还将使用LVS（Linux Virtual Server，Linux虚拟服务器）技术构建一个双机热备的访问机制。LVS将提供一个虚拟的广播IP地址，即以VIP地址的形式对外提供服务**
+
+
 
 # [MySQL数据库面试题](https://github.com/stevenli91748/Database/blob/master/MySQL/Interview/README.md)
 
