@@ -270,6 +270,7 @@
 
 
 # 有用的参考
+* [数据库中间件详解（精品长文）](https://zhuanlan.zhihu.com/p/87144535)
 * [MySQL进阶及优化](https://www.cnblogs.com/Courage129/category/1890813.html)
 * [Mysql双主热备+LVS+Keepalived高可用操作记录](https://cloud.tencent.com/developer/article/1025920?from=article.detail.1026003)
 * [三万字、91道MySQL面试题和答案（2020收藏版）](https://zhuanlan.zhihu.com/p/114993399?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
