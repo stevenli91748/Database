@@ -160,6 +160,7 @@
 * [2e MySQL索引](#2e-MySQL索引)
 * [2f MySQL优化](#2f-MySQL优化)
 * [2g MySQL架构设计](#2g-MySQL架构设计)
+* [2h MySQL数据库代理中间件](#2h-MySQL数据库代理中间件)
 
 ## 2g MySQL架构设计
 * [2ga MySQL集群](#2ga-MySQL集群)
@@ -227,6 +228,12 @@
 
 [MySQL集群解决方案（主从复制、PXC集群、MyCat、HAProxy）](https://www.bilibili.com/video/BV1R4411s7zi/?spm_id_from=333.788.videocard.17)|[MySQL 高可用架构之 PXC 集群](https://juejin.cn/post/6844904039063224327)|[安装PXC集群在Docker](https://www.kancloud.cn/pm1028/kubenetes/1767444)|
 ---|---|---|
+
+
+## 2h MySQL数据库代理中间件
+
+* [MySQL数据库代理中间件选择](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k2023270027b202cb962a56f)
+
 
 ---
 
