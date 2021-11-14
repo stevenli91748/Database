@@ -233,7 +233,8 @@
 ## 2h MySQL数据库代理中间件
 
 * [MySQL数据库代理中间件选择](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k2023270027b202cb962a56f)
-
+  * Mycat---MyCat在大流量访问中有极佳的性能表现，它是用Java语言开发的，配置文件使用XML的形式，稍显复杂，特别是它的分区表的配置有点累赘。另外，一些用户对它的稳定性也颇有微词
+  * [OneProxy---OneProxy是一款基于MySQL官方的Proxy中间件的设计思想开发的，运行稳定性好，配置也较为简单，分区表的概念与MySQL分区表的设置在根本上是一致的](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714kc8f3245027cc8ffe9a588b8)
 
 ---
 
