@@ -12,7 +12,7 @@
 * [深入浅出MySQL: 数据库开发，优化与管理维护 （第2版）](https://weread.qq.com/web/reader/f3e327e05b25c1f3e6d5ee2)
 
 
-# 目录
+
 
 [公司用的 MySQL 团队开发规范，太详细了，建议收藏](https://mp.weixin.qq.com/s/Y1OTWxiYrQpihezaiydjcw)|
 ---|
@@ -38,12 +38,15 @@
 * [我们讲解如何通过代码调用MySQL的备份还原命令实现系统备份还原的功能](https://weread.qq.com/web/reader/9593218071950312959b681kea532350240ea5d2f1c4357)
 
 
-* [1. MySQL基础部分](#1-MySQL基础部分)
-* [2. MySQL高级部分](#2-MySQL高级部分)
-* [3 MySQL故障处理](#3-MySQL故障处理)
-* [4 MySQL Tools](#4-MySQL-Tools)
-* [5 MySQL事务](#5-MySQL事务])
-* [6 MySQL 的架构设计](https://zhuanlan.zhihu.com/p/150583672)
+# 目录
+  * [1. MySQL基础部分](#1-MySQL基础部分)
+  * [2. MySQL高级部分](#2-MySQL高级部分)
+  * [3 MySQL故障处理](#3-MySQL故障处理)
+  * [4 MySQL Tools](#4-MySQL-Tools)
+  * [5 MySQL事务](#5-MySQL事务])
+  * 6 MySQL 的架构设计  
+    * [MySQL的架构设计](https://zhuanlan.zhihu.com/p/150583672)
+    * [MySQL数据库之互联网常用架构方案（全）](https://zhuanlan.zhihu.com/p/98546065) 
 
 # 1 MySQL基础部分
 
