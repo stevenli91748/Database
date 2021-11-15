@@ -28,6 +28,7 @@
 * [数据库概述](#数据库概述)
 * [数据库设计](https://github.com/stevenli91748/Database/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1/README.md)
   * [一步步带你了解分布式数据库的架构演变之路](https://zhuanlan.zhihu.com/p/57907022)
+  * [支撑百万并发的数据库架构如何设计？](https://zhuanlan.zhihu.com/p/57802566)
   * 需求建模
     * 需求分析---就是要明确系统的数据存储需求
     * 概念设计
