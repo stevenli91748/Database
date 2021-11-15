@@ -43,6 +43,7 @@
 * [3 MySQL故障处理](#3-MySQL故障处理)
 * [4 MySQL Tools](#4-MySQL-Tools)
 * [5 MySQL事务](#5-MySQL事务])
+* [6 MySQL 的架构设计](https://zhuanlan.zhihu.com/p/150583672)
 
 # 1 MySQL基础部分
 
