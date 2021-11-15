@@ -188,6 +188,7 @@
 ## 2b MySQL分库分表
 
 * [数据库中间件详解（精品长文）](https://zhuanlan.zhihu.com/p/87144535)
+* [如何实现多数据源读写分离？这是我看过最详细的一篇！！](https://zhuanlan.zhihu.com/p/309314866)
 
 [2020最新技术ShardingJDBC 分库分表 -吊打MyCat](https://www.bilibili.com/video/BV1nT4y157Xp/?spm_id_from=333.788.videocard.1)|[2020面试一线大厂必问的数据库分库分表教程全集（mysql+mycat)](https://www.bilibili.com/video/BV1vJ41187E1/?spm_id_from=333.788.videocard.1)|
 ---|---|
