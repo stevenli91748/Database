@@ -124,7 +124,7 @@
     * [Redis简单限流](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
       * [Redis漏斗限流](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
     * [scan---Redis搜索](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40ka87322c014a87ff679a21ea)
-    * [Redis数据持久化操作](https://weread.qq.com/web/reader/d36322207190b923d368a9ak7f632b502707f6ffaa6bf2e)
+    * [Redis数据持久化操作---将内存中的数据写入外部的物理存储设备](https://weread.qq.com/web/reader/d36322207190b923d368a9ak7f632b502707f6ffaa6bf2e)
       * [Redis持久化机制概述](https://weread.qq.com/web/reader/f2932520725d0bbff2948bcke0032e0028be00da03b6659) 
       * [如何选用持久化方式](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck37a32ae029837a749d80032) 
       * [redis存储对象与对象序列化详解](https://www.shuzhiduo.com/A/A7zgRDmPd4/) 
