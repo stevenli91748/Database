@@ -1,4 +1,12 @@
 
+# 在线书籍
+
+* [MongoDB进阶与实战：微服务整合 性能优化 架构管理](https://weread.qq.com/web/reader/f1232340724708a1f128522)
+
+
+---
+
+
 [精尽 MongoDB 学习指南](http://svip.iocoder.cn/MongoDB/tutorials/)|[MongoDB快速教程](http://c.biancheng.net/mongodb2/)|
 ---|---|
 
