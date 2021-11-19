@@ -3,6 +3,7 @@
 
 
 # 在线书籍
+* [大数据高并发 Redis一本通](https://weread.qq.com/web/reader/f2032c2072792dd3f200695)
 * [Redis入门指南（第3版）](https://weread.qq.com/web/reader/0a732f7072769fb50a7fd3a)
 * [Redis深度历险：核心原理与应用实践](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40kc81322c012c81e728d9d180)
 * [Redis设计与实现---重思维理解能力，重底层原理，对Redis的原理有整体的认知，可构建一个基础的知识体系](https://weread.qq.com/web/reader/d35323e0597db0d35bd957b)
