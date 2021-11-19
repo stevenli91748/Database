@@ -48,6 +48,14 @@
 * [Redis安装与调试](https://weread.qq.com/web/reader/d36322207190b923d368a9akd3d322001ad3d9446802347)
   * [安装和配置基于Docker的Redis环境](https://weread.qq.com/web/reader/f2932520725d0bbff2948bckc7432af0210c74d97b01b1c) 
 * Redis 基础
+  * Redis的主要应用场景
+    * 缓存（数据查询、短连接、新闻内容、商品内容等）
+    * 分布式会话（Session）
+    * 聊天室的在线好友列表
+    * 任务队列（秒杀、抢购、12306等）
+    * 应用排行榜
+    * 访问统计
+    * 数据过期处理（可以精确到毫秒） 
   * Redis对象
     * [对象](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk67c32d7022f67c6a1e7ce82) 
     * [Redis中的对象](https://weread.qq.com/web/reader/d36322207190b923d368a9ak72b327f023972b32a1f7e2d) 
