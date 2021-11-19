@@ -11,8 +11,9 @@
 * [Redis开发与运维](https://weread.qq.com/web/reader/439327a0811e1aa5dg0166fd)
 * [Redis实战](https://weread.qq.com/web/reader/95c323f0811e1abafg018570)
 * [优先  基于Docker的Redis入门与实战](https://weread.qq.com/web/reader/f2932520725d0bbff2948bc)
-* [疯狂创客圈 java高并发核心编程(卷1)： NIO, Netty, Redis, Zookeeper](https://weread.qq.com/web/reader/e6d323b0723b6029e6d1c55)
-* [疯狂创客圈 Netty、Redis、Zookeeper高并发实战](https://weread.qq.com/web/reader/1e732510718f63a11e7dee2)
+* [java高并发核心编程 (卷1) : NIO, Netty, Redis, ZooKeeper------本书实际上是《Netty、Redis、ZooKeeper高并发实战》一书的升级版](https://weread.qq.com/web/reader/e6d323b0723b6029e6d1c55)
+* [java高并发核心编程 (卷2): 多线程，锁，JMM,JUC,高并发设计模式](https://weread.qq.com/web/reader/9b93254072456ac19b9a176)
+* [Netty、Redis、Zookeeper高并发实战------讲Netty 最好的书 是学分布式和并发的必备图书](https://weread.qq.com/web/reader/1e732510718f63a11e7dee2)
 * [Spring 实战开发（Redis + SpringDataJPA + SpringMVC + SpringSecurity）](https://weread.qq.com/web/reader/64532fc071c96a44645204f)
 ---
 
