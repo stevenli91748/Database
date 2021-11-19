@@ -1,5 +1,12 @@
 # [MyBatis面试题](https://github.com/stevenli91748/Database/blob/master/Mybatis/Interview/README.md)
 
+
+# 在线书籍
+
+* [通用源码阅读指导书： MyBatis源码详解](https://weread.qq.com/web/reader/de732ba071f94a8ede7dc94)
+
+---
+
 [MyBatis注解（3种类型）](http://c.biancheng.net/mybatis/annotation.html)
 ---|
 
