@@ -28,6 +28,7 @@
 # 有用的参考
 
 ## Dadabase安装
+* [kubernetes-部署Oracle数据库](https://www.kubernetes.org.cn/6498.html)
 * [Oracle数据库的下载和安装](https://www.shuzhiduo.com/A/xl56V6p75r/)
 * [Oracle 11g R2安装文档](https://developer.aliyun.com/article/714450)
 * [Database Quick Installation Guide](https://docs.oracle.com/cd/E11882_01/install.112/e24326/toc.htm)
