@@ -6,7 +6,7 @@
 
 
 # 在线书籍
-* [MySQL技术大全： 开发， 优化与运维实战---冰河  非常好 首先看 ](https://weread.qq.com/web/reader/bd032100721bc56bbd056ff)
+* [MySQL技术大全： 开发， 优化与运维实战---冰河  非常好 首先看 2021 ](https://weread.qq.com/web/reader/bd032100721bc56bbd056ff)
 * [MySQL可扩展分布式数据库集群的搭建](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k07e323f027707e1cd7dc674)
 * [MySQL技术内幕： SQL 编程](https://weread.qq.com/web/reader/46d32a3059335d46d02eba6)
 * [MySQL技术内幕：InnoDB存储引擎（第2版）](https://weread.qq.com/web/reader/611329b059346e611427f1c)
