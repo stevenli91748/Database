@@ -3,3 +3,6 @@
 * [外键](https://weread.qq.com/web/reader/bd032100721bc56bbd056ffk16732dc0161679091c5aeb1)
 * [索引](https://weread.qq.com/web/reader/bd032100721bc56bbd056ffk16732dc0161679091c5aeb1)
 * [视图](https://weread.qq.com/web/reader/bd032100721bc56bbd056ffk16732dc0161679091c5aeb1)
+* [存储过程](https://weread.qq.com/web/reader/bd032100721bc56bbd056ffk16732dc0161679091c5aeb1)
+* [触发器](https://weread.qq.com/web/reader/bd032100721bc56bbd056ffk16732dc0161679091c5aeb1)
+* [存储引擎](https://weread.qq.com/web/reader/bd032100721bc56bbd056ffk16732dc0161679091c5aeb1)
