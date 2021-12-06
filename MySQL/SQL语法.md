@@ -9,8 +9,7 @@
 * DCL（Data Control Language，数据控制语言）：用于定义数据库的访问权限和安全级别，主要包含GRANT、REVOKE、COMMIT和ROLLBACK等语句。
 * DQL（Data Query Language，数据查询语言）：用于查询数据表中的数据记录，主要包含SELECT语句。
 
-# DML
----|---|
+
 
 
 
