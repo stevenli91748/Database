@@ -4,6 +4,7 @@
 
 # [MySQL数据库面试题](https://github.com/stevenli91748/Database/blob/master/MySQL/Interview/README.md)
 
+# [MySQL名词解析](https://github.com/stevenli91748/Database/blob/master/MySQL/MySQL%E5%90%8D%E8%AF%8D%E8%A7%A3%E6%9E%90/README.md)
 
 # 在线书籍
 * [MySQL技术大全： 开发， 优化与运维实战---冰河  非常好 首先看 2021 ](https://weread.qq.com/web/reader/bd032100721bc56bbd056ff)
@@ -39,7 +40,7 @@
 
 * [我们讲解如何通过代码调用MySQL的备份还原命令实现系统备份还原的功能](https://weread.qq.com/web/reader/9593218071950312959b681kea532350240ea5d2f1c4357)
 
-# [MySQL名词解析]()
+
 # 目录
   * [1. MySQL基础部分](#1-MySQL基础部分)
   * [2. MySQL高级部分](#2-MySQL高级部分)
