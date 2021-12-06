@@ -40,47 +40,51 @@
           * phpMyAdmin
       * 3. 列的约束，限制
       * 4. 索引的设计
-
-* [JDBC](https://github.com/stevenli91748/Database/blob/master/JDBC/README.md)
 * [关系数据库](https://github.com/stevenli91748/Database/blob/master/关系数据库/README.md)
-  * [MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/README.md)
-  * [Mariadb](https://github.com/stevenli91748/Database/blob/master/Mariadb/README.md)
-  * PostgreSQL
-  * ORACLE
-  * [Mybatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/README.md)
-  * [SQLite](https://github.com/stevenli91748/Database/blob/master/SQLite/README.md)
-* 内存数据库
-  * [Redis---内存数据库，redis只支持kv不支持sql](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
-  * Apache Ignite---内存数据库，数据网格，计算网格，服务网格，sql网格，数据结构，流计算，文件系统，高级集群等模块，都是放在内存操作
-  * sqlite---内存sql数据库，但不支持分布式 
-* [NON-SQL Database](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/NoSQL数据库集群.md)
-  * K-V存储---解决关系数据库无法存储数据结构的问题，以Redis 为代表
+  * 数据库系统
+    * [MySQL](https://github.com/stevenli91748/Database/blob/master/MySQL/README.md)
+    * [Mariadb](https://github.com/stevenli91748/Database/blob/master/Mariadb/README.md)
+    * PostgreSQL
+    * ORACLE
+    * [Mybatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/README.md)
+    * [SQLite](https://github.com/stevenli91748/Database/blob/master/SQLite/README.md)
+   * SQL语言
+  * 数据库访问技术 
+    * [JDBC](https://github.com/stevenli91748/Database/blob/master/JDBC/README.md) 
+* NoSQL数据库
+  * 内存数据库
     * [Redis---内存数据库，redis只支持kv不支持sql](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
-  * 文档数据库---解决关系数据库强schema 约束的问题，以MongoDB 为代表
-    * [MongoDB](https://github.com/stevenli91748/Database/blob/master/MongoDB/README.md)  
-  * 列式数据库： 解决关系数据库大数据场景下的I/O 问题，以HBase 为代表
-    * [HBase](https://github.com/stevenli91748/Database/blob/master/HBase/README.md)
-  * 全文搜索引擎：解决关系数据库的全文搜索性能问题，以Elasticsearch 为代表
-    * [Elasticsearch](https://github.com/stevenli91748/Database/blob/master/Elasticsearch/README.md)
-  * Memcache
-  * [图数据库 Neo4j](https://github.com/stevenli91748/Database/tree/master/Neo4j%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E5%BA%93)
+    * Apache Ignite---内存数据库，数据网格，计算网格，服务网格，sql网格，数据结构，流计算，文件系统，高级集群等模块，都是放在内存操作
+    * sqlite---内存sql数据库，但不支持分布式 
+  * [NON-SQL Database](https://github.com/stevenli91748/System-Design/blob/master/High%20performance%20architecture/NoSQL数据库集群.md)
+    * K-V存储---解决关系数据库无法存储数据结构的问题，以Redis 为代表
+      * [Redis---内存数据库，redis只支持kv不支持sql](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
+    * 文档数据库---解决关系数据库强schema 约束的问题，以MongoDB 为代表
+      * [MongoDB](https://github.com/stevenli91748/Database/blob/master/MongoDB/README.md)  
+    * 列式数据库： 解决关系数据库大数据场景下的I/O 问题，以HBase 为代表
+      * [HBase](https://github.com/stevenli91748/Database/blob/master/HBase/README.md)
+    * 全文搜索引擎：解决关系数据库的全文搜索性能问题，以Elasticsearch 为代表
+      * [Elasticsearch](https://github.com/stevenli91748/Database/blob/master/Elasticsearch/README.md)
+    * Memcache
+    * [图数据库 Neo4j](https://github.com/stevenli91748/Database/tree/master/Neo4j%E5%9B%BE%E5%BD%A2%E6%95%B0%E6%8D%AE%E5%BA%93)
 * Distribute Database
-* [缓存系统](https://github.com/stevenli91748/Database/blob/master/缓存系统/README.md)
-* [数据库连接池](https://github.com/stevenli91748/Database/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0/README.md)
-* 文件存储
-  * 小文件存储
-    * [HBase](https://github.com/stevenli91748/Database/blob/master/HBase/README.md)
-    * Hadoop
-    * Hypertable
-    * FastDFS
-    * TFS(taobao)
-    * JFS(JD)
-    * Haystack(facebook)
-  * 大文件存储
-    * Hadoop
-    * [HBase](https://github.com/stevenli91748/Database/blob/master/HBase/README.md)
-    * Storm
-    * Hive
+  * [缓存系统](https://github.com/stevenli91748/Database/blob/master/缓存系统/README.md)
+  * [数据库连接池](https://github.com/stevenli91748/Database/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0/README.md)
+  * 文件存储
+    * 小文件存储
+      * [HBase](https://github.com/stevenli91748/Database/blob/master/HBase/README.md)
+      * Hadoop
+      * Hypertable
+      * FastDFS
+      * TFS(taobao)
+      * JFS(JD)
+      * Haystack(facebook)
+    * 大文件存储
+      * Hadoop
+      * [HBase](https://github.com/stevenli91748/Database/blob/master/HBase/README.md)
+      * Storm
+      * Hive
+* Cloud Database
 * Database Tools
   * [navicat](https://github.com/stevenli91748/Database/blob/master/Navicat/README.md)
 
