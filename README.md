@@ -51,6 +51,15 @@
    * SQL语言
   * 数据库访问技术 
     * [JDBC](https://github.com/stevenli91748/Database/blob/master/JDBC/README.md) 
+    * ODBC
+    * DAO
+    * OLE DB
+    * ADO
+    * ADO.NET
+    * PDO
+    * PyMySQL
+    * MySQL 2
+    * GO-SQL-Driver
 * NoSQL数据库
   * 内存数据库
     * [Redis---内存数据库，redis只支持kv不支持sql](https://github.com/stevenli91748/Database/blob/master/Redis/README.md)
