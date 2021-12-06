@@ -43,6 +43,7 @@
 
 # 目录
   * [1. MySQL基础部分](#1-MySQL基础部分)
+    * [SQL执行流程](https://weread.qq.com/web/reader/bd032100721bc56bbd056ffk65132ca01b6512bd43d90e3) 
   * [2. MySQL高级部分](#2-MySQL高级部分)
   * [3 MySQL故障处理](#3-MySQL故障处理)
   * [4 MySQL Tools](#4-MySQL-Tools)
