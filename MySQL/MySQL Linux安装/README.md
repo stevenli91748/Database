@@ -16,67 +16,36 @@
 
 # 在centos 8上安装MySQL
 
- step 1:  安装可用的rpm包
+* [centos8安装mysql8.0.22教程(超详细)](https://blog.csdn.net/qq_39150374/article/details/112471108)
+
+安装步骤如下:
+
+  1.1 如果服务器之前安装过mysql请先卸载,我这里是用yum安装的，现在通过yum去卸载
+        [root] yum remove -y mysql
+        [root] find / -name mysql
+        列出查询到的文件，使用如下命令删除每一个文件
+        [root] rm -rf 
+
+  1.2 卸载完成后，使用以下命令:
+      下载mysql安装包:
+        [root] yum install -y wget
+
+        [root] wget https://dev.mysql.com/get/mysql80-community-release-el8-1.noarch.rpm
+
+        [root] yum install mysql80-community-release-el8-1.noarch.rpm
  
-           从MySQL网站下载可用的rpm包
-   
- step 2:  设置安装环境, 必须root用户,此步骤很重要，否则在安装MySQL的时候会报错
- 
-          [root] dnf --enablerepo=powertools install bison-devel
-          [root] yum install ncurses-devel
-          [root] dnf install libaio
-          [root] yum install -y net-tools
-          
-          [root] reboot
-          
-          [root] yum -y install wget gcc-c++ ncurses ncurses-devel cmake make perl bison openssl openssl-devel gcc* libxml2 libxml2-devel curl-devel libjpeg* libpng* freetype* make gcc-c++ cmake bison-devel ncurses-devel bison perl perl-devel perl perl-devel net-tools* numactl*
+  1.3 禁用CentOS8自带mysql模块
+  
+        [root] yum module disable mysql 
+        
+  1.4 安装mysql命令       
+  
+        [root] yum install mysql-community-server
+        
+  1.7 启动mysql
+  
+       [root] systemctl start mysqld.service   //启动命令
+       [root] service mysqld status // 查看MySQL 是否安装好
 
-
----
-
-    第一步  centos默认安装了mariadb，因此，在安装mysql之前，需要卸载系统中安装的mariadb。
-           查看系统中所有已安装的mariadb包。命令：rpm -qa | grep mariadb
-           卸载mariadb。命令：rpm -e "mariadb的包名"。
-           若依赖包检测失败，可以使用强制卸载的命令：rpm -e --nodeps "mariadb的包名"
-           
-    第二步  安装可用的rpm包
-           [root]# rpm -Uvh http://dev.mysql.com/get/mysql-community-release-el7-5.noarch.rpm
-           
-           使用repo源开始安装MySQL
-           [root]# rpm -ivh mysql-community-release-el7-5.noarch.rpm
-           
-    第三步  查看可用安装资源
-           [root]# yum repolist enabled | grep "mysql.*-community.*"
-           
-    第四步  安装
-           [root]# yum -y install mysql-community-server
-          
-    第五步  配置
-    
-           开启启动
-               [root]# systemctl enable mysqld
-
-           启动MySQL服务
-               [root]# systemctl start mysqld
-    
-           设置密码
-               [root]# mysql_secure_installation
-
-              设置密码的过程中，有一些需要注意的点如下所示：
-               1、Set root password? [Y/n] y        [设置root用户密码]
-               
-                  如果不能成功设置password，就要用
-                  [root]# mysql_upgrade
-                  然后再次运行
-                  [root]# mysql_secure_installation
-               
-               2、Remove anonymous users? [Y/n] y            [删除匿名用户]
-               3、Disallow root login remotely? [Y/n] n            [禁止root远程登录]
-               4、Remove test database and access to it? [Y/n] y       [删除test数据库]
-               5、Reload privilege tables now? [Y/n] y        [刷新权限]
-
-     第六步  远程客户端访问
-               [root]# mysql -u root -p       [密码]
-               mysql> GRANT ALL PRIVILEGES ON *.* TO 'root'@'%' IDENTIFIED BY '123456' WITH GRANT OPTION;
-
+<a href="https://ibb.co/Fz6sYcs"><img src="https://i.ibb.co/JHnxp8x/mysql123.png" alt="mysql123" border="0"></a>
            
