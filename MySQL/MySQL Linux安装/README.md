@@ -1,4 +1,5 @@
 
+
 # centos 7  默认带Mariadb
 
     查看是否安装： rpm -qa|grep mysql（或者Mariadb）
@@ -23,6 +24,9 @@
  
           [root] dnf --enablerepo=powertools install bison-devel
           [root] yum install ncurses-devel
+          [root] dnf install libaio
+          [root] yum install -y net-tools
+          
           [root] reboot
           
           [root] yum -y install wget gcc-c++ ncurses ncurses-devel cmake make perl bison openssl openssl-devel gcc* libxml2 libxml2-devel curl-devel libjpeg* libpng* freetype* make gcc-c++ cmake bison-devel ncurses-devel bison perl perl-devel perl perl-devel net-tools* numactl*
