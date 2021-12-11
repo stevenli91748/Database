@@ -13,10 +13,22 @@
 
     # mysql进入命令行
 
-# 在centos 7上安装MySQL
+# 在centos 8上安装MySQL
 
+ step 1:  安装可用的rpm包
+ 
+           从MySQL网站下载可用的rpm包
    
+ step 2:  设置安装环境, 必须root用户,此步骤很重要，否则在安装MySQL的时候会报错
+ 
+          [root] dnf --enablerepo=powertools install bison-devel
+          [root] yum install ncurses-devel
+          [root] reboot
+          
+          [root] yum -y install wget gcc-c++ ncurses ncurses-devel cmake make perl bison openssl openssl-devel gcc* libxml2 libxml2-devel curl-devel libjpeg* libpng* freetype* make gcc-c++ cmake bison-devel ncurses-devel bison perl perl-devel perl perl-devel net-tools* numactl*
 
+
+---
 
     第一步  centos默认安装了mariadb，因此，在安装mysql之前，需要卸载系统中安装的mariadb。
            查看系统中所有已安装的mariadb包。命令：rpm -qa | grep mariadb
