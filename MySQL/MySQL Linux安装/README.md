@@ -60,5 +60,31 @@
       [root] mysql -u root -p 
       password:
       
-      mysql> ALTER USER 'root'@'localhost' IDENTIFITED BY 'Gz@19731108'     
+      mysql> ALTER USER 'root'@'localhost' IDENTIFITED BY 'Gz@19731108'    
+      mysql> FLUSH PRIVILEGES
+      mysql> exit
 
+ 1.8 Mysql8开放远程访问
+ 
+      mysql> create user 'root'@'%' identified by 'root123'; //1、先创建权限记录
+      mysql> grant all privileges on *.* to 'root'@'%' with grant option; //2、授权
+ 
+ 1.9 开放防火墙端口      
+ 
+     如果有防火墙，可按如下命令操作
+     
+     # 查看防火墙的规则
+     [root] systemctl status iptables.service
+     
+     使用vi 对 /etc/sysconfig/iptables文件编辑, 在该文件添加一行代码
+     
+     [root] vi /etc/sysconfig/iptables
+     
+     -A INPUT -m state --state NEW -m tcp -p tcp --dport 3306 -j ACCEPT
+     
+     保存和重启防火墙
+     
+     [root] service iptables restart
+     
+     
+     
