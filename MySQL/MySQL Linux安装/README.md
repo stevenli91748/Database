@@ -42,10 +42,12 @@
   
         [root] yum install mysql-community-server
         
-  1.7 启动mysql
+  1.5 启动mysql
   
        [root] systemctl start mysqld.service   //启动命令
        [root] service mysqld status // 查看MySQL 是否安装好
 
 <a href="https://ibb.co/Fz6sYcs"><img src="https://i.ibb.co/JHnxp8x/mysql123.png" alt="mysql123" border="0"></a>
-           
+
+  1.6 
+
