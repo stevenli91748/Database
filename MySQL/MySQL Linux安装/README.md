@@ -49,5 +49,16 @@
 
 <a href="https://ibb.co/Fz6sYcs"><img src="https://i.ibb.co/JHnxp8x/mysql123.png" alt="mysql123" border="0"></a>
 
-  1.6 
+  1.6 显示mysql的随机密码
+  
+      [root] grep 'temporary password' /var/log/mysqld.log
+      
+      密码是host:后面的一串字符
+      
+  1.7  登录并修改mysql密码
+  
+      [root] mysql -u root -p 
+      password:
+      
+      mysql> ALTER USER 'root'@'localhost' IDENTIFITED BY 'Gz@19731108'     
 
