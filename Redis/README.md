@@ -48,6 +48,7 @@
 * [Redis缺点](#Redis缺点)
 * [Redis安装与调试](https://weread.qq.com/web/reader/d36322207190b923d368a9akd3d322001ad3d9446802347)
   * [安装和配置基于Docker的Redis环境](https://weread.qq.com/web/reader/f2932520725d0bbff2948bckc7432af0210c74d97b01b1c) 
+  * [安装和配置基于linux的Redis集群环境](https://www.kancloud.cn/xiaohuamao/micro/1444701)
 * Redis 基础
   * Redis的主要应用场景
     * 缓存（数据查询、短连接、新闻内容、商品内容等）
