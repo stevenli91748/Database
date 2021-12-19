@@ -151,14 +151,6 @@
 [MySql数据库锁机制详解](https://zhuanlan.zhihu.com/p/65076956?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|[MySql连接数与线程池](https://cloud.tencent.com/developer/article/1502887)|
 ---|---|
 
-##  MySQL索引
-
-[MySQL索引优化，explain讲得非常清楚了](https://www.jianshu.com/p/4f8ab1b85059)|[Mysql篇之索引原理](https://www.jianshu.com/p/73cd9288a652)|[无语，我差点被面试官怼坏了，又给我问到MySQL索引](https://www.jianshu.com/p/c82148473235)|
----|---|---|
-
-[数据库两大神器【索引和锁】](https://juejin.im/post/5b55b842f265da0f9e589e79)|[MySql大表分页(附独门秘技)](http://ifeve.com/mysql%e5%a4%a7%e8%a1%a8%e5%88%86%e9%a1%b5%e9%99%84%e7%8b%ac%e9%97%a8%e7%a7%98%e6%8a%80/)|
----|---|
-
 ---
 
 # 2 MySQL高级部分
@@ -218,6 +210,14 @@
 
 [阿里P8架构师，100分钟讲透MySQL索引底层原理！](https://www.bilibili.com/video/BV1BJ411i7WR/?spm_id_from=333.788.videocard.5)|[MySQL索引背后的数据结构及算法原理](https://www.kancloud.cn/kancloud/theory-of-mysql-index/41846)|
 ---|---|
+
+[MySQL索引优化，explain讲得非常清楚了](https://www.jianshu.com/p/4f8ab1b85059)|[Mysql篇之索引原理](https://www.jianshu.com/p/73cd9288a652)|[无语，我差点被面试官怼坏了，又给我问到MySQL索引](https://www.jianshu.com/p/c82148473235)|
+---|---|---|
+
+[数据库两大神器【索引和锁】](https://juejin.im/post/5b55b842f265da0f9e589e79)|[MySql大表分页(附独门秘技)](http://ifeve.com/mysql%e5%a4%a7%e8%a1%a8%e5%88%86%e9%a1%b5%e9%99%84%e7%8b%ac%e9%97%a8%e7%a7%98%e6%8a%80/)|
+---|---|
+
+
 
 ## 2f MySQL优化
 
