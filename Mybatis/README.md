@@ -7,8 +7,10 @@
 
 ---
 
-[MyBatis注解（3种类型）](http://c.biancheng.net/mybatis/annotation.html)
----|
+# 博客
+
+[MyBatis注解（3种类型）](http://c.biancheng.net/mybatis/annotation.html)|[Mybatis从入门到精通](Mybatis从入门到精通)|
+---|---|
 
 [Mybatis框架快速入门教程](http://c.biancheng.net/mybatis/)|[Mybatis官方网战](https://mybatis.org/mybatis-3/zh/configuration.html)|
 ---|---|
