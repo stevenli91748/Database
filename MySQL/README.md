@@ -266,7 +266,7 @@
 # 4 MySQL Tools
 * [SQLyog](https://github.com/stevenli91748/Database/blob/master/SQLyog/README.md)
 * Navicat
-  * [Navicat实用功能：数据备份与结构同步](http://www.macrozheng.com/#/reference/navicat） 
+  * [Navicat实用功能：数据备份与结构同步](http://www.macrozheng.com/#/reference/navicat)
 　
 
 
