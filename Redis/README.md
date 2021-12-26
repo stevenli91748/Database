@@ -39,8 +39,8 @@
 [Spring Data Redis 最佳实践](https://www.jianshu.com/p/6eb4306ef365)|[Docker环境下秒建Redis集群，连SpringBoot也整上了](https://www.jianshu.com/p/ca06e437614f)|
 ---|---|
 
-[SpringBoot 整合 Redis，一篇解决“缓存”的所有问题！](https://www.jianshu.com/p/e4ad2b6bf85f?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends)|
----|
+[SpringBoot 整合 Redis，一篇解决“缓存”的所有问题！](https://www.jianshu.com/p/e4ad2b6bf85f?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends)|[Spring Data Redis 最佳实践！](http://www.macrozheng.com/#/reference/spring_data_redis)|
+---|---|
 
 # 目录
 * [Redis概述](#Redis概述)
