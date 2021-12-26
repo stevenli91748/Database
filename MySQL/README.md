@@ -174,7 +174,7 @@
 
 **MySQL的主从同步设置是将主机设定为可读写服务器，将从机设定为只读服务器，从机的数据是从主机中同步过来的**
 
-
+* [MySql主从复制，从原理到实践！](http://www.macrozheng.com/#/reference/mysql_master_slave)
 * [可扩展分布式数据库集群的搭建](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k07e323f027707e1cd7dc674)
 * [数据库中间件详解（精品长文）](https://zhuanlan.zhihu.com/p/87144535)
 * [MySQL主从集群搭建](https://juejin.cn/post/6996986472809103391)
@@ -200,6 +200,7 @@
 ## 2c Mysql读写分离
 
 * [数据库中间件详解（精品长文）](https://zhuanlan.zhihu.com/p/87144535)
+* [你还在代码里做读写分离么，试试这个中间件吧！](http://www.macrozheng.com/#/reference/gaea)
 
 [Mysql读写分离](https://www.bilibili.com/video/BV1r4411B7pv/?spm_id_from=333.788.videocard.0)|[基于MyCat实现MySQL读写分离](https://www.bilibili.com/video/BV1BE411e7w3/?spm_id_from=333.788.videocard.0)|[100分钟掌握高可用架构实战MySQL读写分离技术全集](https://www.bilibili.com/video/BV1J4411o7y4/?spm_id_from=333.788.videocard.3)|
 ---|---|---|
