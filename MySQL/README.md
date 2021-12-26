@@ -17,7 +17,7 @@
 
 
 
-[公司用的 MySQL 团队开发规范，太详细了，建议收藏](https://mp.weixin.qq.com/s/Y1OTWxiYrQpihezaiydjcw)|[]()|
+[公司用的 MySQL 团队开发规范，太详细了，建议收藏](https://mp.weixin.qq.com/s/Y1OTWxiYrQpihezaiydjcw)|[LVS+Keepalived实现mysql的负载均衡](https://www.cnblogs.com/tangyanbo/p/4305589.html)|
 ---|---|
 
 [MySQL快速教程：MySQL数据库学习宝典（从入门到精通）](http://c.biancheng.net/mysql/)|[MySQL快速教程：MySQL函数大全，MySQL常用函数汇总](http://c.biancheng.net/mysql/function/)|
