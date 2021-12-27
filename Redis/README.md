@@ -45,6 +45,9 @@
 [SpringBoot 整合 Redis，一篇解决“缓存”的所有问题！](https://www.jianshu.com/p/e4ad2b6bf85f?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weixin-friends)|[Spring Data Redis 最佳实践！](http://www.macrozheng.com/#/reference/spring_data_redis)|
 ---|---|
 
+
+
+
 # 目录
 * [Redis概述](#Redis概述)
 * [Redis优点](#Redis优点)
@@ -157,6 +160,11 @@
     * [Redis分布式锁 （图解-秒懂-史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14731826.html)
     * [Redis分布式锁升级版RedLock及SpringBoot实现 ](https://www.cnblogs.com/Courage129/p/14355562.html)
 * Redis集群
+  * [单机](https://www.kancloud.cn/zlt2000/microservices-platform/997750)  
+  * [主从复制](https://www.kancloud.cn/zlt2000/microservices-platform/997751)
+  * [主从复制+哨兵](https://www.kancloud.cn/zlt2000/microservices-platform/997752)
+  * [cluster集群](https://www.kancloud.cn/zlt2000/microservices-platform/1153447) 
+  * [持久化方案](https://www.kancloud.cn/zlt2000/microservices-platform/997753)
   * [基于Redis5的集群搭建和使用](https://blog.csdn.net/autfish/article/details/89521682)
   * [为什么Redis集群要使用反向代理?](https://www.cnblogs.com/Courage129/p/14351545.html)
   * [Redis集群拆分原则之AKF](https://www.cnblogs.com/Courage129/p/14344151.html)
