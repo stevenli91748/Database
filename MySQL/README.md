@@ -163,6 +163,7 @@
 * [2f MySQL优化](#2f-MySQL优化)
 * [2g MySQL架构设计](#2g-MySQL架构设计)
 * [2h MySQL数据库代理中间件](#2h-MySQL数据库代理中间件)
+* [2i Canal数据库日志解析消费](https://www.kancloud.cn/zlt2000/microservices-platform/1036865)
 
 ## 2g MySQL架构设计
 * [2ga MySQL集群](#2ga-MySQL集群)
