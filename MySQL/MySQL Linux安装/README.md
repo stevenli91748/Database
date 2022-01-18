@@ -66,7 +66,7 @@
 
  1.8 Mysql8开放远程访问
  
-      mysql> create user 'root'@'%' identified by 'root123'; //1、先创建权限记录
+      mysql> create user 'root'@'%' identified by 'Gz@19731108'; //1、先创建权限记录
       mysql> grant all privileges on *.* to 'root'@'%' with grant option; //2、授权
  
  1.9 开放防火墙端口      
@@ -86,5 +86,10 @@
      
      [root] service iptables restart
      
-     
+1.10 使用 navicat 连解数据库
+
+    host:   remote ip address   (example: visual machine ip addreee: 192.168.33.180)
+    port:   3306
+    user:   root
+    paswword:  Gz@19731108
      
