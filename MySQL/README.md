@@ -174,7 +174,7 @@
 ## 2a MySQL主从复制
 
 **MySQL的主从同步设置是将主机设定为可读写服务器，将从机设定为只读服务器，从机的数据是从主机中同步过来的**
-
+* [MySQL 5.7.28 主从复制实现](https://blog.csdn.net/lzb348110175/article/details/103081631)
 * [MySql主从复制，从原理到实践！](http://www.macrozheng.com/#/reference/mysql_master_slave)
 * [可扩展分布式数据库集群的搭建](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k07e323f027707e1cd7dc674)
 * [数据库中间件详解（精品长文）](https://zhuanlan.zhihu.com/p/87144535)
