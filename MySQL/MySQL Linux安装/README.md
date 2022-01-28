@@ -17,7 +17,8 @@
 # 在centos 8上安装MySQL
 
 * [centos8安装mysql8.0.22教程(超详细)](https://blog.csdn.net/qq_39150374/article/details/112471108)
-
+* [Centos7安装MySQL](https://www.cnblogs.com/niceyoo/p/11508919.html)
+ 
 安装步骤如下:
 
   1.1 如果服务器之前安装过mysql请先卸载,我这里是用yum安装的，现在通过yum去卸载
