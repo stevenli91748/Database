@@ -182,6 +182,7 @@
   * [MySql主从复制，从原理到实践！](http://www.macrozheng.com/#/reference/mysql_master_slave)
   * [MySQL主从集群搭建](https://juejin.cn/post/6996986472809103391)
   * [MYSQL 主从同步详解](https://juejin.cn/post/6920477753368117261)
+  * [MySQL主从同步延迟调查](https://zhuanlan.zhihu.com/p/36501637?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
   * [MySQL主从结构](https://www.bilibili.com/video/av61935013?from=search&seid=11244131792888282581)
   * [打造基于Docker的MySQL主从复制](https://www.bilibili.com/video/BV1kp411R7uF)
   * [MySQL主从复制，每秒完成30万订单](https://www.bilibili.com/video/BV1Q4411X7y8)|
@@ -195,8 +196,8 @@
 
 
 
-[MySQL主从同步延迟调查](https://zhuanlan.zhihu.com/p/36501637?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)|
----|
+
+
 
 ## 2b MySQL分库分表
 
