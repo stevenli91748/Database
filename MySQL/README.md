@@ -174,20 +174,23 @@
 ## 2a MySQL主从复制
 
 **MySQL的主从同步设置是将主机设定为可读写服务器，将从机设定为只读服务器，从机的数据是从主机中同步过来的**
-* [MySQL 5.7.28 主从复制实现](https://blog.csdn.net/lzb348110175/article/details/103081631)
-* [MySql主从复制，从原理到实践！](http://www.macrozheng.com/#/reference/mysql_master_slave)
+
 * [可扩展分布式数据库集群的搭建](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k07e323f027707e1cd7dc674)
 * [数据库中间件详解（精品长文）](https://zhuanlan.zhihu.com/p/87144535)
-* [MySQL主从集群搭建](https://juejin.cn/post/6996986472809103391)
-* [MYSQL 主从同步详解](https://juejin.cn/post/6920477753368117261)
-* [主从复制](https://www.kancloud.cn/zlt2000/microservices-platform/997745)
-* [主从切换](https://www.kancloud.cn/zlt2000/microservices-platform/997746)
-* [主主复制](https://www.kancloud.cn/zlt2000/microservices-platform/997747)
-* [高可用方案](https://www.kancloud.cn/zlt2000/microservices-platform/997748)
+* [1 主从复制](https://www.kancloud.cn/zlt2000/microservices-platform/997745)
+  * [MySQL 5.7.28 主从复制实现](https://blog.csdn.net/lzb348110175/article/details/103081631)
+  * [MySql主从复制，从原理到实践！](http://www.macrozheng.com/#/reference/mysql_master_slave)
+  * [MySQL主从集群搭建](https://juejin.cn/post/6996986472809103391)
+  * [MYSQL 主从同步详解](https://juejin.cn/post/6920477753368117261)
+  * [MySQL主从结构](https://www.bilibili.com/video/av61935013?from=search&seid=11244131792888282581)
+  * [打造基于Docker的MySQL主从复制](https://www.bilibili.com/video/BV1kp411R7uF)
+  * [MySQL主从复制，每秒完成30万订单](https://www.bilibili.com/video/BV1Q4411X7y8)|
+* [2 主从切换](https://www.kancloud.cn/zlt2000/microservices-platform/997746)
+* [3 主主复制](https://www.kancloud.cn/zlt2000/microservices-platform/997747)
+* [4 高可用方案](https://www.kancloud.cn/zlt2000/microservices-platform/997748)
 
 
-[MySQL主从结构](https://www.bilibili.com/video/av61935013?from=search&seid=11244131792888282581)|[打造基于Docker的MySQL主从复制](https://www.bilibili.com/video/BV1kp411R7uF)|[MySQL主从复制，每秒完成30万订单](https://www.bilibili.com/video/BV1Q4411X7y8)|
----|---|---|
+
 
 
 
