@@ -304,6 +304,7 @@
 
 
 # 有用的参考
+* [mysql服务端的配置文件到底是哪一个?](https://segmentfault.com/q/1010000039941468)
 * [数据库中间件详解（精品长文）](https://zhuanlan.zhihu.com/p/87144535)
 * [MySQL进阶及优化](https://www.cnblogs.com/Courage129/category/1890813.html)
 * [Mysql双主热备+LVS+Keepalived高可用操作记录](https://cloud.tencent.com/developer/article/1025920?from=article.detail.1026003)
@@ -332,41 +333,4 @@
 * [《深入精通Mysql（八）》系列之十年架构师从架构层面进行Mysql性能优化](https://mp.weixin.qq.com/s/GzrWq-OHHFuxqYQjNesZlA)
 
 
-windows mysql8 安装目录
-
-c:\mysql\mysql server 8.0
-
-connectivity:
-  PROTOCOL: TCP/IP            PORT : 3306         X protocol port : 33060
-  
-  windows service:  MySQL81
-  
-  account 1 : root          
-  password : gz19731108
-
-  account 2 : gzpengli
-  
-  password: gz19731108
-  
-  host: localhost
-   
-登录mysql 
-
-方式一：
-
-c:> cd \mysql\mysql server 8.0\bin
-
-\mysql\mysql server 8.0\bin> mysql --user=root --password=gz19731108
-
-mysql>
-
-
-方式二：
-
-c:> cd \mysql\mysql server 8.0\bin
-
-\mysql\mysql server 8.0\bin> mysql -u root -p
-enter password: 
-
-mysql>
 
