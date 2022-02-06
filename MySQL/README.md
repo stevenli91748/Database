@@ -304,6 +304,7 @@
 
 
 # 有用的参考
+* [MySQL各版本的区别](https://cloud.tencent.com/developer/article/1353360)
 * [mysql服务端的配置文件到底是哪一个?](https://segmentfault.com/q/1010000039941468)
 * [数据库中间件详解（精品长文）](https://zhuanlan.zhihu.com/p/87144535)
 * [MySQL进阶及优化](https://www.cnblogs.com/Courage129/category/1890813.html)
