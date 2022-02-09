@@ -58,6 +58,9 @@
 * [Redis安装与调试](https://weread.qq.com/web/reader/d36322207190b923d368a9akd3d322001ad3d9446802347)
   * [安装和配置基于Docker的Redis环境](https://weread.qq.com/web/reader/f2932520725d0bbff2948bckc7432af0210c74d97b01b1c) 
   * [安装和配置基于linux的Redis集群环境](https://www.kancloud.cn/xiaohuamao/micro/1444701)
+* Springboot 中如何使用Redis
+  * [SpringBoot中如何使用Redis: 用的是单节点的Redis服务](https://mp.weixin.qq.com/s?__biz=MzU1Nzg4NjgyMw==&mid=2247484594&idx=1&sn=bf398a301965d0a0b50e0294dd4d9a96&scene=21#wechat_redirect)
+  * [在SpringBoot中如何使用Redis: 如何使用Redis集群服务](https://mp.weixin.qq.com/s/Vg8WCsyA1arLUoKENoNJQw) 
 * Redis 基础
   * Redis的主要应用场景
     * 缓存（数据查询、短连接、新闻内容、商品内容等）
