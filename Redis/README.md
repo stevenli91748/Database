@@ -46,7 +46,8 @@
 ---|---|
 
 # Redis工具
-* RedisDesktop
+* RedisDesktop(收费)
+* [Github标星 8K+，免费又好用的Redis客户端工具！](http://www.macrozheng.com/#/reference/redis_desktop_start)
 
 
 
