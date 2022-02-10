@@ -166,6 +166,7 @@
     * [Redis分布式锁 （图解-秒懂-史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14731826.html)
     * [Redis分布式锁升级版RedLock及SpringBoot实现 ](https://www.cnblogs.com/Courage129/p/14355562.html)
 * Redis集群
+  * [Redis的集群架构模式](https://www.cnblogs.com/crazymakercircle/p/14282108.html)
   * [单机](https://www.kancloud.cn/zlt2000/microservices-platform/997750)  
   * [主从复制](https://www.kancloud.cn/zlt2000/microservices-platform/997751)
   * [主从复制+哨兵](https://www.kancloud.cn/zlt2000/microservices-platform/997752)
