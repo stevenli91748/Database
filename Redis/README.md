@@ -169,28 +169,26 @@
   * [Redis的集群架构模式](https://www.cnblogs.com/crazymakercircle/p/14282108.html)
     * [Redis集群方案应该怎么做？都有哪些方案](https://blog.51cto.com/u_15127690/4518982) 
     * [Redis集群方案应该怎么做？](https://www.zhihu.com/question/21419897)
-  * [单机](https://www.kancloud.cn/zlt2000/microservices-platform/997750)  
-  * [主从复制](https://www.kancloud.cn/zlt2000/microservices-platform/997751)
-  * [主从复制+哨兵](https://www.kancloud.cn/zlt2000/microservices-platform/997752)
-  * [cluster集群](https://www.kancloud.cn/zlt2000/microservices-platform/1153447) 
-  * [持久化方案](https://www.kancloud.cn/zlt2000/microservices-platform/997753)
-  * [基于Redis5的集群搭建和使用](https://blog.csdn.net/autfish/article/details/89521682)
-  * [为什么Redis集群要使用反向代理?](https://www.cnblogs.com/Courage129/p/14351545.html)
-  * [Redis集群拆分原则之AKF](https://www.cnblogs.com/Courage129/p/14344151.html)
-  * [Redis集群数据没法拆分时的搭建策略](https://www.cnblogs.com/Courage129/p/14350129.html)
   * 高可用集群模式
-    * 主从模式
+    * [主从复制](https://www.kancloud.cn/zlt2000/microservices-platform/997751)
       * [Redis主从复制1 ](https://weread.qq.com/web/reader/d36322207190b923d368a9akeb132680275eb160de1d35c)
       * [Redis主从复制2](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bked332ca0262ed3d2c2191f2)
       * [搭建基于主从复制模式的集群](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck06432b4029e064096632ab8)
-    * sentinel（哨兵）模式
+    * [主从复制+哨兵](https://www.kancloud.cn/zlt2000/microservices-platform/997752)
       * [哨兵和集群](https://weread.qq.com/web/reader/d36322207190b923d368a9ak2023270027b202cb962a56f)
       * [Sentinel](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bka973204026ba97da629bd12)
       * [搭建哨兵模式的集群](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck976327e02a59766527f2a35) 
-    * cluster模式
+    * [cluster集群](https://www.kancloud.cn/zlt2000/microservices-platform/1153447) 
       * [集群](https://weread.qq.com/web/reader/d35323e0597db0d35bd957bk07e323f027707e1cd7dc674) 
       * [搭建cluster集群](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck1ff321e02ac1ff8a7b5d0fc)
   * [redis集群性能监控  ](https://www.kubernetes.org.cn/7616.html)
+  * 其它
+    * [持久化方案](https://www.kancloud.cn/zlt2000/microservices-platform/997753)
+    * [基于Redis5的集群搭建和使用](https://blog.csdn.net/autfish/article/details/89521682)
+    * [为什么Redis集群要使用反向代理?](https://www.cnblogs.com/Courage129/p/14351545.html)
+    * [Redis集群拆分原则之AKF](https://www.cnblogs.com/Courage129/p/14344151.html)
+    * [Redis集群数据没法拆分时的搭建策略](https://www.cnblogs.com/Courage129/p/14350129.html)
+ 
 * Redis整合
   * Java整合MySQL与Redis 
     * [Java通过Jedis读写Redis](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck045323f02b4045117b0eab7)
