@@ -228,6 +228,7 @@
 
 
 # 有用的参考
+* [还在手写CRUD代码？这款开源框架助你解放双手---好用的工具MyBatis-Plus！](http://www.macrozheng.com/#/reference/mybatis_plus_start)
 * [Mybatis要点以及源码](https://www.cnblogs.com/Courage129/category/1894217.html)
 * [java对象：PO/POJO/VO/BO/DAO/DTO分析](https://zhuanlan.zhihu.com/p/42288383)
 * [MyBatis学习总结（一）——ORM概要与MyBatis快速起步](https://www.cnblogs.com/best/p/9711215.html)
