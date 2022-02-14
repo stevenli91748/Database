@@ -22,11 +22,19 @@
 [动态数据源例子---基于springboot的快速集成多数据源的启动器 已付费](https://www.kancloud.cn/tracy5546/dynamic-datasource/2344619)|
 ---|
 
-[精尽 MyBatis 学习指南](http://svip.iocoder.cn/MyBatis/tutorials/)|[MyBatis中文官网---很好](http://www.mybatis.cn/archives/1334.html)|[MyBatis 通用 Mapper4](https://github.com/abel533/Mapper)|[字母哥 / mybatis-plus小书](https://www.kancloud.cn/hanxt/mybatisplus)|[MyBatis-Plus入门](https://www.imooc.com/learn/1130)|
----|---|---|---|---|
+[精尽 MyBatis 学习指南](http://svip.iocoder.cn/MyBatis/tutorials/)|[MyBatis中文官网---很好](http://www.mybatis.cn/archives/1334.html)|[MyBatis 通用 Mapper4](https://github.com/abel533/Mapper)|
+---|---|---|
 
 [Mybatis工作流程及其原理](https://zhuanlan.zhihu.com/p/206887990?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|[持久层框架JPA与Mybatis该如何选型](http://www.zimug.com/java/%e6%8c%81%e4%b9%85%e5%b1%82%e6%a1%86%e6%9e%b6jpa%e4%b8%8emybatis%e8%af%a5%e5%a6%82%e4%bd%95%e9%80%89%e5%9e%8b/.html)|
 ---|---|
+
+
+#　MyBatis-Plus
+
+*　[字母哥 / mybatis-plus小书](https://www.kancloud.cn/hanxt/mybatisplus)
+*　[MyBatis-Plus入门](https://www.imooc.com/learn/1130)
+* [还在手写CRUD代码？这款开源框架助你解放双手---好用的工具MyBatis-Plus！](http://www.macrozheng.com/#/reference/mybatis_plus_start)
+
 
 # MyBatis逆向工程 
 
@@ -228,7 +236,7 @@
 
 
 # 有用的参考
-* [还在手写CRUD代码？这款开源框架助你解放双手---好用的工具MyBatis-Plus！](http://www.macrozheng.com/#/reference/mybatis_plus_start)
+
 * [Mybatis要点以及源码](https://www.cnblogs.com/Courage129/category/1894217.html)
 * [java对象：PO/POJO/VO/BO/DAO/DTO分析](https://zhuanlan.zhihu.com/p/42288383)
 * [MyBatis学习总结（一）——ORM概要与MyBatis快速起步](https://www.cnblogs.com/best/p/9711215.html)
