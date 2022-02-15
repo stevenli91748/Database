@@ -29,7 +29,7 @@
 ---|---|
 
 
-#　MyBatis-Plus
+# MyBatis-Plus
 
 * [字母哥 / mybatis-plus小书](https://www.kancloud.cn/hanxt/mybatisplus)
 * [MyBatis-Plus入门](https://www.imooc.com/learn/1130)
