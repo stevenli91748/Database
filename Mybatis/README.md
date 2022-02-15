@@ -56,7 +56,7 @@
 
 # MyBird
   
-* [MyBird MyBatis通用Mapper和PageHelper的编程步骤](https://mrbird.cc/MyBatis%20common%20Mapper%20PageHelper.html)
+* [MyBatis通用Mapper和PageHelper的编程步骤](https://mrbird.cc/MyBatis%20common%20Mapper%20PageHelper.html)
 * [不同版本的Spring Boot和MyBatis版本对应不一样，具体可查看官方文档](http://www.mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/)|
 * [Spring-Boot中使用Mybatis搭建一个Spring boot + MyBatis + Druid的框架的完整步骤例子](https://mrbird.cc/Spring-Boot%20Mybatis.html)
 * [Spring Boot MyBatis配置Druid多数据源](https://mrbird.cc/Spring-Boot-MyBatis%20Druid.html)
