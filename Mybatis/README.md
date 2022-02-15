@@ -31,8 +31,8 @@
 
 #　MyBatis-Plus
 
-*　[字母哥 / mybatis-plus小书](https://www.kancloud.cn/hanxt/mybatisplus)
-*　[MyBatis-Plus入门](https://www.imooc.com/learn/1130)
+* [字母哥 / mybatis-plus小书](https://www.kancloud.cn/hanxt/mybatisplus)
+* [MyBatis-Plus入门](https://www.imooc.com/learn/1130)
 * [还在手写CRUD代码？这款开源框架助你解放双手---好用的工具MyBatis-Plus！](http://www.macrozheng.com/#/reference/mybatis_plus_start)
 
 
