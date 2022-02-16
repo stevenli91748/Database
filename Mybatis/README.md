@@ -236,6 +236,7 @@
 
 
 # 有用的参考
+* [解放双手！MyBatis官方代码生成工具给力！---MyBatis官方代码生成器MyBatis Generator](http://www.macrozheng.com/#/reference/mybatis_generator_start)
 * [还在手写CRUD代码？这款开源框架助你解放双手---Mybatis plus](http://www.macrozheng.com/#/reference/mybatis_plus_start)
 * [Mybatis要点以及源码](https://www.cnblogs.com/Courage129/category/1894217.html)
 * [java对象：PO/POJO/VO/BO/DAO/DTO分析](https://zhuanlan.zhihu.com/p/42288383)
