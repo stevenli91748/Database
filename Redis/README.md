@@ -305,6 +305,7 @@
 
 
 # 有用的参考
+* [互联网公司使用 Redis 的16个应用场景](https://mp.weixin.qq.com/s/uHUqDWj1IcZ8jgzZP-lI2A)
 * [Redisson实现分布式锁原理](https://www.jianshu.com/p/bb6d69720c5c)
 * [redis网络波动，Jedis/Lettuce是阻塞还是失败？](https://www.jianshu.com/p/3278d521d0ae)
 * [Memcached与Redis对比及其优劣分析](https://www.cnblogs.com/Courage129/p/14331520.html)
