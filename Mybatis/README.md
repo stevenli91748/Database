@@ -87,7 +87,7 @@
 
 * 0. 配置MyBatis
   * XML方式配置
-  * Java 编码方式配置
+  * Java 编码方式配置---不常用
   * Spring bean 方式 配置
 * [1. API 接口层，暴露给开发者使用](#1-API接口层)
   * MyBatis核心对象 
