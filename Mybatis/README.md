@@ -85,15 +85,19 @@
 [精尽 MyBatis 源码分析 —— 调试环境搭建](http://svip.iocoder.cn/MyBatis/build-debugging-environment/)|[精尽 MyBatis 源码分析 —— 项目结构一览](http://svip.iocoder.cn/MyBatis/intro/)|
 ---|---|
 
-* [1. API 接口层，暴露给开发者使用](#API接口层)
+* 0. 配置MyBatis
+  * XML方式配置
+  * Java 编码方式配置
+  * Spring bean 方式 配置
+* [1. API 接口层，暴露给开发者使用](#1-API接口层)
   * MyBatis核心对象 
-* [2. 核心处理层，实现 MyBatis 内部流程](#核心处理层)
-* [3. 基础模块层，提供通用的模块功能，例如缓存、反射等等功能](#基础模块层)
+* [2. 核心处理层，实现 MyBatis 内部流程](#2-核心处理层)
+* [3. 基础模块层，提供通用的模块功能，例如缓存、反射等等功能](#3-基础模块层)
 
-## API接口层
+## 1 API接口层
 * [精尽 MyBatis 源码分析 —— 会话 SqlSession](http://svip.iocoder.cn/MyBatis/session/)
 
-## 核心处理层
+## 2 核心处理层
    * [配置初始化](#配置初始化)
    * [SQL 初始化](#SQL初始化)
    * [SQL 执行](#SQL执行)
@@ -140,7 +144,7 @@
   * [精尽 MyBatis 源码解析 —— 插件体系（二）之 PageHelper](http://svip.iocoder.cn/MyBatis/plugin-2/)
 
 
-## 基础模块层
+## 3 基础模块层
  
 * [精尽 MyBatis 源码解析 —— 解析器模块](http://svip.iocoder.cn/MyBatis/parsing-package/)
 * [精尽 MyBatis 源码解析 —— 反射模块](http://svip.iocoder.cn/MyBatis/reflection-package/)
