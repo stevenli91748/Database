@@ -244,6 +244,7 @@
 * [数据库迁移搞炸了！没用这款开源神器的锅？](http://www.macrozheng.com/#/reference/flyway_start)
 * [干掉mapper.xml！MyBatis新特性动态SQL真香！](http://www.macrozheng.com/#/reference/mybatis_dynamic_sql)
 * [解放双手！MyBatis官方代码生成工具给力！---MyBatis官方代码生成器MyBatis Generator](http://www.macrozheng.com/#/reference/mybatis_generator_start)
+* [MyBatis Generator使用过程中踩过的一个坑](http://www.macrozheng.com/#/technology/mybatis_mapper)
 * [还在手写CRUD代码？这款开源框架助你解放双手---Mybatis plus](http://www.macrozheng.com/#/reference/mybatis_plus_start)
 * [Mybatis要点以及源码](https://www.cnblogs.com/Courage129/category/1894217.html)
 * [java对象：PO/POJO/VO/BO/DAO/DTO分析](https://zhuanlan.zhihu.com/p/42288383)
