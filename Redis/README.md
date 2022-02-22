@@ -203,6 +203,9 @@
     * [在Redis里调用lua脚本](https://weread.qq.com/web/reader/f2932520725d0bbff2948bcke16324302e9e16542111f82) 
     * [Redis整合lua高级实战](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck335324c02f0335f53520195)
     * [Redis整合lua脚本的实例分析](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck3ce32bb02f73cec07e9b4d2)
+  * Spring Data Redis Stream
+    * [Spring Data Redis Stream的使用](https://www.jianshu.com/p/b33a96624d36) 
+    * [Redis Stream类型的使用](https://www.jianshu.com/p/9aa6c5697bed)
   * Redis与Spring Boot的整合应用        
     * [在Spring Boot框架里引入Redis](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck03c326002fc03c6b0695ff2) 
     * [Spring Boot框架整合Redis哨兵集群](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck502328f03102502e4a161e2)
