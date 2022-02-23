@@ -70,7 +70,7 @@
 * [MyBatis Guide](https://mrbird.cc/MyBatis-Guide.html)
 
 # 实验例子程序
- 
+  * [可以清楚看到springboot 如何集合Mybatis的例子](https://github.com/ZHENFENG13/spring-boot-projects/tree/main/SpringBoot%E5%85%A5%E9%97%A8%E6%A1%88%E4%BE%8B%E6%BA%90%E7%A0%81/spring-boot-RESTful-api)
  * 
 
 
