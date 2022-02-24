@@ -71,7 +71,7 @@
 
 # 实验例子程序
   * [可以清楚看到springboot 如何集合Mybatis的例子](https://github.com/ZHENFENG13/spring-boot-projects/tree/main/SpringBoot%E5%85%A5%E9%97%A8%E6%A1%88%E4%BE%8B%E6%BA%90%E7%A0%81/spring-boot-RESTful-api)
- * 
+  * [Spring Boot + MyBatis CRUD +  Database Example using MyBatis annotations style for configuration to map Java POJOs to a database.](https://www.javaguides.net/2019/08/spring-boot-mybatis-crud-h2-database-example.html)
 
 
 
@@ -108,58 +108,6 @@
    * [插件体系](#插件体系)
 
 ## [在Spring Boot中结合Mybatis](https://github.com/stevenli91748/Database/blob/master/Mybatis/%E5%9C%A8Spring%20Boot%E4%B8%AD%E7%BB%93%E5%90%88Mybatis/README.md)
-
-
-### 配置初始化
-
-   * [精尽 MyBatis 源码解析 —— MyBatis 初始化（一）之加载 mybatis-config.md](http://svip.iocoder.cn/MyBatis/builder-package-1/)
-   * [精尽 MyBatis 源码解析 —— MyBatis 初始化（二）之加载 Mapper 映射配置文件](http://svip.iocoder.cn/MyBatis/builder-package-2/)
-   * [精尽 MyBatis 源码解析 —— MyBatis 初始化（三）之加载 Statement 配置](http://svip.iocoder.cn/MyBatis/builder-package-3/)
-   * [精尽 MyBatis 源码解析 —— MyBatis 初始化（四）之加载注解配置](http://svip.iocoder.cn/MyBatis/builder-package-4/)
-
-### SQL初始化
-
-   * [精尽 MyBatis 源码解析 —— SQL 初始化（上）之 SqlNode](http://svip.iocoder.cn/MyBatis/scripting-1/)
-   * [精尽 MyBatis 源码解析 —— SQL 初始化（下）之 SqlSource](http://svip.iocoder.cn/MyBatis/scripting-2/)
-### SQL执行
-
-   * [精尽 MyBatis 源码解析 —— SQL 执行（一）之 Executor.md](http://svip.iocoder.cn/MyBatis/executor-1/)
-
-### 参数设置
-
-   * [精尽 MyBatis 源码解析 —— SQL 执行（二）之 StatementHandler](http://svip.iocoder.cn/MyBatis/executor-2/)
-### 主键生成
-
-   * [精尽 MyBatis 源码解析 —— SQL 执行（三）之 KeyGenerator](http://svip.iocoder.cn/MyBatis/executor-3/)
-### 结果集映射
-
-   * [精尽 MyBatis 源码解析 —— SQL 执行（四）之 ResultSetHandler](http://svip.iocoder.cn/MyBatis/executor-4/)
-### 延迟加载
-
-   * [精尽 MyBatis 源码解析 —— SQL 执行（五）之 延迟加载](http://svip.iocoder.cn/MyBatis/executor-5/)
-
-### 插件体系
-
-  * [精尽 MyBatis 源码解析 —— 插件体系（一）之原理](http://svip.iocoder.cn/MyBatis/plugin-1/)
-  * [精尽 MyBatis 源码解析 —— 插件体系（二）之 PageHelper](http://svip.iocoder.cn/MyBatis/plugin-2/)
-
-
-## 3 基础模块层
- 
-* [精尽 MyBatis 源码解析 —— 解析器模块](http://svip.iocoder.cn/MyBatis/parsing-package/)
-* [精尽 MyBatis 源码解析 —— 反射模块](http://svip.iocoder.cn/MyBatis/reflection-package/)
-* [精尽 MyBatis 源码解析 —— 异常模块](http://svip.iocoder.cn/MyBatis/exception-package/)
-* [精尽 MyBatis 源码解析 —— 数据源模块](http://svip.iocoder.cn/MyBatis/datasource-package/)
-* [精尽 MyBatis 源码解析 —— 事务模块](http://svip.iocoder.cn/MyBatis/transaction-package/)
-* [精尽 MyBatis 源码解析 —— 缓存模块](http://svip.iocoder.cn/MyBatis/cache-package/)
-* [精尽 MyBatis 源码解析 —— 类型模块](http://svip.iocoder.cn/MyBatis/type-package/)
-* [精尽 MyBatis 源码解析 —— IO 模块](http://svip.iocoder.cn/MyBatis/io-package/)
-* [精尽 MyBatis 源码解析 —— 日志模块](http://svip.iocoder.cn/MyBatis/logging-package/)
-* [精尽 MyBatis 源码解析 —— 注解模块](http://svip.iocoder.cn/MyBatis/annotations-package/)
-* [精尽 MyBatis 源码解析 —— Binding 模块](http://svip.iocoder.cn/MyBatis/binding-package/)
-
-
-
 
 ---
 
