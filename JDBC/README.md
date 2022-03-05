@@ -1,7 +1,7 @@
 
 
-[Spring JDBC教程](https://www.yiibai.com/springjdbc)|
----|
+[Spring JDBC教程](https://www.yiibai.com/springjdbc)|[JDBC Tutorial example](https://www.javaguides.net/p/jdbc-tutorial.html)|
+---|---|
 
 
 # JDBC 视频
