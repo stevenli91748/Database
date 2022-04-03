@@ -13,7 +13,7 @@
 * [MySQL技术内幕： SQL 编程](https://weread.qq.com/web/reader/46d32a3059335d46d02eba6)
 * [MySQL技术内幕：InnoDB存储引擎（第2版）](https://weread.qq.com/web/reader/611329b059346e611427f1c)
 * [深入浅出MySQL: 数据库开发，优化与管理维护 （第2版）](https://weread.qq.com/web/reader/f3e327e05b25c1f3e6d5ee2)
-
+* [MySQL程序员面试笔试宝典](https://weread.qq.com/web/reader/c2c32f7071f18924c2c7bff)
 
 
 
