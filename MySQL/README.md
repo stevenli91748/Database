@@ -178,6 +178,7 @@
 * [可扩展分布式数据库集群的搭建](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714k07e323f027707e1cd7dc674)
 * [数据库中间件详解（精品长文）](https://zhuanlan.zhihu.com/p/87144535)
 * [1 主从复制](https://www.kancloud.cn/zlt2000/microservices-platform/997745)
+  * [MySQL主从复制](https://weread.qq.com/web/reader/6ba32c40726e7c066bad7edka5732aa0226a5771bce9dc4) 
   * [看完这篇还不懂 MySQL 主从复制](https://juejin.cn/post/6967224081410162696)
   * [MySQL 5.7.28 主从复制实现](https://blog.csdn.net/lzb348110175/article/details/103081631)
   * [MySql主从复制，从原理到实践！](http://www.macrozheng.com/#/reference/mysql_master_slave)
@@ -202,7 +203,7 @@
 
 
 ## 2b MySQL分库分表
-
+* [MySQL分库分表：MyCAT](https://weread.qq.com/web/reader/6ba32c40726e7c066bad7edk17e328b022b17e62166fad4)
 * [数据库中间件详解（精品长文）](https://zhuanlan.zhihu.com/p/87144535)
 * [如何实现多数据源读写分离？这是我看过最详细的一篇！！](https://zhuanlan.zhihu.com/p/309314866)
 * [数据库之分库分表](https://www.kancloud.cn/zlt2000/microservices-platform/1015740)
