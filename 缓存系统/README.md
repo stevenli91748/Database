@@ -10,7 +10,10 @@
   * [CDN caching]
     * [全局负载均衡与CDN网络简介](https://blog.csdn.net/u010340143/article/details/9062213)
   * [Web server caching ]
-  * [Database caching]
+  * Database caching
+    * [堆内缓存解决方案：Java堆内缓存与Guava Cache](https://weread.qq.com/web/reader/6ba32c40726e7c066bad7edk9a132c802349a1158154a83) 
+    * [堆外缓存与磁盘缓存解决方案：MapDB](https://weread.qq.com/web/reader/6ba32c40726e7c066bad7edk9f6326602389f61408e3715)
+    * 
   * [Application caching]
     * [亿级流量客户端缓存之Http缓存与本地缓存对比 ](https://www.cnblogs.com/Courage129/p/14419192.html)
     * 客户端缓存分为Http缓存和本地缓存
