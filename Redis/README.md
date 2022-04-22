@@ -160,6 +160,7 @@
     * [查看Redis服务器的详细信息](https://weread.qq.com/web/reader/f2932520725d0bbff2948bckf4b32ef025ef4b9ec30acd6) 
     * [查看并修改服务器的常用配置](https://weread.qq.com/web/reader/f2932520725d0bbff2948bck697324802676974ce5aceab)
 * [分布式方案](#分布式方案)
+  * [基于Redis的分布式锁解决方案：Redisson](https://weread.qq.com/web/reader/6ba32c40726e7c066bad7edk7f33291023d7f39f8317e0b) 
   * [从0开始打造自己的  RedisSession  ---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/12038208.html)
   * [Redis集群 - 图解 - 秒懂（史上最全)---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14698576.html) 
   * [Redis与DB的数据一致性解决方案（史上最全）---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14853622.html)
