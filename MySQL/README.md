@@ -17,7 +17,7 @@
 
 # MySQL认证
 * [51CTO 风哥 MySQL认证 + Oracle认证 ](https://edu.51cto.com/topic/2785.html)
-* [风哥](http://www.itpux.com/)
+* [风哥Oracle/MySQL/NoSQL/数据库/大数据培训教程中心](http://www.itpux.com/)
 
 
 [公司用的 MySQL 团队开发规范，太详细了，建议收藏](https://mp.weixin.qq.com/s/Y1OTWxiYrQpihezaiydjcw)|[LVS+Keepalived实现mysql的负载均衡](https://www.cnblogs.com/tangyanbo/p/4305589.html)|
