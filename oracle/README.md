@@ -5,6 +5,9 @@
 * [Oracle 12c从入门到精通](https://weread.qq.com/web/reader/bbf328207170d829bbf62bb)
 
 
+# Oracle认证
+* [51CTO 风哥 MySQL认证 + Oracle认证 ](https://edu.51cto.com/topic/2785.html)
+* [风哥Oracle/MySQL/NoSQL/数据库/大数据培训教程中心---51CTO数据库教学总监-Oracle原厂授权讲师](http://www.itpux.com/)
 
 ---
 
