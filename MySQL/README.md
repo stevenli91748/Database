@@ -15,6 +15,9 @@
 * [深入浅出MySQL: 数据库开发，优化与管理维护 （第2版）](https://weread.qq.com/web/reader/f3e327e05b25c1f3e6d5ee2)
 * [MySQL程序员面试笔试宝典](https://weread.qq.com/web/reader/c2c32f7071f18924c2c7bff)
 
+# MySQL认证
+* [51CTO 风哥 MySQL认证 + Oracle认证 ](https://edu.51cto.com/topic/2785.html)
+* [风哥](http://www.itpux.com/)
 
 
 [公司用的 MySQL 团队开发规范，太详细了，建议收藏](https://mp.weixin.qq.com/s/Y1OTWxiYrQpihezaiydjcw)|[LVS+Keepalived实现mysql的负载均衡](https://www.cnblogs.com/tangyanbo/p/4305589.html)|
