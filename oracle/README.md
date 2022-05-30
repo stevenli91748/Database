@@ -34,7 +34,7 @@
 * [Database Quick Installation Guide](https://docs.oracle.com/cd/E11882_01/install.112/e24326/toc.htm)
 
  ## OCP
- 
+ * [Oracle Certification Paths in Oracle University](https://education.oracle.com/oracle-certification-paths-all)
  * [Oracle OCP 051 sql部分](https://www.bilibili.com/video/av49403322/?spm_id_from=333.788.videocard.0)
  * [Oracle OCP 052 体系结构部分](https://www.bilibili.com/video/av48867092/?spm_id_from=333.788.videocard.7)
  * [Oracle OCP 053部分 备份恢复，数据库优化](https://www.bilibili.com/video/av49403769/?spm_id_from=333.788.videocard.0)
