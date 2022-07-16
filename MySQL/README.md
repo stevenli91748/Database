@@ -43,6 +43,8 @@
 
 * [我们讲解如何通过代码调用MySQL的备份还原命令实现系统备份还原的功能](https://weread.qq.com/web/reader/9593218071950312959b681kea532350240ea5d2f1c4357)
 
+**MySQL知识总结
+主要从六个方面进行总结：MySQL基础模块、MySQL索引模块、MySQL事务模块、MySQL日志模块、MySQL日志篇、MySQL性能优化模块**
 
 # 目录
   * [1. MySQL基础部分](#1-MySQL基础部分)
