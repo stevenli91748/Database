@@ -185,6 +185,15 @@
 
 
 # 有用的参考
+* [MyBatis从入门到精通—MyBatis基础知识和快速入门 ](https://blog.51cto.com/zhanjq/5462635)
+* [MyBatis从入门到精通—MyBatis的Dao实现和配置文件深入](https://blog.51cto.com/zhanjq/5466605)
+* [MyBatis从入门到精通—MyBatis多表查询和注解开发](https://blog.51cto.com/zhanjq/5470260)
+* [MyBatis从入门到精通—MyBatis缓存和二级缓存整合Redis](https://blog.51cto.com/zhanjq/5474314)
+* [MyBatis从入门到精通—MyBatis插件原理探究和自定义插件实现](https://blog.51cto.com/zhanjq/5477394)
+* [MyBatis从入门到精通—MyBatis架构原理](https://blog.51cto.com/zhanjq/5478539)
+* [MyBatis从入门到精通—源码剖析之Configuration、SqlSession、Executor、StatementHandler细节 ](https://blog.51cto.com/zhanjq/5478541)
+* [MyBatis从入门到精通—源码剖析之Mapper代理方式细节](https://blog.51cto.com/zhanjq/5479833)
+* [MyBatis从入门到精通—源码剖析之二级缓存细节](https://blog.51cto.com/zhanjq/5479834)
 
 * [数据库迁移搞炸了！没用这款开源神器的锅？](http://www.macrozheng.com/#/reference/flyway_start)
 * [干掉mapper.xml！MyBatis新特性动态SQL真香！](http://www.macrozheng.com/#/reference/mybatis_dynamic_sql)
