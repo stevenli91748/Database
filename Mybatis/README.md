@@ -44,7 +44,7 @@
 
 
 # MyBatis-Plus
-
+* [MyBatisPlus又在搞事了！发布神器，一个依赖轻松搞定权限问题](https://mp.weixin.qq.com/s/nhC7vK81gdQHbSR29P2wrA)
 * [字母哥 / mybatis-plus小书](https://www.kancloud.cn/hanxt/mybatisplus)
 * [MyBatis-Plus入门](https://www.imooc.com/learn/1130)
 * [还在手写CRUD代码？这款开源框架助你解放双手---好用的工具MyBatis-Plus！](http://www.macrozheng.com/#/reference/mybatis_plus_start)
