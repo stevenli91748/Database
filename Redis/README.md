@@ -17,8 +17,8 @@
 * [Spring 实战开发（Redis + SpringDataJPA + SpringMVC + SpringSecurity）](https://weread.qq.com/web/reader/64532fc071c96a44645204f)
 ---
 
-[Redis数据库学习教程（快速入门版）](http://c.biancheng.net/redis/)|[Redis常用命令手册](http://c.biancheng.net/redis_command/)|
----|---|
+[Redis数据库学习教程（快速入门版）](http://c.biancheng.net/redis/)|[Redis常用命令手册](http://c.biancheng.net/redis_command/)|[Redis+Guava，性能炸裂](https://mp.weixin.qq.com/s/Wo4n0lLZ8SqDxp-C5fslGQ)|
+---|---|---|
 
 
 [精尽 Redis 学习指南](http://svip.iocoder.cn/Redis/tutorials/)|[中华石杉---100讲带你实战基于Redis的高并发预约抢购系统](https://apppukyptrl1086.pc.xiaoe-tech.com/detail/p_6017ef53e4b035d3cdb58eac/6)|
