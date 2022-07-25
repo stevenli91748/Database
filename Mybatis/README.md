@@ -18,7 +18,7 @@
 * [MyBatis从入门到精通—源码剖析之Configuration、SqlSession、Executor、StatementHandler细节 ](https://blog.51cto.com/zhanjq/5478541)
 * [MyBatis从入门到精通—源码剖析之Mapper代理方式细节](https://blog.51cto.com/zhanjq/5479833)
 * [MyBatis从入门到精通—源码剖析之二级缓存细节](https://blog.51cto.com/zhanjq/5479834)
-
+* [MyBatisPlus的join联表查询！](https://mp.weixin.qq.com/s/FfxBJAKP98gDcgwbRUZCIQ)
 
 
 # 博客
