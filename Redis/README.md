@@ -3,6 +3,7 @@
 
 
 # 在线书籍
+* [大数据高并发Redis一本通](https://weread.qq.com/web/reader/f2032c2072792dd3f200695)
 * [大数据高并发 Redis一本通](https://weread.qq.com/web/reader/f2032c2072792dd3f200695)
 * [Redis入门指南（第3版）](https://weread.qq.com/web/reader/0a732f7072769fb50a7fd3a)
 * [Redis深度历险：核心原理与应用实践](https://weread.qq.com/web/reader/35a32f20811e3d80fg013e40kc81322c012c81e728d9d180)
