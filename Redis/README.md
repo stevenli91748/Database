@@ -18,6 +18,9 @@
 * [Spring 实战开发（Redis + SpringDataJPA + SpringMVC + SpringSecurity）](https://weread.qq.com/web/reader/64532fc071c96a44645204f)
 ---
 
+[【70集 2022年】Redis与SpringBoot一线互联网高并发实战](https://space.bilibili.com/428423484)|
+----|
+
 [Redis数据库学习教程（快速入门版）](http://c.biancheng.net/redis/)|[Redis常用命令手册](http://c.biancheng.net/redis_command/)|[Redis+Guava，性能炸裂](https://mp.weixin.qq.com/s/Wo4n0lLZ8SqDxp-C5fslGQ)|
 ---|---|---|
 
