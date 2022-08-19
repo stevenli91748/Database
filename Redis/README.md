@@ -19,10 +19,12 @@
 
 # 视频
 *[【70集 2022年】Redis与SpringBoot一线互联网高并发实战](https://space.bilibili.com/428423484)
-
+* [各种Redis的实战项目讲解---曾担任阿里技术专家（淘宝聚划算架构设计者），精于JVM、TCP 、亿级并发性能调优](https://space.bilibili.com/428423484/dynamic)
+* []()
+* []()
 ---
 
-
+# 博客
 [Redis数据库学习教程（快速入门版）](http://c.biancheng.net/redis/)|[Redis常用命令手册](http://c.biancheng.net/redis_command/)|[Redis+Guava，性能炸裂](https://mp.weixin.qq.com/s/Wo4n0lLZ8SqDxp-C5fslGQ)|
 ---|---|---|
 
