@@ -16,10 +16,12 @@
 * [java高并发核心编程 (卷2): 多线程，锁，JMM,JUC,高并发设计模式](https://weread.qq.com/web/reader/9b93254072456ac19b9a176)
 * [Netty、Redis、Zookeeper高并发实战------讲Netty 最好的书 是学分布式和并发的必备图书](https://weread.qq.com/web/reader/1e732510718f63a11e7dee2)
 * [Spring 实战开发（Redis + SpringDataJPA + SpringMVC + SpringSecurity）](https://weread.qq.com/web/reader/64532fc071c96a44645204f)
+
+# 视频
+*[【70集 2022年】Redis与SpringBoot一线互联网高并发实战](https://space.bilibili.com/428423484)
+
 ---
 
-[【70集 2022年】Redis与SpringBoot一线互联网高并发实战](https://space.bilibili.com/428423484)|
-----|
 
 [Redis数据库学习教程（快速入门版）](http://c.biancheng.net/redis/)|[Redis常用命令手册](http://c.biancheng.net/redis_command/)|[Redis+Guava，性能炸裂](https://mp.weixin.qq.com/s/Wo4n0lLZ8SqDxp-C5fslGQ)|
 ---|---|---|
