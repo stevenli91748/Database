@@ -8,6 +8,10 @@
 HikariCP|Druid|
 ---|---|
 
+[HikariCP 数据库连接池，太快了！](https://mp.weixin.qq.com/s/LHA7eHn5M0e_2p-w2w-7-g)|
+---|
+
+
 # 参考
 
 * [数据库连接池原理介绍+常用连接池介绍](https://www.jianshu.com/p/0f58804b3dea)
