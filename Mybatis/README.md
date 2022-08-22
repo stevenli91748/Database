@@ -29,6 +29,9 @@
 [MyBatisPlus+ShardingSphereJDBC进行读写分离，以及利用MySQL进行一主一从的主从复制](https://mp.weixin.qq.com/s/hqY_bIBizdxMKwF_LCLJhg)|
 ---|
 
+[MyBatis-Plus联表查询的短板，终于有一款工具补齐了](https://mp.weixin.qq.com/s/IOWlaCwlTbYtPdAnvqbxkA)|
+---|
+
 [Mybatis框架快速入门教程](http://c.biancheng.net/mybatis/)|[Mybatis官方网战](https://mybatis.org/mybatis-3/zh/configuration.html)|
 ---|---|
 
