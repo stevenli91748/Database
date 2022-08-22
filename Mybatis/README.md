@@ -44,6 +44,7 @@
 
 
 # MyBatis-Plus
+* [我的Mybatis-Plus用法，被全公司同事开始悄悄模仿了！](https://mp.weixin.qq.com/s/f9JWxr5Lza9MN0aWlM8tAQ)
 * [MyBatisPlus又在搞事了！发布神器，一个依赖轻松搞定权限问题](https://mp.weixin.qq.com/s/nhC7vK81gdQHbSR29P2wrA)
 * [字母哥 / mybatis-plus小书](https://www.kancloud.cn/hanxt/mybatisplus)
 * [MyBatis-Plus入门](https://www.imooc.com/learn/1130)
