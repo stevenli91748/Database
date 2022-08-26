@@ -3,6 +3,11 @@
 [MySQL数据库面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104778621)|[数据库常见面试题(开发者篇)](https://juejin.im/post/6844903569632526343)|
 ---|---|
 
+[面试官：为什么数据库连接很消耗资源，资源都消耗在哪里？](https://mp.weixin.qq.com/s/tDTmubKxekZ3khLfXegfhQ)|
+---|
+
+
+
 1.MySql的存储引擎的不同
 
 2.单个索引、联合索引、主键索引
