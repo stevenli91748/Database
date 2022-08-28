@@ -318,6 +318,7 @@
 
 
 # 有用的参考
+* [SpringBoot中搭建Redis缓存](https://developer.aliyun.com/article/582977?spm=a2c6h.13262185.profile.356.4e463ceeEAqu1W)
 * [互联网公司使用 Redis 的16个应用场景](https://mp.weixin.qq.com/s/uHUqDWj1IcZ8jgzZP-lI2A)
 * [Redisson实现分布式锁原理](https://www.jianshu.com/p/bb6d69720c5c)
 * [redis网络波动，Jedis/Lettuce是阻塞还是失败？](https://www.jianshu.com/p/3278d521d0ae)
