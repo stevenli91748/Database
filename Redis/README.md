@@ -21,7 +21,7 @@
 * [【70集 2022年】Redis与SpringBoot一线互联网高并发实战](https://space.bilibili.com/428423484)
 * [各种Redis的实战项目讲解---曾担任阿里技术专家（淘宝聚划算架构设计者），精于JVM、TCP 、亿级并发性能调优](https://space.bilibili.com/428423484/dynamic)
 * [Redis架构师系列----阿里技术专家（淘宝聚划算架构设计者）](https://space.bilibili.com/428423484/channel/seriesdetail?sid=1897488)
-* []()
+* [知乎播放量最多的Redis课程《Redis一线互联网实战》共200集---Redis与SpringBoot互联网实战](https://study.163.com/series/1202877601.htm?share=1&shareId=1028852228)
 ---
 
 # 博客
