@@ -18,9 +18,9 @@
 * [Spring 实战开发（Redis + SpringDataJPA + SpringMVC + SpringSecurity）](https://weread.qq.com/web/reader/64532fc071c96a44645204f)
 
 # 视频
-*[【70集 2022年】Redis与SpringBoot一线互联网高并发实战](https://space.bilibili.com/428423484)
+* [【70集 2022年】Redis与SpringBoot一线互联网高并发实战](https://space.bilibili.com/428423484)
 * [各种Redis的实战项目讲解---曾担任阿里技术专家（淘宝聚划算架构设计者），精于JVM、TCP 、亿级并发性能调优](https://space.bilibili.com/428423484/dynamic)
-* []()
+* [Redis架构师系列----阿里技术专家（淘宝聚划算架构设计者）](https://space.bilibili.com/428423484/channel/seriesdetail?sid=1897488)
 * []()
 ---
 
