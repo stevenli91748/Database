@@ -289,7 +289,7 @@
 * Navicat
   * [Navicat实用功能：数据备份与结构同步](http://www.macrozheng.com/#/reference/navicat)
 　* [Navicat数据库设计工具](http://www.macrozheng.com/#/reference/navicat_designer)
-
+  * [8 款免费的 MySQL 数据库建模工具](https://www.modb.pro/db/111994)
 
 # 5 MySQL事务
 
