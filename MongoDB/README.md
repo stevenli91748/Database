@@ -7,8 +7,8 @@
 ---
 
 
-[精尽 MongoDB 学习指南](http://svip.iocoder.cn/MongoDB/tutorials/)|[MongoDB快速教程](http://c.biancheng.net/mongodb2/)|
----|---|
+[精尽 MongoDB 学习指南](http://svip.iocoder.cn/MongoDB/tutorials/)|[MongoDB快速教程](http://c.biancheng.net/mongodb2/)|[MongoDB高手课](https://www.youtube.com/playlist?list=PLo0iJFLQIBEZnfgvxhmtdb7Zb1eK_wzb-)|[深入浅出MongoDB](https://www.youtube.com/playlist?list=PLo0iJFLQIBEZlUEQ0HwzHmKFYg9JqqndA)|
+---|---|---|---|
 
 
 # 目录
