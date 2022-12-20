@@ -35,7 +35,7 @@
 [Redis linux系统安装](https://github.com/stevenli91748/Database/blob/master/Redis/Redis%20linux系统安装/README.md)|[Redis Docker系统安装](https://github.com/stevenli91748/Engineering-special/blob/master/Docker/在Docker安装Redis/README.md)|[Redis 的完整安装过程](https://www.chensongxia.cn/265.html)|[redis集群搭建](https://www.kancloud.cn/suixiaofeng/linux/873408)|
 ---|---|---|---|
 
-[深入RedisCluster](https://www.youtube.com/playlist?list=PLo0iJFLQIBEbViOHo2VgXYHHjmB7rJFm2)|
+[幕课网---深入RedisCluster](https://www.youtube.com/playlist?list=PLo0iJFLQIBEbViOHo2VgXYHHjmB7rJFm2)|
 ---|
 
 
