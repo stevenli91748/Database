@@ -2,7 +2,7 @@
 
 
 # Database 在线实验
-* [ 在线实验室 https://www.db-fiddle.com/]([https://www.db-fiddle.com/](https://www.db-fiddle.com/f/3JSpBxVgcqL3W2AzfRNCyq/1))
+* [ 在线实验室 https://www.db-fiddle.com/](https://www.db-fiddle.com/f/3JSpBxVgcqL3W2AzfRNCyq/1)
 
 ---
 
