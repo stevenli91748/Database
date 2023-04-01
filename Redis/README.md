@@ -25,6 +25,10 @@
 ---
 
 # 博客
+
+[Redis 命令参考](http://doc.redisfans.com/)|
+---|
+
 [Redis数据库学习教程（快速入门版）](http://c.biancheng.net/redis/)|[Redis常用命令手册](http://c.biancheng.net/redis_command/)|[Redis+Guava，性能炸裂](https://mp.weixin.qq.com/s/Wo4n0lLZ8SqDxp-C5fslGQ)|
 ---|---|---|
 
