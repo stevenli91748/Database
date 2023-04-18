@@ -9,6 +9,10 @@
 [芋道源码---数据库实体设计](http://svip.iocoder.cn/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E4%BD%93%E8%AE%BE%E8%AE%A1/)|[数据库设计](https://www.cnblogs.com/zping/category/147365.html)|[数据库架构设计的三种模式：share nothing , share everythong , share disk](https://www.cnblogs.com/kzwrcom/p/6397709.html)|
 ---|---|---|
 
+[冷门又重要的6个技巧，高并发数据库优化，架构师一定要掌握](https://www.youtube.com/watch?v=EzjgJNK-csc)|
+---|
+
+
  [微服务手册：分库分表从分析到实践，不再停留只会说分库分表](https://www.toutiao.com/a6897352881528177164/?log_from=94599671e8ca6_1630132174661)|[redis的7种类型100个方法全解析](https://www.toutiao.com/a6833638765508952588/?log_from=30b1b82b18ef6_1630173323928)|
  ---|---|
 
