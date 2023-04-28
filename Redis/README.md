@@ -26,8 +26,8 @@
 
 # 博客
 
-[Redis 命令参考](http://doc.redisfans.com/)|[Redis分布式锁这一篇应该是讲的最好的了，先收藏起来再看！](https://segmentfault.com/a/1190000038439299?utm_source=sf-similar-article)|
----|---|
+[Redis 命令参考](http://doc.redisfans.com/)|[Redis分布式锁这一篇应该是讲的最好的了，先收藏起来再看！](https://segmentfault.com/a/1190000038439299?utm_source=sf-similar-article)|[史上最全，大厂们的那些Redis集群方案](https://mp.weixin.qq.com/s/9Xmth9p0dQ8CXZK34TK3_g)|
+---|---|---|
 
 [Redis数据库学习教程（快速入门版）](http://c.biancheng.net/redis/)|[Redis常用命令手册](http://c.biancheng.net/redis_command/)|[Redis+Guava，性能炸裂](https://mp.weixin.qq.com/s/Wo4n0lLZ8SqDxp-C5fslGQ)|
 ---|---|---|
