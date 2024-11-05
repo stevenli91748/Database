@@ -49,6 +49,7 @@
 
 # 目录
   * [1. MySQL基础部分](#1-MySQL基础部分)
+    * [史上最完整的MySql运行原理](https://www.bilibili.com/video/BV1iv4y1S7nj?spm_id_from=333.788.recommend_more_video.1&vd_source=be3ac4894f8bf7883ae92030f6f7be46) 
     * [MySQL三大范式](https://weread.qq.com/web/reader/bd032100721bc56bbd056ffk9bf32f301f9bf31c7ff0a60) 
     * [MySQL存储引擎---不同的存储引擎提供的存储机制、索引的存放方式和锁粒度等不同](https://weread.qq.com/web/reader/bd032100721bc56bbd056ffkc7432af0210c74d97b01b1c)
     * [SQL执行流程](https://weread.qq.com/web/reader/bd032100721bc56bbd056ffk65132ca01b6512bd43d90e3) 
